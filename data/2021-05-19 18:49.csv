@@ -1,0 +1,382 @@
+name,address,Availability_availability_of_beds,Availability_oxygen_beds,Availability_non_oxygen_beds,Availability_i_c_u_beds,Availability_ventilators,Allocated_oxygen_beds,Allocated_non_oxygen_beds,Allocated_i_c_u,Allocated_ventilators,Availability_availability_of_oxygen,Availability_antiviral_remdesivir_etc_,Availability_steroids,Availability_anticoagulant,Availability_antipyretic,updated_on,city
+Anchal Multispeciality Hospital,"Anchal Multi speciality Hospital, Krishna Colony, Bhiwani, Haryana 127027",Yes (11),10,0,1,1,25,0,9,2,Yes,Yes,Yes,Yes,Yes,2021-05-19 20:13,2
+Ch. Bansilal Govt Hospital,"Bansi Lal General Hospital, Ghanta Ghar Chowk, SH 17, Krishna Colony, Bhiwani, Haryana 127021",Yes (56),33,20,3,1,146,34,46,9,Yes,Yes,Yes,Yes,Yes,2021-05-19 20:27,2
+Chugh Hospital,"Meham Gate, Circular Road, Bhiwani",No (0),0,0,0,0,20,0,0,0,Yes,Yes,Yes,Yes,Yes,2021-05-19 10:52,2
+ESI Hospital Bhiwani,"Stadium Rd, Housing Board Colony, Bhiwani, Haryana 127021",Yes (40),0,40,0,0,0,40,0,0,No,No,Yes,Yes,Yes,2021-05-19 20:27,2
+Ganpatrai Hospital,"SH 17, Bank Colony, Bound Kalan, Krishna Colony, Bhiwani, Haryana 127021",Yes (10),4,4,2,1,4,4,2,1,Yes,No,Yes,Yes,Yes,2021-05-19 20:27,2
+Jangra Multispecilaity Hospital,"Bank Colony, Old Bharat Nagar, Bhiwani, Haryana 127021",Yes (5),3,2,0,0,7,3,0,0,Yes,No,Yes,Yes,Yes,2021-05-19 20:27,2
+Kadam Hospital,"Bank Colony Near New Bus Stand, Bhiwani",Yes (4),4,0,0,0,11,0,34,1,Yes,Yes,Yes,Yes,Yes,2021-05-19 20:13,2
+Krishan Lal Jalan Hospital,"Jalan Nagar, M.C.Colony, Bhiwani, Haryana 127021",Yes (40),20,20,0,0,20,20,0,0,Yes,Yes,Yes,Yes,Yes,2021-05-19 20:27,2
+Life Line Hospital,"Circular Rd, M.C.Colony, Bhiwani, Haryana 127021",Yes (11),5,0,6,0,21,0,6,0,Yes,Yes,Yes,Yes,Yes,2021-05-19 10:47,2
+RPS HOSPITAL,,Yes (22),3,16,3,0,4,16,4,0,Yes,No,Yes,Yes,Yes,2021-05-19 10:50,2
+Shree Ganesha Hospital,"Dadri Gate, Bhiwani",Yes (6),3,3,0,0,6,3,4,0,Yes,Yes,Yes,Yes,Yes,2021-05-19 10:52,2
+"SHRI BABA YOGI NETANATH HOSPITAL , LOHANI ,BHIWANI",VPO Lohani,Yes (28),20,5,3,2,35,5,10,2,Yes,Yes,Yes,Yes,Yes,2021-05-19 20:27,2
+SMSG Multispeciality Hospital,"Rohtak Gate, Bhiwani",Yes (24),2,17,5,2,2,17,11,2,Yes,Yes,Yes,Yes,Yes,2021-05-19 10:51,2
+Spes Hospital,"Circular Rd, Bound Kalan, M.C.Colony, Bhiwani, Haryana 127021",Yes (13),4,3,6,1,7,3,12,1,Yes,Yes,Yes,Yes,Yes,2021-05-19 10:48,2
+DCHC Barara,,Yes (41),41,0,0,0,50,0,0,0,To Be Updated,To Be Updated,To Be Updated,To Be Updated,To Be Updated,2021-05-19 09:58,1
+DCHC Mullana,,Yes (27),27,0,0,0,50,0,0,0,To Be Updated,To Be Updated,To Be Updated,To Be Updated,To Be Updated,2021-05-19 09:58,1
+District Civil Hospital,Ambala City,Yes (43),34,0,9,7,116,0,23,11,Yes,Yes,Yes,Yes,Yes,2021-05-19 09:55,1
+District Civil Hospital Ambala Cantt,Ambala Cantt,Yes (4),0,0,4,3,80,0,13,7,Yes,Yes,Yes,Yes,Yes,2021-05-19 09:55,1
+Guardian Hospital,AMBALA JAGADHARI ROAD AMBALA CANTT,Yes (5),4,1,0,2,15,3,2,3,Yes,Yes,Yes,Yes,Yes,2021-05-19 09:57,1
+Ishwar Hospital,,Yes (5),5,0,0,0,16,0,0,0,Yes,Yes,Yes,Yes,Yes,2021-05-19 09:58,1
+Kuldeep Hospital,,Yes (2),1,0,1,0,8,0,2,0,To Be Updated,To Be Updated,To Be Updated,To Be Updated,To Be Updated,2021-05-19 09:58,1
+Mehndiratta Hospital,"#106, manali house, near central jail,  ambala city",Yes (10),10,0,0,0,25,0,4,1,Yes,No,Yes,Yes,Yes,2021-05-19 09:57,1
+Military Hospital,Ambala Cantonment,Yes (65),5,60,0,1,60,85,0,15,To Be Updated,To Be Updated,To Be Updated,To Be Updated,To Be Updated,2021-05-19 09:55,1
+MM Medical College Pvt,MMIMSR Mullana Ambala,Yes (131),68,63,0,0,116,70,14,10,Yes,Yes,Yes,Yes,Yes,2021-05-19 09:55,1
+MMU Mullana,Mullana,No (0),0,0,0,0,0,0,0,0,To Be Updated,To Be Updated,To Be Updated,To Be Updated,To Be Updated,2021-05-17 19:46,1
+Park Healing Touch Hospital,"Sultanpur Chowk, Nr Dhulkot Barrier, Ambala Chandigarh Expy. Ambala",No (0),0,0,0,0,30,0,10,10,Yes,Yes,Yes,Yes,Yes,2021-05-19 09:56,1
+Philedelphia mission Hospital pvt,"Mission Compound, Ambala City",Yes (24),23,0,1,2,92,0,6,2,Yes,No,Yes,Yes,Yes,2021-05-19 09:53,1
+Railways Hospital,"Railway Hospital, railway colony,  Ambala Cantt",Yes (3),3,0,0,0,30,0,5,0,Yes,No,Yes,Yes,Yes,2021-05-19 09:56,1
+Rotary Hospital Ambala cantt Pvt,"Rambagh road, Opp Dusshera ground, Ambala Cantt",Yes (4),4,0,0,0,15,0,3,2,Yes,No,Yes,Yes,Yes,2021-05-19 09:54,1
+Sant Hospital,,Yes (1),1,0,0,0,10,0,2,1,To Be Updated,To Be Updated,To Be Updated,To Be Updated,To Be Updated,2021-05-19 09:57,1
+SDH Naraingarh,,Yes (37),37,0,0,0,50,0,0,0,To Be Updated,To Be Updated,To Be Updated,To Be Updated,To Be Updated,2021-05-19 09:56,1
+Yafe Indoor Hospital,,Yes (4),2,2,0,0,9,6,0,0,To Be Updated,To Be Updated,To Be Updated,To Be Updated,To Be Updated,2021-05-19 09:59,1
+Adiyogi Arogya Avenue,"232, Subhash Nagar, Near civil hospital back gate, Jhajjar",Yes (10),7,2,1,1,7,2,6,1,To Be Updated,To Be Updated,Yes,Yes,Yes,2021-05-19 20:26,8
+"Advanta Hospital, Jhajjar city","Silani Gate, Jhajjar, Haryana",Yes (38),24,10,4,1,24,10,16,1,Yes,To Be Updated,Yes,To Be Updated,Yes,2021-05-19 16:50,8
+"Brahm Shakti Sanjivani Hospital, B.garh","Opp. BSNL Exchange, Delhi - Rohtak Road, NH9, Bahadurgarh, Haryana",Yes (46),32,13,1,2,60,20,20,3,Yes,No,Yes,Yes,Yes,2021-05-19 12:15,8
+Civil Hospital Jhajjar,"Jhajjar, NH-71, Jhajjar Rohtak Road, Jhajjar, Jhajjar, Haryana",Yes (22),22,0,0,0,53,0,0,0,Yes,To Be Updated,Yes,To Be Updated,Yes,2021-05-19 11:22,8
+"Delhi Hospital, Bahadurgarh","Rohtak Rd, near Shyamji Complex, Ram Nagar, Bahadurgarh, Haryana",Yes (30),10,20,0,0,20,20,10,2,Yes,No,Yes,Yes,Yes,2021-05-19 12:25,8
+Dr. Sanjay Multi Speciality Hospital,INFRONT OF CIVIL HOSPITAL BAHADURGARH,Yes (40),31,6,3,0,45,10,6,1,Yes,No,No,To Be Updated,To Be Updated,2021-05-19 11:16,8
+"Jeewan Jyoti Hospital, Bahadurgarh","Rohtak Rd, MIE Part-B, Bahadurgarh, Haryana",Yes (119),51,68,0,4,77,68,15,4,Yes,To Be Updated,To Be Updated,To Be Updated,To Be Updated,2021-05-19 11:26,8
+"JK Hospital, Bahadurgarh","Bahadurgarh,, Bahamnoli, Bahadurgarh, Haryana",Yes (39),2,31,6,0,5,31,8,0,Yes,To Be Updated,Yes,Yes,Yes,2021-05-19 11:19,8
+"Medicare Super Speciality Hospiatl &amp; Trauma Centre, Jhajjar City","Dadri road Jhajjar, Jhajjar, Haryana",Yes (37),12,23,2,3,15,23,12,3,Yes,To Be Updated,Yes,To Be Updated,Yes,2021-05-19 15:54,8
+"Mission Hospital, Bahadurgarh","Near main Bus Stand & City Metro Station, Rohtak Rd, Bahadurgarh, Jhajjar ,Haryana",Yes (30),8,17,5,0,14,29,6,1,To Be Updated,No,Yes,Yes,No,2021-05-19 10:12,8
+"Oscar Hospital, JJR city","Civil Road,Opp Civil Hospital, Jhajjar, Haryana",Yes (66),6,58,2,1,8,58,14,1,To Be Updated,To Be Updated,To Be Updated,To Be Updated,To Be Updated,2021-05-19 14:32,8
+Oxymus Hospital,"Opposite Civil Hospital, Near Metro Pollar No. 876 Delhi Rohtak Road, Bahadurgarh",Yes (7),4,0,3,0,4,0,6,0,Yes,No,No,No,No,2021-05-19 16:37,8
+"Rana Hospital, Bahadurgarh","OPP. REST HOUSE,OLD BARAHI ROAD, BAHADURGARH",Yes (25),18,0,7,2,18,0,7,2,To Be Updated,To Be Updated,No,No,Yes,2021-05-19 18:38,8
+"RJ Super Speciality Hospital, B.garh","Delhi - Rohtak Rd, Near Rajesh Joon Office, Dalbir Nagar, Bahadurgarh, Haryana",Yes (53),39,10,4,0,60,10,10,3,Yes,No,Yes,Yes,Yes,2021-05-19 17:10,8
+RS GAUR GLOBAL MULTISPECIALITY HOSPITAL,"Jhajjar Road Netaji Subhash Vihar, Haryana",Yes (19),12,4,3,2,19,7,7,2,Yes,No,Yes,Yes,Yes,2021-05-19 18:14,8
+"SDH, Bahadurgarh","Madhya Marg, Old Industrial Area, Bahadurgarh, Haryana",Yes (23),23,0,0,0,35,0,0,0,Yes,Yes,Yes,No,Yes,2021-05-19 11:29,8
+"Shivam Hospital, B.garh","Line Par, Shastri Nagar, Netaji Nagar, Bahadurgarh, Haryana",Yes (33),24,7,2,0,30,15,6,1,Yes,No,Yes,Yes,Yes,2021-05-19 18:32,8
+"Swastik Hospital, Bahadurgarh","Jhajjar Rd, Shakti Nagar, Sakti Nagar, Bahadurgarh, Haryana",Yes (10),4,6,0,1,26,14,10,2,Yes,No,Yes,Yes,Yes,2021-05-19 12:15,8
+World College Of Medical Sciences And Hospital,"Jhajjar Sampla Road, Gurwar, Jhajjar, Haryana",Yes (216),76,135,5,3,90,135,25,4,Yes,Yes,Yes,Yes,Yes,2021-05-19 17:44,8
+Apollo Rewari/Family Health Edge Hospital,"Garhi Bolni Rd, near Public Health Office, krishna Nagar, Rewari, Haryana",Yes (5),5,0,0,0,9,3,0,0,Yes,No,Yes,Yes,Yes,2021-05-19 17:57,18
+Capt. Nand Lal Hospital,"Circular Road near Government Girls Senior Secondary School naiwali, chowk, Rewari",Yes (20),6,10,4,1,11,10,8,1,Yes,No,Yes,Yes,Yes,2021-05-15 23:54,18
+Civil Hospital rewari,"Kayasthwara Mohalla, Rewari, Haryana",Yes (30),14,16,0,0,40,16,8,4,Yes,Yes,Yes,Yes,Yes,2021-05-19 20:31,18
+Cygnus Hospital Rewari,"Opposite Civil Hospital Mohola, Sanghi Ka Bass, Rewari, Haryana",Yes (3),Beds Over Utilized 7,Beds Over Utilized 1,3,0,15,0,9,2,Yes,No,Yes,No,Yes,2021-05-19 10:23,18
+Devjyoti Hospital,"Ambedkar chowk, near Bus Stand, Rewari, Haryana",Yes (1),1,0,0,Beds Over Utilized 1,7,2,5,1,Yes,No,Yes,Yes,Yes,2021-05-19 19:07,18
+Dr. K.K. NAGAR HOSPITAL,"317, Near Shishu Shala School, Model Town, Rewari, Haryana",Yes (6),3,0,3,1,3,0,10,1,Yes,No,Yes,Yes,Yes,2021-05-19 14:05,18
+Dr. Vijay Pal Yadav Hospital,"Near Ambedker chowk, Rewari",Yes (8),3,3,2,0,3,3,4,0,Yes,No,Yes,Yes,Yes,2021-05-19 12:01,18
+Kamla Nursing Home/Kalawati Hospital,"201, Model Town, Rewari, Near Bus Stand, Opposite Bal Bhawan, Shivam Chowk",No (0),Beds Over Utilized 10,0,Beds Over Utilized 2,3,5,0,5,6,Yes,No,Yes,Yes,Yes,2021-05-19 12:36,18
+Katyal Hospital,"Katyal Hospital, KANOD GATE, CIRCULAR ROAD, Rewari, Haryana, India",Yes (5),3,1,1,0,12,6,10,1,Yes,No,Yes,Yes,Yes,2021-05-19 13:57,18
+Maars Hospital,"Garhi Bolni Rd, near PWD Office, Sector 19, Rewari, Haryana",No (0),Beds Over Utilized 2,0,0,0,11,0,0,0,Yes,No,Yes,Yes,No,2021-05-19 18:53,18
+Matrika Hospital,"Matrika Hospital, Ranbir Singh Huda Chowk, Bawal-Rewari Rd, Rewari, Haryana",Yes (1),1,0,0,0,16,0,14,3,Yes,No,No,Yes,Yes,2021-05-19 12:32,18
+Mediom Hospital/Medcare Hospital,"Sohna Rd, near Municipal Corporation, Dharuhera, Haryana",Yes (4),3,Beds Over Utilized 1,1,0,8,0,4,1,Yes,No,Yes,Yes,Yes,2021-05-19 12:37,18
+Om Hospital,"Om Hospital, Nandrampur Bass Rd, Dharuhera, Haryana",Yes (16),7,4,5,0,12,4,8,0,Yes,No,Yes,Yes,Yes,2021-05-19 12:37,18
+Pushpanjli Hospital Rewari,"Rajesh Pilot Chowk, Rewari, Haryana",No (0),0,0,0,0,25,10,10,3,No,No,Yes,Yes,Yes,2021-05-13 20:04,18
+R. B. Yadav Hospital,"Dr. R B Yadav Hospital, Circular Rd Jainpuri, Kayasthwara Mohalla, Rewari, Haryana",Yes (14),7,5,2,2,8,6,8,2,Yes,No,Yes,Yes,Yes,2021-05-19 18:27,18
+Samrat Hospital,Near Azad Chowk Rewari,Yes (4),4,0,0,1,5,0,10,1,Yes,No,Yes,Yes,Yes,2021-05-19 12:38,18
+SDH Kosli,"Kosli, Rewari, Haryana",Yes (25),0,25,0,0,20,25,0,0,Yes,No,No,No,No,2021-05-19 16:09,18
+Shanti Yadav Hospital,"Bawal-Rewari Rd Model Town, Rewari, Haryana",Yes (15),6,9,0,0,19,10,4,0,Yes,No,Yes,No,No,2021-05-18 09:39,18
+Shri Ashwani Sexena Hospital,"343-L, Model town Rewari",Yes (8),5,3,0,0,7,3,0,0,Yes,No,Yes,Yes,Yes,2021-05-19 16:39,18
+SMCC Hospital,"Sector 5 Rewari, Haryana",Yes (4),2,0,2,0,2,0,11,1,Yes,Yes,Yes,Yes,Yes,2021-05-19 22:04,18
+"Sushma Devi Hospital, Bawal","Rewari Road, Bawal, Rewari, Near Power House & Bharat Petrol Pump",Yes (14),7,7,0,0,9,9,0,0,Yes,No,Yes,Yes,Yes,2021-05-19 18:00,18
+Vedanta Hospital,"Circulare Road, Near Nirankari Satsang Bhavan Dharuhera, Chungi, Rewari, Haryana",No (0),Beds Over Utilized 11,Beds Over Utilized 4,0,Beds Over Utilized 4,13,0,0,0,Yes,No,Yes,Yes,Yes,2021-05-10 17:25,18
+Virat Hospital,"Circular Rd, Near Oriental Bank of Commerce, Madhu Vihar, Rewari, Haryana",No (0),Beds Over Utilized 5,Beds Over Utilized 2,0,Beds Over Utilized 1,33,0,27,2,Yes,No,Yes,Yes,Yes,2021-05-19 08:58,18
+Yaduvanshi Hospital,"Maharana Pratap Chowk, Model Town, Rewari, Haryana",Yes (8),8,0,0,0,15,0,4,0,Yes,No,Yes,Yes,No,2021-05-19 09:49,18
+ASHIRWAD BHAGAT HOSPITAL,"Old DC Rd, near bhagat hospital, Sonipat, Haryana 131001",No (0),0,0,0,0,12,0,3,1,Yes,Yes,Yes,Yes,Yes,2021-05-19 17:36,21
+Bhagwan Dass Hospital,"Near Shahpur Turk, block-E, omaxe city, Sector 18, Sonipat, Haryana 131001",Yes (28),19,0,9,2,27,0,13,2,Yes,No,Yes,Yes,Yes,2021-05-19 19:53,21
+"BPS MEDICAL COLLEGE KHANPUR , SONIPAT ( 01263283088)","Ganaur - Gohana Rd, Khanpur Kalan, Haryana",Yes (120),43,75,2,2,170,80,50,50,Yes,Yes,Yes,Yes,Yes,2021-05-19 08:05,21
+CHC GANUR,CHC GANUR,Yes (2),2,0,0,0,8,0,0,0,Yes,No,Yes,No,Yes,2021-05-19 14:25,21
+CHC Kharkhoda,"SH 20, Kharkhoda, Haryana 131402",Yes (10),5,5,0,0,5,5,0,0,To Be Updated,To Be Updated,Yes,Yes,Yes,2021-05-12 20:29,21
+"CHC, JUAN, SONIPAT, HARYANA","CHC, JUAN, SONIPAT, HARYANACHC, JUAN, SONIPAT, HARYANA, 131024",Yes (5),3,2,0,0,3,2,0,0,Yes,No,Yes,Yes,Yes,2021-05-12 20:53,21
+"Civil Hospital, Sonipat (9050007668 )","Delhi Road, Near Maharana Pratap Chowk, Sonipat, Haryana 131001",Yes (40),40,0,0,9,190,0,10,10,Yes,Yes,Yes,Yes,Yes,2021-05-19 12:23,21
+"CYGNUS HOSPITAL, Sonipat","Old Rohtak Rd, near Hindu College of Engineering, Industrial Area, Sonipat, Haryana 131001",Yes (13),13,0,0,1,18,0,2,1,Yes,No,Yes,Yes,Yes,2021-05-19 20:00,21
+Dayanand Hospital-Sonepat,"Kakroi Rd, Prem Nagar, West Ram Nagar, Sonipat, Haryana",Yes (14),11,0,3,0,20,0,5,1,Yes,No,Yes,Yes,Yes,2021-05-19 09:51,21
+FIIMS Hospital,"Road, Bahalgarh, Sonipat, Haryana 131304",Yes (39),25,0,14,0,63,0,37,8,Yes,No,Yes,Yes,Yes,2021-05-19 18:17,21
+GAJRAJ HOSPITAL,"Bus Stand, Gajraj Hospital Road, Near, Gohana, Haryana 131301",Yes (20),20,0,0,0,20,0,0,0,Yes,To Be Updated,Yes,Yes,Yes,2021-05-11 15:44,21
+HARYANA HOSPITAL,"Vivekanand Chowk, Delhi Rd, behind Bullet Showroom, Janta Colony, Sonipat, Haryana 131001",Yes (13),3,0,10,1,7,0,18,4,Yes,No,No,No,Yes,2021-05-19 18:00,21
+MEMORIAL HOSPITAL,"SH 11, near Mama Bhanja Chowk, Nandwani Nagar, Anand Nagar,, Sonipat, Haryana 131001",No (0),0,0,0,2,16,0,4,2,Yes,No,Yes,Yes,Yes,2021-05-19 16:18,21
+NIDAAN HOSPITAL PVT.,"Murthal Rd, Sonipat, Haryana 131001",No (0),0,0,0,0,22,0,3,1,Yes,No,Yes,Yes,Yes,2021-05-19 16:54,21
+OSCAR HOSPITAL,"SH 11, Lakshmi Nagar, Sonipat, Haryana 131001",Yes (1),1,0,0,2,12,0,8,2,Yes,No,Yes,Yes,Yes,2021-05-19 16:14,21
+PHC PURKHAS,"Purkhas, Haryana 131102",Yes (30),0,30,0,0,0,30,0,0,To Be Updated,To Be Updated,To Be Updated,To Be Updated,To Be Updated,2021-05-12 20:55,21
+"SANJIVNI HOSPITAL, SONIPAT","Mehlana Rd, Malviya Nagar, Sonipat, Haryana 131304",Yes (12),12,0,0,0,14,0,1,1,Yes,No,Yes,Yes,Yes,2021-05-19 17:07,21
+SAXSENA HOSPITAL,"112/113, T.P. Scheme, Delhi Rd, Sonipat, Haryana 131304",Yes (10),10,0,0,2,18,0,5,2,Yes,No,Yes,Yes,Yes,2021-05-19 18:37,21
+SDH GOHANA,"Devi Nagar, Uttam Nagar, Gohana, Haryana 131301",Yes (10),10,0,0,0,10,0,0,0,Yes,Yes,Yes,Yes,Yes,2021-05-12 20:27,21
+SITA HOSPITAL SONIPAT,"Railway Rd, Ganaur, Haryana 131101",Yes (14),14,0,0,0,20,0,0,0,Yes,No,Yes,Yes,Yes,2021-05-19 12:19,21
+SUNHERI DEVI HOSPITAL,"Mission Rd, Dev Nagar, Sonipat, Haryana 131001",Yes (7),3,0,4,0,15,0,5,1,Yes,No,Yes,Yes,Yes,2021-05-19 13:14,21
+TULIP HOSPITAL,"T. P. Scheme, no.15, Delhi Rd, Vivekanand chowk, Sonipat, Haryana 131001",No (0),0,0,0,2,0,0,20,5,Yes,No,Yes,Yes,Yes,2021-05-19 21:34,21
+AAROGYA MULTI-SPECIALITY HOSPITAL Gurugam,"Hayatpur, Pataudi Road, Sec-94, Gurugram-122505 (HR)",Yes (6),3,0,3,0,4,0,4,0,To Be Updated,To Be Updated,To Be Updated,To Be Updated,To Be Updated,2021-05-13 12:28,6
+"Aarogyam Hospital, Gurugram","Ward Number 15, Gurgaon, SH-13, Gurgaon Sohna Road, Sohna, Sohna, Haryana",No (0),0,0,0,0,16,0,3,1,To Be Updated,To Be Updated,To Be Updated,To Be Updated,To Be Updated,2021-05-13 03:06,6
+Aarvy Healthcare Pvt Ltd,"Sector 90, Gurgaon",Yes (33),20,0,13,3,45,0,25,15,Yes,Yes,Yes,Yes,Yes,2021-05-19 11:08,6
+Aarvy Hospital,"530/18 Civil Lines Opp Nehru Stadium, Gurugram",Yes (9),2,0,7,0,22,0,25,15,To Be Updated,To Be Updated,To Be Updated,To Be Updated,To Be Updated,2021-05-15 12:36,6
+Alfaa Hospital,"Basai Village, Sector 9B, Gurugram, Haryana",Yes (9),5,4,0,0,8,4,3,0,Yes,Yes,Yes,Yes,Yes,2021-05-19 07:24,6
+Anand multispeciality hospital,"Plot no. 29, Sector 56, Gurugram, Haryana",Yes (8),6,0,2,0,6,0,3,1,Yes,No,Yes,Yes,Yes,2021-05-19 14:13,6
+Apollo Cradle,"SCO - 1, 2 & 3, Sector 14, Old Gurugram Road, Gurugram 122001",No (0),0,0,0,0,5,0,0,0,To Be Updated,To Be Updated,To Be Updated,To Be Updated,To Be Updated,2021-05-13 10:38,6
+Artemis Hospital,"Sector 51, Gurugram",Yes (46),46,0,0,0,146,0,45,30,Yes,Yes,Yes,Yes,Yes,2021-05-19 21:47,6
+Aryan Hospital Gurugram,Old Railway Road Gurugram,Yes (20),17,0,3,0,43,0,17,4,Yes,Yes,Yes,Yes,Yes,2021-05-19 10:33,6
+Ayushman Hospital,"Hero Honda Chowk, 37 Km, NH 8, Gurugram, Haryana",Yes (8),4,0,4,2,5,0,5,2,Yes,To Be Updated,Yes,Yes,Yes,2021-05-19 11:39,6
+Bhanot Hospital,"188/18, Jharsa Rd, Gurugram, Haryana",Yes (4),4,0,0,0,5,0,0,0,Yes,No,Yes,Yes,Yes,2021-05-19 15:50,6
+Boston Hospital,Plot no 7 sector 38 beside medanta hospital,No (0),0,0,0,0,7,0,0,0,To Be Updated,To Be Updated,To Be Updated,To Be Updated,To Be Updated,2021-05-13 10:42,6
+C K Birla Hospital,"Block J, CK Birla Hospital, Mayfield Garden, Sector 51, Gurugram",Yes (9),9,0,0,0,13,0,3,2,Yes,Yes,Yes,Yes,Yes,2021-05-19 17:02,6
+Center of Diabetes &amp; Allied Science,"50, Sohna Rd, Rosewood City, Ghasola, Sector 49, Gurugram, Haryana 122001",Yes (7),5,0,2,1,15,0,8,1,To Be Updated,To Be Updated,To Be Updated,To Be Updated,To Be Updated,2021-05-19 17:17,6
+Chauhan hospital,Tauru road near chungi no 4 pataudi,Yes (6),4,0,2,0,7,0,3,0,Yes,No,Yes,Yes,Yes,2021-05-19 11:33,6
+Chetanya hospital,"Bajgera road,rajendra park ggn",Yes (6),4,Beds Over Utilized 2,2,1,4,0,4,1,No,No,To Be Updated,Yes,Yes,2021-05-15 13:25,6
+Chetna Multispeciality Hospital,"Plot no. 713, Basai Chowk,, Gurugram, Haryana - 122001",Yes (18),15,0,3,0,15,0,3,0,No,No,Yes,Yes,Yes,2021-05-14 17:01,6
+Chirag Hospital,"3236/31 Rajendra Park, Sector 105, Gurugram, Haryana",Yes (13),6,7,0,Beds Over Utilized 2,15,7,7,0,No,No,To Be Updated,To Be Updated,To Be Updated,2021-05-17 10:28,6
+Civil Hospital gurugram,"Sector 10A,Gurugram",Yes (16),15,0,1,1,43,0,4,4,Yes,Yes,Yes,Yes,Yes,2021-05-19 16:42,6
+Cloudnine Hospital,"Plot No. A-2 MSJ House, Vikas Marg, beside SS Plaza, Mayfield Garden, Sector 47, Gurugram",Yes (10),0,10,0,0,4,14,0,0,Yes,No,Yes,No,Yes,2021-05-19 16:20,6
+Colombia Asia Hospital,"Ansal Plaza Near Gol Chakkar, Block F, Palam Vihar, Gurugram",No (0),0,0,0,0,43,0,6,6,Yes,No,Yes,Yes,Yes,2021-05-19 16:52,6
+Composite Hospital NSG,Composite Hospital NSG campus Manesar,Yes (25),25,0,0,0,40,0,0,0,To Be Updated,To Be Updated,To Be Updated,To Be Updated,To Be Updated,2021-05-13 11:22,6
+Dev Hospital,Rajendra park Near Union bank  gurgaon,Yes (8),7,0,1,0,8,0,4,0,Yes,To Be Updated,To Be Updated,To Be Updated,To Be Updated,2021-05-19 14:55,6
+Ektaa hospital,"Main Sohna Road ,Near Community Centre ,Badshahpur, Gurugram, Haryana",Yes (1),1,0,0,0,6,0,0,0,Yes,No,Yes,Yes,Yes,2021-05-13 12:25,6
+ESI Hospital Gurugram,"769, Near Mothers Pride School, sector 9A, Gurugram, Haryana",Yes (51),19,32,0,0,40,32,0,0,Yes,Yes,Yes,Yes,Yes,2021-05-19 16:53,6
+ESIC Manesar,"esic hospital manesar,  sector-3.  plot no-41",Yes (15),15,0,0,0,20,0,0,0,To Be Updated,To Be Updated,To Be Updated,To Be Updated,To Be Updated,2021-05-13 10:47,6
+Fortis Hospital,"Opposite Huda City Metro Station, Sector 44, Gurugram",No (0),0,0,0,0,125,15,60,25,Yes,Yes,Yes,Yes,Yes,2021-05-18 14:01,6
+"Geetanjali Hospital, Gurugram","Pataudi Rd, Pataudi, Haryana",Yes (15),9,0,6,0,10,0,8,0,Yes,No,Yes,Yes,Yes,2021-05-13 12:24,6
+Genesis Hospital,"sector 84, near Dps school, Gurugram, Haryana",Yes (11),5,0,6,1,5,0,7,2,Yes,Yes,Yes,Yes,Yes,2021-05-19 14:50,6
+Global Hospital,Atul kathariya road near seetala mata mandir Gurgaon Haryana,Yes (17),13,0,4,3,15,0,4,3,Yes,To Be Updated,Yes,Yes,Yes,2021-05-18 19:00,6
+Global Hospital &amp; Trauma Centre Pataudi,"Opp Bus Stand, Haily Mandi Road, Pataudi, Gurgaon",No (0),0,0,0,0,3,0,0,0,To Be Updated,To Be Updated,To Be Updated,To Be Updated,To Be Updated,2021-05-13 10:49,6
+HIGHWAY HOSPITAL AND TRAUMA CENTRE,"HALDIRAM CHOWK, N.H-8 KHERKI DAULA GURGAON H.R",Yes (6),2,0,4,0,2,0,4,0,Yes,No,Yes,Yes,Yes,2021-05-19 15:23,6
+IAS Medicare Hoapital Gurugram,"IAS Medicare Hospital, Near Anaj Mandi, Khandsa road, Gurgaon, Haryana - 122001",Yes (7),5,0,2,1,20,0,10,5,To Be Updated,To Be Updated,To Be Updated,To Be Updated,To Be Updated,2021-05-13 10:51,6
+Jai Sai Ram Hospital Gurugram,"T-262, Opposite Church, 40 Feet Road, New Palam Vihar, Phase -II, Gurugram, Haryana",Yes (12),9,0,3,0,10,0,3,0,To Be Updated,To Be Updated,To Be Updated,Yes,To Be Updated,2021-05-19 10:51,6
+Jain Hospital Gurugram,1499P sector 46 Gurgaon Haryana 122002,Yes (3),3,0,0,0,12,0,0,0,Yes,Yes,Yes,Yes,Yes,2021-05-19 10:24,6
+K.K Health Care Centre,"238, Sector 5, Gurugram, Haryana",Yes (10),4,6,0,0,4,6,0,0,Yes,No,Yes,Yes,Yes,2021-05-19 08:50,6
+Kailash Hospital Gurugram,"Farruknagar,opp Anaj mandi Farruknagar. District- Gurugram.",Yes (4),3,0,1,0,10,0,5,0,To Be Updated,To Be Updated,To Be Updated,To Be Updated,To Be Updated,2021-05-13 10:54,6
+Kalyani Hospital,"Mehrauli-Gurgaon Rd, Anamika Enclave, Sector 14, Gurugram",Yes (6),6,0,0,0,30,0,1,1,Yes,Yes,Yes,Yes,Yes,2021-05-16 11:47,6
+Kamal hospital and maternity centre,"Sector 66-68, Sohna Road, Badshahpur, Gurugram, Haryana",Yes (4),3,0,1,0,5,0,6,1,Yes,No,Yes,Yes,Yes,2021-05-19 17:12,6
+Kamla Hospital,"Pataudi Road NEAR RADHA SWAMI SATSANG BHAVAN, Kadipur Industrial Area, Sector 37C, Gurugram",Yes (24),13,7,4,0,13,7,5,0,Yes,No,Yes,Yes,Yes,2021-05-19 11:11,6
+Kathuria Hospital,"9/8, Modal Town, Opp. S.D. School, Khandsa Road, Gurugram",Yes (13),5,0,8,2,8,0,12,2,To Be Updated,To Be Updated,To Be Updated,To Be Updated,To Be Updated,2021-05-19 10:47,6
+Kriti Hospital Gurugram,"Plot No. 13, Sector 56, Gurugram, Haryana-122002",Yes (37),34,0,3,0,40,0,9,3,Yes,No,Yes,Yes,Yes,2021-05-19 11:59,6
+LORD KRISHNA HOSPITAL,Wazirpur roaz near anaz mandi farrukhnagar Distict Gurgaon,Yes (15),14,0,1,1,20,0,1,1,To Be Updated,To Be Updated,To Be Updated,To Be Updated,To Be Updated,2021-05-13 11:20,6
+Lotus Hospital Gurugram,"389, 3, Mata Rd, Prem Nagar, Sector 13, Gurugram, Haryana",Yes (4),2,0,2,0,7,0,3,0,Yes,Yes,Yes,Yes,Yes,2021-05-19 15:54,6
+Madalasa Hospital,"NH-3,BEHIND HUDA MARKET,SECTOR-46,GURGAON,HARYANA",Yes (15),9,0,6,0,10,0,6,0,Yes,To Be Updated,Yes,Yes,Yes,2021-05-19 12:49,6
+MAHADEV HOSPITAL,"876, 2, Mata Rd, near Bus Stand, Rajiv Nagar, Sector 12, Gurugram, Haryana",Yes (15),12,0,3,0,12,0,8,1,Yes,No,Yes,Yes,Yes,2021-05-17 18:47,6
+Mamta Hospital,"877/2, Mata Road,Near Haryana Roadways Workshop, Gurugram",Yes (22),18,0,4,0,20,0,7,1,No,No,Yes,Yes,Yes,2021-05-19 17:34,6
+Mangalam Hospital,"Gandhi Nagar Rd, Gandhi Nagar, Sector 11, Gurugram, Haryana",Yes (8),8,0,0,0,9,0,0,0,Yes,No,Yes,Yes,Yes,2021-05-19 22:21,6
+Max Hospital,"B Block, Sushant Lok 1, Near Huda City Centre, Gurugram",No (0),0,0,0,0,58,0,14,6,Yes,Yes,Yes,Yes,Yes,2021-05-19 16:50,6
+Mayom Hospital,"D-Block, 19, South City Rd Number 1, Block G, South City I, Sector 41, Gurugram",Yes (18),14,4,0,0,54,5,12,4,Yes,No,Yes,Yes,Yes,2021-05-19 16:04,6
+Medanta the Medicity,"CH Baktawar Singh Rd, Near Olympus, Medicity, Islampur Colony, Sector 38, Gurugram",Yes (50),50,0,0,Beds Over Utilized 26,256,0,138,40,Yes,Yes,Yes,Yes,Yes,2021-05-19 17:11,6
+Medeor Hospital,"Plot no 2, Sector 5, IMT Manesar, Gurugram",Yes (35),35,0,0,0,57,0,18,12,Yes,No,Yes,Yes,Yes,2021-05-19 10:24,6
+MEDOX HOSPITAL,"Bhondsi, Sohna Rd, Gurugram, Haryana",Yes (23),22,0,1,0,25,0,4,2,Yes,Yes,Yes,Yes,Yes,2021-05-19 17:24,6
+Metro Hospital,"H Block, Chauma Village, Sector 1, Palam Vihar, Gurugram",Yes (13),13,0,0,0,27,0,48,8,Yes,No,Yes,Yes,Yes,2021-05-19 12:43,6
+Miracles Apollo Cradle/Spectra,"Plot no.45,Vatika India Next, sector 82,Gurugram",No (0),0,0,0,0,5,0,0,0,To Be Updated,To Be Updated,To Be Updated,To Be Updated,To Be Updated,2021-05-13 10:42,6
+Naryana Hospital,"Plot 3201, Block - V, DLF Phase - III, Nathupur, Sector 24, Gurugram",Yes (18),18,0,0,0,35,13,14,6,Yes,Yes,Yes,Yes,Yes,2021-05-19 10:14,6
+Nivaran multispeciality Hospital,"Plot no 13 A , Noble enclave ,opp Maruti Udyog,old delhi road Gurugram 122017",Yes (27),22,0,5,0,40,0,5,0,To Be Updated,To Be Updated,To Be Updated,To Be Updated,To Be Updated,2021-05-19 13:59,6
+Orbit Hospital,"Sec 32, Main Jharsa Road, Gurugram",Yes (10),6,0,4,0,12,0,4,0,No,No,Yes,Yes,Yes,2021-05-19 09:09,6
+Paras Hospital,"Phase- I, Paras Hospitals, C-1, Sushant Lok Phase I, Sector 43, Gurugram",No (0),0,0,0,0,117,14,46,14,Yes,Yes,Yes,Yes,Yes,2021-05-19 17:21,6
+Park Hospital gurugram,"Q Block South City 2, Sohna Rd, Main, Sector 47, Gurugram",Yes (3),3,0,0,0,32,0,58,30,Yes,No,Yes,Yes,Yes,2021-05-19 16:10,6
+Polaris Hospital,"Opp. Raheja Mall, Sohna Road, Sector-48,Gurugram, near Vipul Business Park, Gurugram",Yes (12),2,10,0,0,4,12,0,0,No,No,No,No,To Be Updated,2021-05-19 17:06,6
+"Police Hospital, RTC, BHONDSI","RTC, BHONDSI, Gurgaon",Yes (40),40,0,0,0,50,0,0,0,To Be Updated,To Be Updated,To Be Updated,To Be Updated,To Be Updated,2021-05-13 11:24,6
+"Poly Clinic Sector 31, Gurugram","388, LIG Colony, Sector 31, Gurugram",Yes (7),7,0,0,0,7,3,0,0,Yes,Yes,No,No,Yes,2021-05-18 17:23,6
+Prakash Hospital and Trauma Centre,"NH 8, Manesar Bus Stand, Manesar, Gurugram",Yes (29),12,15,2,0,16,15,5,0,To Be Updated,No,Yes,Yes,Yes,2021-05-19 15:48,6
+Pushpanjali Hospital,"Civil Line Road, near Rajiv Chowk, Gurugram",Yes (19),16,0,3,0,18,0,15,2,Yes,No,Yes,Yes,Yes,2021-05-19 10:39,6
+Rathore IMT Hospital and Trauma Centre,"Sec-7, Near Anant Raj Chowk, IMT Manesar, Gurugram (HR)",Yes (13),10,0,3,0,10,0,5,0,Yes,Yes,Yes,Yes,Yes,2021-05-19 16:29,6
+RBS HOSPITAL,"U Block, DLF Phase 3 Rao Balbir Singh, Market, U-37 Rd, Nathupur, Sector 24, Gurugram, Haryana",Yes (10),8,0,2,0,10,0,5,1,Yes,No,To Be Updated,To Be Updated,To Be Updated,2021-05-18 20:21,6
+Safe Hands Hospital,"Plot No. 68-P, Sector 46, Gurugram, Haryana",Yes (11),9,0,2,1,13,0,3,2,To Be Updated,To Be Updated,To Be Updated,To Be Updated,To Be Updated,2021-05-19 18:08,6
+SAI SIDDHI HOSPITAL,"82-P, Residency Green, Jal Vihar Colony, Sector 46, Gurugram, Haryana",Yes (6),2,4,0,0,4,4,6,0,To Be Updated,To Be Updated,To Be Updated,To Be Updated,To Be Updated,2021-05-19 16:57,6
+Samvit Health Care,"1, Sohna Rd, Islampur Village, Sector 38, Gurugram, Haryana",Yes (13),6,6,1,0,8,6,3,0,Yes,No,No,No,No,2021-05-19 17:43,6
+Sanjeevani hospital,"Near Radha Krishan Mandir, Sohna - Gurgaon Rd, opposite Corporation Bank, Badshahpur, Sector 66, Gurugram, Haryana",Yes (10),8,0,2,1,15,0,5,1,To Be Updated,Yes,Yes,Yes,Yes,2021-05-18 16:16,6
+SARASWATI HOSPITAL,"299/2, OLD DELHI ROAD, ANAMIKA ENCLAVE, GURUGRAM-122001",Yes (12),3,5,4,1,5,5,5,1,Yes,No,Yes,Yes,Yes,2021-05-19 18:33,6
+Sarvodya Hospital gurugram,"1031/1, Old Railway Rd, Sector 5, Gurugram, Haryana",Yes (8),6,0,2,0,14,0,6,1,Yes,To Be Updated,Yes,Yes,Yes,2021-05-17 12:25,6
+Satyam Medicare Hospital,C-2 17 dlf phase 1 Arjun marg,Yes (20),17,0,3,1,21,0,4,1,Yes,No,No,No,No,2021-05-19 11:43,6
+SDH PATAUDI,"SDCH pataudi, gurugram",Yes (19),19,0,0,0,22,0,0,0,Yes,Yes,Yes,Yes,Yes,2021-05-19 13:43,6
+SDH SOHNA,"Baluda Rd, Rajoria Nagar, Sohna, Haryana",Yes (14),14,0,0,0,35,0,0,0,Yes,No,Yes,Yes,To Be Updated,2021-05-19 15:47,6
+Sethi Hospital,"02, 301, 4, Basai Rd, Model Town, Gurugram",Yes (10),9,0,1,0,18,0,4,0,No,To Be Updated,Yes,Yes,To Be Updated,2021-05-18 10:30,6
+"SGT Medical College &amp; Research Institute, Budhera","C/o Shree Guru Gobind Singh Tricentenary University, Inner College Road, Budhera, Gurugram",Yes (332),50,244,38,0,60,244,56,15,Yes,No,Yes,Yes,Yes,2021-05-19 16:16,6
+Sheetla Hospital,"Near DSD College, New Railway Road, Gurugram",Yes (26),17,5,4,0,21,5,5,0,Yes,Yes,Yes,Yes,Yes,2021-05-19 16:59,6
+Shiva hospital,287/2 mata road sec 12 a near Singha chowk,Yes (2),1,0,1,1,7,0,7,1,To Be Updated,To Be Updated,To Be Updated,To Be Updated,To Be Updated,2021-05-13 11:28,6
+Shivpriya holistic health hospital,Bajgheda Chowk New palam vihar phase 1 gurugram 122017,Yes (3),3,0,0,0,5,0,0,0,Yes,No,Yes,Yes,Yes,2021-05-19 12:36,6
+Shri Balaji Multispeciality Hospital,"Sector 9/10, Basai Chonk, Basai Road, Gurugram",Yes (18),17,0,1,1,32,0,1,1,To Be Updated,To Be Updated,To Be Updated,To Be Updated,To Be Updated,2021-05-18 11:48,6
+Shri Govind Hospital,"601, 20, Madanpuri Rd, Manohar Nagar, Sector 7, Gurugram",Yes (18),8,10,0,0,14,10,0,0,Yes,No,Yes,Yes,Yes,2021-05-18 19:29,6
+Signature Hospital,"Near Euro International School, Sector 37D, Gurugram",Yes (20),15,0,5,0,51,0,32,8,Yes,Yes,Yes,Yes,Yes,2021-05-19 20:11,6
+Sona Devi Memorial Hospital,Sona Devi Memorial Hospital Badshahpur,Yes (4),4,0,0,0,6,0,0,0,Yes,No,Yes,Yes,Yes,2021-05-19 14:12,6
+SPES HOSPITAL,"369/20 SHANTI NAGAR SEC- 11, GURGAON",Yes (14),8,0,6,2,15,0,13,3,No,No,Yes,No,No,2021-05-18 17:11,6
+sukhda hospital and maternity centre llp,"PATAUDI ROAD, KADIPUR INDUSTRIAL AREA, GURGAON HARYANA",Yes (19),15,0,4,0,20,0,4,1,Yes,No,No,No,No,2021-05-19 13:59,6
+Sukhdai hospital,Shanti kunj part 2 Bhondsi Gurgaon,Yes (7),6,0,1,0,20,0,2,1,To Be Updated,To Be Updated,To Be Updated,To Be Updated,To Be Updated,2021-05-13 11:58,6
+Sunrise Hospital,"Near Sector 10 A, Gurugram",Yes (36),18,11,7,4,18,11,15,6,Yes,No,Yes,Yes,Yes,2021-05-19 17:27,6
+TIRATH RAM HOSPITAL PVT LTD.,163/20 BASAI ROAD GURGAON,Yes (22),20,0,2,2,20,0,10,2,Yes,No,Yes,Yes,Yes,2021-05-19 13:47,6
+Triveni hospital,"Near Canara Bank, Near Dhobi Ghaat, Old Railway Rd, Sector 8, Gurugram, Haryana",Yes (20),14,0,6,0,14,0,6,0,Yes,No,Yes,Yes,Yes,2021-05-16 22:14,6
+Tulasi Healthcare,"Sector 64, next to Shriram millennium school, Gurugram, Haryana",Yes (12),0,12,0,0,0,20,0,0,Yes,No,Yes,Yes,No,2021-05-17 17:49,6
+UMA SANJEEVANI HEATH CENTRE PVT LTD,01 DAKSHIN MARG DLF CITY PHASE II MG ROAD GURGAON,No (0),0,0,0,0,10,0,0,0,To Be Updated,To Be Updated,To Be Updated,To Be Updated,To Be Updated,2021-05-13 12:26,6
+Umkal Hospital,"A-5/20 Sushant Lok-1, Gurugram",Yes (22),9,10,3,0,20,10,7,2,Yes,Yes,Yes,Yes,Yes,2021-05-19 08:12,6
+Vaishnavi nursing home,"Delhi - Jaipur Expy, Sector 33, Gurugram, Haryana",Yes (4),1,3,0,0,2,4,0,0,Yes,No,Yes,Yes,Yes,2021-05-19 08:00,6
+Vardan Hospital gurgaon,"Opposite Devi Lal Stadium, Ward # 5, Sohna Gurugram",Yes (15),13,0,2,0,17,0,5,1,Yes,Yes,Yes,Yes,Yes,2021-05-19 10:56,6
+Vedic hospital,L c Umang Bhardwaj chowk main Pataudi road gurugram,No (0),0,0,0,0,15,0,5,1,To Be Updated,To Be Updated,To Be Updated,To Be Updated,To Be Updated,2021-05-19 11:55,6
+VS hospital,Hayatpur chowk sec 93 ggn,Yes (2),2,0,0,0,10,0,4,0,To Be Updated,To Be Updated,To Be Updated,To Be Updated,To Be Updated,2021-05-15 15:44,6
+W.Pratiksha Hospital,"Golf Course Ext Rd, Sushant Lok-II, Shushant Lok 2, Sector 56, Gurugram",No (0),Beds Over Utilized 2,0,Beds Over Utilized 1,0,21,0,9,2,Yes,Yes,Yes,Yes,Yes,2021-05-19 16:33,6
+ABLE HOSPITAL,,Yes (37),10,25,2,5,10,25,2,5,Yes,No,Yes,Yes,Yes,2021-05-19 12:55,15
+Apex Hospital,"Prakash Vihar, Delhi Mathura Road, Palwal, Haryana",Yes (15),11,0,4,1,13,0,6,2,Yes,No,Yes,Yes,Yes,2021-05-19 11:52,15
+ATLAS HOSPITAL,"Palwal, Haryana",Yes (4),0,4,0,1,2,11,2,2,To Be Updated,To Be Updated,To Be Updated,To Be Updated,To Be Updated,2021-05-19 12:55,15
+CHC Alawalpur,CHC Alawalpur,Yes (17),1,16,0,0,4,16,0,0,To Be Updated,To Be Updated,To Be Updated,To Be Updated,To Be Updated,2021-05-18 18:55,15
+Civil Hospital Palwal,"Civil Hospital, palwal",Yes (47),47,0,0,4,103,0,7,7,Yes,Yes,Yes,Yes,Yes,2021-05-19 11:27,15
+COSMOS HOSPITAL,PALWAL,Yes (10),5,5,0,0,5,5,0,0,To Be Updated,To Be Updated,To Be Updated,To Be Updated,To Be Updated,2021-05-16 12:02,15
+GALAXY HOSPITAL,HUDA SECTOR 2,Yes (15),3,0,12,9,5,0,16,11,Yes,No,Yes,Yes,Yes,2021-05-19 14:51,15
+"Gurunanak Hospital, Palwal","NH2, Near Bus Stand, Shiv Colony, Palwal Haryana",Yes (27),13,4,10,2,18,4,15,3,Yes,Yes,Yes,Yes,Yes,2021-05-19 15:56,15
+JINDAL HOSPITAL,"Palwal, Haryana",Yes (15),10,2,3,0,10,2,3,0,To Be Updated,No,Yes,Yes,Yes,2021-05-19 12:53,15
+KISHAN SINGH HOSPITAL,HODAL,Yes (6),6,0,0,0,8,0,0,0,Yes,No,Yes,No,Yes,2021-05-19 11:03,15
+NIDHI HOSPITAL,"Palwal, Haryana",Yes (12),2,7,3,0,2,7,3,0,Yes,No,Yes,Yes,Yes,2021-05-19 12:42,15
+Palwal Hospital,"Moti Colony, Palwal, Haryana",Yes (9),0,5,4,0,0,6,16,1,Yes,No,Yes,Yes,Yes,2021-05-19 12:57,15
+RAHUL HOSPITAL,PALWAL,Yes (15),7,5,3,0,7,5,3,0,Yes,No,Yes,Yes,Yes,2021-05-13 16:20,15
+Sachin Hospital,"New Sohna Road, Near Panchwati Chowk, Palwal Haryana",Yes (15),6,3,6,0,10,5,13,2,Yes,Yes,Yes,Yes,Yes,2021-05-19 12:38,15
+SDH Hodal,SDH Hodal,Yes (16),6,10,0,0,10,10,0,0,Yes,No,Yes,Yes,Yes,2021-05-19 12:58,15
+Shri. Satya Sai Sanjivani Hospital Palwal,"Palwal, Haryana",Yes (15),0,12,3,2,4,17,4,2,Yes,No,Yes,Yes,Yes,2021-05-19 17:59,15
+SRI SAI HOSPITAL,"Palwal, Haryana",Yes (6),0,6,0,0,0,6,0,0,Yes,No,Yes,Yes,Yes,2021-05-19 12:41,15
+VASHU HOSPITAL,,Yes (10),10,0,0,0,10,0,0,0,Yes,No,Yes,Yes,Yes,2021-05-19 12:53,15
+"Apex Hospital, Sirsa","Circular Road, Sirsa",Yes (5),3,0,2,0,12,2,4,1,To Be Updated,To Be Updated,To Be Updated,To Be Updated,To Be Updated,2021-05-19 16:28,20
+"Astha Hospital, Sirsa",Dabwali Road Sirsa,Yes (6),6,0,0,0,15,0,5,0,Yes,No,Yes,Yes,Yes,2021-05-19 16:45,20
+CIVIL HOSPITAL SIRSA,"Civil Hospital Road, Sirsa",Yes (3),0,3,0,0,80,15,5,5,Yes,Yes,Yes,Yes,Yes,2021-05-19 10:07,20
+"Dayal Nursing Home, Sirsa","Dabwali Road, Sirsa",No (0),0,0,0,0,9,3,0,0,Yes,Yes,Yes,Yes,Yes,2021-05-19 17:00,20
+"Gupta Hospital, Sirsa","Dabwali Road, Sirsa Near Easy Day",No (0),0,0,0,0,4,3,5,0,Yes,To Be Updated,Yes,Yes,Yes,2021-05-19 16:40,20
+"Jagdish Nursing Home, Sirsa","Gandhi Market, Parshuram Chowk, Sirsa",Yes (6),0,4,2,0,0,4,7,1,Yes,No,Yes,Yes,Yes,2021-05-19 17:06,20
+"jCD Hospital, Sirsa","JCD Hospital, Barnala Road, Sirsa",Yes (36),0,36,0,0,10,40,0,0,Yes,No,Yes,Yes,Yes,2021-05-19 15:28,20
+"Jeevan Jyoti Hospital, Sirsa",Dabwali Road Sirsa,No (0),0,0,0,0,7,1,6,3,Yes,No,Yes,Yes,Yes,2021-05-19 16:56,20
+"Khurana Hospital, Sirsa",Dabwali Road Sirsa,Yes (7),6,0,1,0,6,0,4,0,Yes,No,Yes,Yes,Yes,2021-05-19 16:01,20
+"Lalgarhia Hospital, Sirsa",Dabwali Road Sirsa,No (0),0,0,0,0,13,2,3,1,Yes,Yes,Yes,Yes,Yes,2021-05-19 16:47,20
+"Medicare Hospital, Sirsa","Dabwali Road, Sirsa",Yes (4),0,2,2,0,1,6,6,2,Yes,Yes,Yes,Yes,Yes,2021-05-19 16:10,20
+"Metro Health Care Hospital, Sirsa","Near Dena Bank, lal Batti Chowk, Sirsa",Yes (1),1,0,0,1,5,0,5,1,Yes,To Be Updated,Yes,Yes,Yes,2021-05-19 16:26,20
+"Mittal Hospital, Sirsa","Near Jhunthra Petrol Pump, Dabwali Road Sirsa",Yes (2),1,1,0,0,14,1,4,0,Yes,No,Yes,Yes,Yes,2021-05-19 19:30,20
+"New Life Care Hospital, Sirsa","Dabwali Road, Sirsa",No (0),0,0,0,0,7,2,3,0,Yes,No,Yes,Yes,Yes,2021-05-19 15:48,20
+"Poonia COVID Care Center, Sirsa","Near Ambedkar chowk, opposite Seth tula ram dharamshala, Hisar Road, Sirsa, Haryana 125055",Yes (11),4,7,0,0,14,7,3,1,Yes,Yes,Yes,Yes,Yes,2021-05-19 16:29,20
+"Sanjeevni Hospital, Sirsa (Wing -2, 1 &amp; 2nd Floor)","Under over bridge, hisar road, sirsa",Yes (24),0,24,0,0,45,30,16,6,Yes,Yes,Yes,Yes,Yes,2021-05-19 16:16,20
+SDCH Dabwali,"Dabwali, District Sirsa",Yes (14),0,14,0,0,10,15,0,0,Yes,No,Yes,Yes,Yes,2021-05-19 09:30,20
+"Shah Satnam Dera Hospital (Wing -2, 2nd floor), Sirsa","Begu Road, Sirsa",Yes (3),0,3,0,0,21,30,14,7,Yes,Yes,Yes,Yes,Yes,2021-05-19 16:51,20
+"Shri Baba Tara Hospital &amp; Research Center, Sirsa","Hisar Road, Sirsa",Yes (3),0,3,0,0,15,5,5,3,Yes,No,Yes,Yes,Yes,2021-05-19 17:09,20
+"SPS Hospital, Sirsa","Near Sangwan Chowk, Dabwali Road, Sirsa",No (0),0,0,0,0,12,0,3,2,Yes,No,Yes,Yes,Yes,2021-05-19 16:31,20
+"Suraksha Hospital, Sirsa","Dabwali Rd, opposite Hotel Aroma, Sirsa, Haryana 125055",No (0),0,0,0,0,10,3,11,7,Yes,Yes,Yes,Yes,Yes,2021-05-19 15:34,20
+"Swastik Hospital, Sirsa","Ambedkar Chowk, Nandan Vatika, Sirsa,",Yes (2),1,1,0,0,5,5,5,1,Yes,No,Yes,Yes,Yes,2021-05-19 16:56,20
+"Talwar Nursing Home, Sirsa","Under Over Bridge, Hisar Road, Sirsa",No (0),0,0,0,0,12,2,2,1,Yes,Yes,Yes,Yes,Yes,2021-05-19 17:35,20
+"Tomar Nursing Home, Sirsa","Nandan Vatika, near surkhab Chock, Hathi park, Agrasain Colony, Sirsa, Haryana 125055",Yes (2),0,1,1,0,12,2,4,1,Yes,Yes,Yes,Yes,Yes,2021-05-19 16:00,20
+"Vardan Hospital, Sirsa","Near Lal Batti Chowk, Sirsa",Yes (8),3,3,2,0,9,3,6,0,Yes,No,Yes,Yes,Yes,2021-05-19 16:08,20
+ANUJ HOSPITAL SAFIDON,safidon panipat road,Yes (27),1,18,8,0,2,18,10,0,Yes,No,Yes,Yes,Yes,2021-05-19 20:56,9
+Balaji Hospital Jind,Rohtak Road Jind,Yes (7),0,7,0,0,32,16,0,0,Yes,No,Yes,Yes,Yes,2021-05-19 16:22,9
+CHC Alewa,"Alewa 2 Sub Health Centre, Alewa Chc Alewa, Alewa, Jind",Yes (15),15,0,0,0,15,0,0,0,Yes,No,Yes,No,Yes,2021-05-19 16:25,9
+CHC Julana,Julana,Yes (18),12,6,0,0,20,6,0,0,Yes,No,Yes,Yes,Yes,2021-05-19 16:25,9
+District Civil Hospital Jind (NEW+OLD),Hosptial,No (0),0,0,0,4,150,0,20,12,Yes,Yes,Yes,Yes,Yes,2021-05-19 16:23,9
+Gangaputra Ayurvedic Medical College Jind,Kandela,Yes (85),45,15,25,3,60,15,25,3,Yes,No,Yes,Yes,Yes,2021-05-19 15:09,9
+JIND HEART HOSPITAL,GOHANA BYPASS ROHTAK ROAD JIND,Yes (7),7,0,0,0,12,0,5,1,Yes,No,No,No,No,2021-05-19 15:38,9
+Malik Hospital,Rohtak Road Jind,Yes (1),1,0,0,3,4,0,4,3,Yes,No,Yes,Yes,Yes,2021-05-19 15:38,9
+Meenakashi Jain Hospital,Near Bus Stand,Yes (3),0,2,1,1,15,2,5,1,Yes,No,Yes,Yes,Yes,2021-05-19 16:27,9
+Sarvodhya Hospital Jind,Jind,Yes (14),14,0,0,2,20,0,0,2,Yes,No,Yes,No,No,2021-05-19 16:24,9
+SDH Narwana,Narwana,Yes (19),7,12,0,0,20,12,0,0,Yes,No,Yes,Yes,Yes,2021-05-19 15:23,9
+SDH Safidon,Safidon,Yes (26),13,13,0,0,20,14,0,0,Yes,No,Yes,No,Yes,2021-05-19 16:22,9
+SDH UCHANA,Uchana,Yes (51),19,32,0,0,20,35,0,0,Yes,No,No,No,Yes,2021-05-19 14:33,9
+Shri Gyani Ram Mamorial Hospital,Safidon,Yes (17),8,5,4,0,10,5,10,0,Yes,No,Yes,Yes,Yes,2021-05-19 15:50,9
+Aarti Hospital,"A-628, Near Hanuman Mandir, Dabua Pali Road, NIT Faridabad",Yes (23),5,15,3,0,5,15,3,0,To Be Updated,Yes,Yes,Yes,Yes,2021-05-19 07:25,4
+Aastha Hospital,"SCF -2, Ashoka Enclave Main Rd, Sector 35, Faridabad",Yes (10),7,3,0,0,10,4,0,0,Yes,No,Yes,Yes,Yes,2021-05-19 13:38,4
+Al-Falah Hospital,"Al Falah university Campus, Dhouj",Yes (54),33,21,0,0,50,25,2,2,Yes,Yes,Yes,Yes,Yes,2021-05-19 09:07,4
+Anshu Hospital,"Shiv Colony Sehatpur Road, Palla No. 1, Faridabad",Yes (11),5,6,0,0,10,10,0,0,Yes,To Be Updated,To Be Updated,To Be Updated,To Be Updated,2021-05-19 11:32,4
+Apurva Hospital,"2N/74, B.P. Near 2-3 Gole ChakKar, NIT Faridabad",Yes (10),8,2,0,1,8,2,0,1,Yes,Yes,To Be Updated,To Be Updated,To Be Updated,2021-05-19 15:40,4
+Arise Healthcare,"SCO: C 3185, Near Corporation Bank, Green Field Colony, Faridabad",Yes (12),2,7,3,2,2,7,7,2,Yes,Yes,Yes,No,No,2021-05-19 15:59,4
+Arsh Hospital,"Opp. Era Redwood Residency, Tigaon Rd, Sector 78, Faridabad,",Yes (26),20,5,1,3,40,5,20,6,Yes,Yes,Yes,Yes,Yes,2021-05-19 14:41,4
+Asian Hospital,"Badkal Flyover Road, Sector  21 A Faridabad",Yes (16),16,0,0,Beds Over Utilized 1,89,0,40,14,Yes,Yes,Yes,Yes,Yes,2021-05-19 14:15,4
+B.K. Hospital Faridabad,B.K. Hospital Faridabad B K Chowk FBD,Yes (70),45,25,0,0,64,25,11,11,Yes,Yes,Yes,Yes,Yes,2021-05-19 14:50,4
+Bhavya Kalyani Hospital,"Mohna Road, Near Aanand Bakery, Ballabgarh, Faridabad",Yes (12),4,7,1,0,5,9,3,0,Yes,To Be Updated,To Be Updated,To Be Updated,To Be Updated,2021-05-19 11:45,4
+Chugh Hospital,"5L-164, K.C. Road N.I.T. Faridabad",Yes (11),1,10,0,0,4,14,0,0,To Be Updated,To Be Updated,To Be Updated,To Be Updated,To Be Updated,2021-05-19 16:34,4
+D.M. Hospital,"89-A, NH-5, Railway Road, Near Police Thana, NIT, Faridabad",Yes (21),8,7,6,1,10,10,8,1,Yes,Yes,Yes,Yes,Yes,2021-05-18 10:37,4
+Doctor Today Multispecialty Hospital,"5-C/2,B.P., Railway Road,, Near Bankey Bihari Mandir,, next to IDBI Bank, Faridabad",Yes (19),19,Beds Over Utilized 1,0,1,35,0,5,2,Yes,No,Yes,Yes,Yes,2021-05-19 10:17,4
+Dr. Harish Hospital,"701, Sector 8, YMCA Road, Faridabad",Yes (6),5,0,1,0,5,0,2,0,Yes,No,Yes,Yes,Yes,2021-05-19 09:30,4
+Durga Multispeciality Hospital,"Shri Bankey Bihari Mandir Complex, Neelam-Railway Road, NIT 5, Faridabad",Yes (29),21,0,8,0,22,0,8,0,No,No,No,No,Yes,2021-05-19 14:56,4
+"ESIC Medical College, Faridabad","NH-3, NIT Behind BK Hospital, Haryana",Yes (377),27,350,0,0,150,350,80,50,Yes,Yes,Yes,Yes,Yes,2021-05-19 09:26,4
+Fortis Escort Hospital,"Neelam Bata Rd, opp. Neelam Cinema, AC Nagar, New Industrial Town, Faridabad,",Yes (35),35,0,0,2,55,0,14,7,Yes,Yes,Yes,Yes,Yes,2021-05-19 11:44,4
+Gaurav Hospital,"Rajeev Colony, Samaypur Road, Ballabgarh, Faridabad",Yes (5),Beds Over Utilized 12,0,5,1,3,2,10,1,Yes,To Be Updated,Yes,To Be Updated,To Be Updated,2021-05-19 18:26,4
+Geeta Hospital,"Opposite Huda Market and Community Centre, Sector 28, Faridabad",Yes (13),8,0,5,1,8,0,10,2,Yes,No,Yes,Yes,Yes,2021-05-19 10:15,4
+Geetanjali Multispeciality Hospital,"D-635, 60 Feet Rd, Chawla Colony, Ballabhgarh, Faridabad",Yes (18),15,3,0,0,20,3,0,0,Yes,To Be Updated,Yes,To Be Updated,To Be Updated,2021-05-18 16:41,4
+Goyal Hospital,"Plot No. 2 opposite hanuman temple Sec 8, Surdas Park",Yes (5),5,0,0,0,12,0,6,2,No,Yes,Yes,Yes,Yes,2021-05-19 10:25,4
+Handa Medical Center,"Site No-1, Sector 16, Opp Sagar Cinema, Faridabad",No (0),0,0,0,0,0,0,0,0,No,No,No,To Be Updated,No,2021-05-19 13:49,4
+Heritage Hospital,3C-62B/BP NIT Faridabad,Yes (13),9,0,4,0,11,0,4,1,To Be Updated,To Be Updated,To Be Updated,To Be Updated,To Be Updated,2021-05-19 11:00,4
+IBS Ashwani Hospital,"Plot No 8 D/1, YMCA Rd, Pocket D, Sector 11, Faridabad",Yes (19),9,5,5,2,22,5,8,2,No,To Be Updated,To Be Updated,To Be Updated,To Be Updated,2021-05-19 10:22,4
+Janak Hospital,Indira complex Neharpar Kheri Road Faridabad,Yes (15),9,4,2,0,15,6,6,0,Yes,No,Yes,Yes,Yes,2021-05-19 13:21,4
+Kant Multispeciality Hospital Pvt Ltd,"Plot no. 167, Indra Complex, Kheri Road, Greater, near Kheri Pul Bridge, Sector 87, Neharpar Faridabad, Faridabad, Haryana 121002",Yes (19),17,0,2,0,18,0,5,1,Yes,Yes,To Be Updated,To Be Updated,To Be Updated,2021-05-19 12:43,4
+Kedar Hospital,"3B/3, B.P , Near DAV college, NIT., Faridabad,",Yes (41),29,5,7,1,31,6,12,1,Yes,Yes,Yes,Yes,Yes,2021-05-19 07:21,4
+Kedar Hospital Multispeciality,Gali 7 Krishna Colony Sec25 Faridabad,Yes (28),10,15,3,0,10,15,5,0,Yes,No,Yes,Yes,Yes,2021-05-19 07:24,4
+Krishna Medical Centre,"773, Sector-19, Faridabad",Yes (8),3,0,5,0,5,0,5,0,Yes,Yes,Yes,Yes,Yes,2021-05-19 07:40,4
+Life Hospital,Opp Hanuman Mandir Sec 8 Faridabad,Yes (7),4,0,3,1,4,0,6,1,Yes,Yes,Yes,Yes,Yes,2021-05-19 08:46,4
+Lotus Hospital,"Plot-2, Jeevan Nagar, Opp. Lal Kothi, Main Ballabgarh Sohna Road, Faridabad",Yes (17),9,0,8,0,12,0,8,1,Yes,No,Yes,Yes,Yes,2021-05-19 13:31,4
+Madhav Hospital,"Building no 16, Block E, and, New Industrial Twp 5, Faridabad, Haryana 121001",Yes (24),0,0,24,2,0,0,28,2,To Be Updated,No,To Be Updated,To Be Updated,To Be Updated,2021-05-17 12:26,4
+Manavta Hospital,"Plot No-494, Near Women ITI, Uncha Gaon Prem Nagar, Mohna Road, Ballabgarh, Faridabad",Yes (5),0,5,0,2,10,10,11,3,To Be Updated,To Be Updated,To Be Updated,To Be Updated,To Be Updated,2021-05-19 08:55,4
+Manvi Medical Centre,"New Bharat Colony, Opp. Chaddar Godam, Near Mahaban Farm, Kheri Road, Greater Faridabad",Yes (7),6,Beds Over Utilized 1,1,0,7,0,2,0,Yes,No,Yes,Yes,Yes,2021-05-19 11:55,4
+Medicheck Hospital,"Block C, Plot Number 76, Shahid Bhagat Singh Marg, near Bata Flyover, New Industrial Town, Faridabad",Yes (10),10,Beds Over Utilized 8,0,0,52,0,12,3,Yes,No,Yes,Yes,Yes,2021-05-19 08:47,4
+Medstar Hospital,"Om Enclave Part 1, Near Toll Tax, Agwanpur Road, Faridabad",Yes (3),1,2,0,0,5,2,0,0,No,No,Yes,Yes,Yes,2021-05-19 08:40,4
+Medwin Hospital,"Plot No. 2, Jeevan Nagar, Sohna Road Gounchi, Sector 55, Faridabad",Yes (16),2,12,2,0,2,12,6,0,To Be Updated,Yes,Yes,Yes,Yes,2021-05-19 10:08,4
+Metro Hospital Medicare,"Metro Heart Institute with Multispeciality Sector 16 A, Faridabad",Yes (57),12,45,0,0,137,45,43,11,Yes,No,Yes,Yes,Yes,2021-05-19 13:21,4
+National Institute Of Medical Sciences,"Sector -23A,?Faridabad,?",Yes (15),9,3,3,2,15,4,9,2,Yes,Yes,Yes,Yes,Yes,2021-05-19 13:18,4
+Ortho 1 Hospital,"1331, Near Community Centre, Sector 55, Faridabad",Yes (30),8,12,10,1,8,12,10,1,Yes,No,Yes,Yes,Yes,2021-05-19 22:48,4
+Park Hospital Faridabad,"J Block, Sector 10 HBC, opposite Court, Faridabad",No (0),Beds Over Utilized 5,0,Beds Over Utilized 5,3,10,10,25,5,Yes,Yes,Yes,Yes,Yes,2021-05-19 09:16,4
+Pawan Hospital Unit-1,"Samaypur Road Near Sector 56, Ballabhgarh, Faridabad",Yes (34),24,0,10,6,31,0,14,7,To Be Updated,To Be Updated,To Be Updated,To Be Updated,To Be Updated,2021-05-19 09:25,4
+Pawan Hospital Unit-2,"Plot No. 10, Jawahar Colony, Near Disposal Chowk, Faridabad",Yes (10),0,0,10,0,0,0,11,0,To Be Updated,To Be Updated,To Be Updated,To Be Updated,To Be Updated,2021-05-19 09:55,4
+Prachi Hospital,Opp Chimni Bai Dharmshala Faridabad,Yes (13),7,2,4,1,10,2,5,1,Yes,No,Yes,Yes,Yes,2021-05-19 16:58,4
+QRG Central,"Plot No, 69, Mathura Rd, Sector 20 A, New Industrial Town, Faridabad",No (0),0,0,0,0,105,0,39,11,Yes,Yes,Yes,Yes,Yes,2021-05-19 12:28,4
+QRG Hospital Medicare,"Ambedkar Marg, QRG Healthcity, Sector 16, Faridabad",Yes (27),27,0,0,Beds Over Utilized 7,104,0,18,7,Yes,Yes,Yes,Yes,Yes,2021-05-19 10:15,4
+Raghav Hospital,Kheri Road Sec 87 Greater Faridabad,Yes (15),14,0,1,1,17,3,3,1,Yes,No,Yes,Yes,Yes,2021-05-18 09:45,4
+Raj Nursing Home,"CLINIC SITE NO-6, Sector 3, Faridabad",Yes (11),9,Beds Over Utilized 3,2,0,13,0,4,1,Yes,No,Yes,Yes,Yes,2021-05-19 10:58,4
+Ronak Hospital,"Dabua Pali Road, Near Ganga Ram Devta Mandir, NIT, Faridabad",Yes (45),19,18,8,2,20,20,10,3,Yes,Yes,Yes,Yes,Yes,2021-05-19 12:52,4
+Royalâ€™s Hotel,"3-B-14, Ground Floor NIT Faridabad",Yes (46),46,0,0,0,50,0,0,0,Yes,To Be Updated,To Be Updated,To Be Updated,To Be Updated,2021-05-18 09:53,4
+Samrat Hospital,"180, Sanjay Colony, Delhi Mathura Road, JCB Chowk, Ballabgarh, Faridabad",No (0),0,Beds Over Utilized 5,0,0,10,0,10,0,To Be Updated,To Be Updated,To Be Updated,To Be Updated,To Be Updated,2021-05-18 10:19,4
+Sanjeevan Multispeciality Hospital,"D-947, 60 Feet Road, Opp. Shiv Mandir, Chawla Colony, Ballabgarh, Faridabad",Yes (16),7,2,7,0,7,2,8,0,No,No,Yes,Yes,Yes,2021-05-18 08:32,4
+Santosh Multispeciality Hospital,"Shop No. 3F, 139, Metro Rd, New Industrial Township 2b, Block F, New Industrial Twp 3, New Industrial Town, Faridabad,",Yes (28),28,0,0,1,40,10,10,1,No,No,Yes,Yes,Yes,2021-05-19 11:38,4
+Sarvodya Hospital Sector-8,"Sector-8, YMCA Rd, near Escorts Mujesar Metro Station, Sector 7, Faridabad",No (0),0,0,0,0,125,0,40,7,Yes,Yes,Yes,Yes,Yes,2021-05-19 09:54,4
+Sarvodya Hospital Sector 19,"Gopi Colony, Old Faridabad, Faridabad",Yes (10),8,0,2,1,28,0,10,4,Yes,Yes,Yes,Yes,To Be Updated,2021-05-19 11:43,4
+Sattya Hospital,"376, IP Colony, Sector 32-33 Faridabad",Yes (9),6,0,3,2,6,0,4,2,Yes,To Be Updated,To Be Updated,To Be Updated,To Be Updated,2021-05-19 12:46,4
+Shankar Medicare Center,Sec 28 Faridabad,Yes (31),13,18,0,0,15,20,0,0,Yes,Yes,Yes,Yes,Yes,2021-05-19 10:19,4
+Shanti Devi Memorial Hospital,"Kheri More Near, Piyush Heights, Sector 89, Faridabad",Yes (18),9,8,1,1,14,8,3,2,Yes,No,Yes,Yes,Yes,2021-05-19 11:47,4
+Shivalik Hospital Unit 1,Huda Market Sector-37 Faridabad,Yes (4),0,Beds Over Utilized 2,4,0,0,3,4,0,Yes,No,Yes,Yes,Yes,2021-05-19 10:00,4
+Shivalik Hospital Unit 2,"Sehatpur, Opp. Sec-91 Faridabad",Yes (2),0,Beds Over Utilized 1,2,0,0,0,2,0,Yes,No,Yes,Yes,Yes,2021-05-19 09:17,4
+"Shri Atal Bihari Vajpayee Government Medical College, Chhainsa","Village  Chhainsa, Faridabad",Yes (93),93,0,0,0,100,0,0,0,Yes,Yes,Yes,Yes,Yes,2021-05-19 09:05,4
+Siddhi Vinayak Aspataal,"MCF-8280, Main Sohna Road, Near Syndicate Bank/Lal Kothi, Ballabgarh, Faridabad",Yes (17),7,6,4,1,10,6,10,1,Yes,To Be Updated,To Be Updated,To Be Updated,To Be Updated,2021-05-19 12:10,4
+SMS Hospital,"Clinic No. 9, Sector-3, Near Huda Market, Faridabad",Yes (3),Beds Over Utilized 1,0,3,1,5,0,5,3,Yes,No,Yes,Yes,Yes,2021-05-18 12:39,4
+SRU Multispeciality Hospital,"Sunder Colony, Nangla Gujran, Behind Rawal International School, Ballabgarh, Faridabad",Yes (16),14,Beds Over Utilized 5,2,0,14,0,3,0,Yes,No,Yes,No,No,2021-05-17 10:20,4
+Sunrise Hospital,"3C-63, BP, NIT Faridabad",Yes (18),18,0,0,0,25,0,3,0,Yes,No,Yes,Yes,Yes,2021-05-19 11:57,4
+Sunshine Hospital,"Sec 64 Sahupura Road, Unchagaon Ballabgarh",Yes (9),6,0,3,0,8,0,3,0,Yes,No,Yes,Yes,Yes,2021-05-19 21:29,4
+Supreme Hospital,"Suraj Kund Rd, Charmwood Village, Faridabad",Yes (18),16,0,2,1,20,0,2,1,To Be Updated,To Be Updated,To Be Updated,To Be Updated,To Be Updated,2021-05-19 17:33,4
+Suryodaya Hospital,"Chandiwala Bagh, RPS Road, Sector 88 Greater Faridabad",Yes (11),9,0,2,2,9,0,2,2,To Be Updated,To Be Updated,To Be Updated,To Be Updated,To Be Updated,2021-05-13 18:01,4
+Urocare Apolo Multi and Super Speciality Hospital,"H.No 78, Behind Girls College, Sector-2, Ballabgarh, Faridabad",Yes (8),0,6,2,0,0,6,2,0,Yes,No,Yes,Yes,Yes,2021-05-19 11:17,4
+V Care Multispeciality Health Center,"Plot No. V7, Near Police Station, BPTP Park Land, Sector-76, Faridabad",Yes (5),4,0,1,1,7,0,3,2,Yes,No,Yes,Yes,Yes,2021-05-19 15:59,4
+Vardan Hospital,"Opp. Gurudwara, Adarsh Nagar, Main Malerna Road, Ballabgarh, Faridabad",Yes (15),15,0,0,0,15,0,0,0,To Be Updated,To Be Updated,To Be Updated,To Be Updated,To Be Updated,2021-05-13 12:07,4
+Vedanta Hospital,"B-5,Central Green,Near I.T, BK Chowk, New Industrial Town, Faridabad",Yes (16),2,12,2,0,10,12,8,1,Yes,No,Yes,Yes,Yes,2021-05-19 15:56,4
+Vibal Hospital Pvt. Ltd.,"Sector-21D, Huda Market, Faridabad",Yes (8),8,0,Beds Over Utilized 2,0,10,0,8,1,Yes,Yes,Yes,Yes,Yes,2021-05-18 10:47,4
+Zenith Hospital (P) Ltd.,187/1 Yadav Colony Mohana Road NEar Yadav DairyBallabgarh,Yes (31),28,Beds Over Utilized 4,3,2,30,0,4,2,No,No,Yes,Yes,Yes,2021-05-19 09:03,4
+Amar Hospotal,Assandh,No (0),0,0,0,0,0,0,0,0,Yes,Yes,Yes,Yes,Yes,2021-05-19 08:53,11
+"AMRITDHARA, Chaura Bazar","Near ITI Chowk, Gahoon Vihar, Karnal, Haryana",Yes (4),4,0,0,0,38,0,26,2,Yes,No,Yes,Yes,Yes,2021-05-19 08:51,11
+Arpana Hospital,"G.T. Road, Madhuban, Karnal, Karnal, Haryana",Yes (10),10,0,0,0,16,0,2,1,Yes,No,Yes,Yes,Yes,2021-05-19 19:17,11
+CHC Assandh,"Assandh, Assandh Ruralpart, Haryana",Yes (10),10,0,0,0,10,0,0,0,Yes,No,Yes,No,Yes,2021-05-19 12:33,11
+CHC Gharaunda,"Balinagar, Gharaunda, Haryana",Yes (10),10,0,0,0,10,0,0,0,Yes,No,Yes,No,Yes,2021-05-19 12:32,11
+CHC Kunjpura,Village Kunjpura,Yes (11),11,0,0,0,11,0,0,0,To Be Updated,Yes,Yes,Yes,Yes,2021-05-19 12:31,11
+CHC Nissing,"SH 8, Gondar, Nissing, Haryana",Yes (10),10,0,0,0,10,0,0,0,Yes,No,Yes,No,Yes,2021-05-19 12:33,11
+CHC Taraori,CHC Taraori,Yes (6),6,0,0,0,6,0,0,0,Yes,No,Yes,No,Yes,2021-05-19 12:33,11
+Dr. Gian Bhushan Hospital,"Kunjpura Rd Old Char Chaman Dyal Singh Colony Karnal  132001 Republic of,",Yes (1),1,0,0,0,6,0,5,0,Yes,No,No,No,No,2021-05-19 07:40,11
+Ishwar Kirpa Hospital,"Ishwar Kirpa Hospital, Sector -14",Yes (3),3,0,0,0,14,0,7,0,Yes,No,Yes,Yes,Yes,2021-05-19 12:15,11
+"Kalpana Chawla Government Medical College, Karnal","Model Town, Karnal, Haryana",Yes (2),1,0,1,0,200,0,80,80,Yes,Yes,Yes,Yes,Yes,2021-05-19 08:52,11
+Karnal Nursing Home,"26 Duggal Colony, Karnal",Yes (5),5,0,0,0,8,0,10,0,Yes,No,Yes,Yes,Yes,2021-05-19 14:11,11
+Park Hospital karnal,"CHD City, NH-1, Sector 45, Karnal, Haryana",No (0),Beds Over Utilized 6,0,Beds Over Utilized 4,0,10,0,20,2,Yes,Yes,Yes,Yes,Yes,2021-05-19 08:53,11
+Rama Superspeciality Hospital,Civil Hosp Chowk Karnal,No (0),0,0,0,0,8,0,6,0,Yes,No,Yes,Yes,Yes,2021-05-19 08:53,11
+RP Welltar Hospital,"Vill. Bastara, District Karnal",Yes (1),0,1,0,0,10,4,4,1,Yes,No,Yes,No,Yes,2021-05-19 08:30,11
+"Sanjiv Bansal Cygnus Hospital , Karnal","Railway Rd, Ibrahim Mandi, Karnal, Haryana",Yes (2),2,0,0,2,20,0,5,2,Yes,Yes,Yes,Yes,Yes,2021-05-19 10:08,11
+Sarvodya Hospital Karnal,"Sector 14, Near Tau Devi Lal Chowk",Yes (16),12,0,4,0,12,0,10,0,Yes,Yes,Yes,Yes,Yes,2021-05-19 09:25,11
+SDH Nilokheri,SDH Nilokheri,Yes (10),10,0,0,0,10,0,0,0,Yes,No,Yes,No,Yes,2021-05-19 12:33,11
+Shri Ram Chand Memorial Hospital,"12, Ashoka colony,Opp Kalpana Chawla hospital, Karnal, Haryana",No (0),0,0,0,0,8,0,7,3,Yes,No,Yes,Yes,Yes,2021-05-19 08:54,11
+Shri Sanatan Dharam Mahabir Dal,"Kunjpura Road, Karnal Near Sanatan Dharam Mandir",Yes (6),6,0,0,0,12,0,0,0,Yes,Yes,Yes,Yes,Yes,2021-05-19 10:51,11
+SS Hospital,"Sector 14, Karnal",Yes (3),1,0,2,0,7,0,7,0,Yes,To Be Updated,Yes,Yes,Yes,2021-05-19 16:16,11
+Swastik Hospital,Swastic Hospital Opp DCH,Yes (7),4,0,3,0,10,0,9,0,Yes,No,Yes,Yes,Yes,2021-05-19 20:43,11
+Virk Hospital Karnal,"363-364, Randhir lane, near Dyal Singh College, Karnal, Haryana",Yes (8),6,0,2,0,37,0,8,1,Yes,Yes,Yes,Yes,Yes,2021-05-19 19:05,11
+BALAJI HOSPITAL,"Yamuna Nagar, Haryana",Yes (7),6,1,0,0,8,2,2,0,Yes,No,Yes,Yes,Yes,2021-05-19 17:29,22
+Ch Lekh Raj Multispeciality Hospital,Vill Gadhauli Yamuna Nagar,Yes (145),138,0,7,1,140,0,10,5,Yes,Yes,Yes,Yes,Yes,2021-05-19 17:24,22
+CHC Bilaspur,CHC Bilaspur,Yes (19),3,16,0,0,8,17,0,0,Yes,No,Yes,No,Yes,2021-05-19 17:16,22
+CHC Chhachharuli,CHC Chhachharuli,Yes (9),3,6,0,0,10,20,0,0,Yes,No,Yes,Yes,Yes,2021-05-19 17:16,22
+CHC Naharpur,Naharpur Yamuna Nagar,Yes (10),10,0,0,0,10,0,0,0,Yes,No,Yes,Yes,Yes,2021-05-19 17:26,22
+CHC Partap Nagar,CHC Partap Nagar,Yes (13),5,8,0,0,6,10,0,0,Yes,No,Yes,No,Yes,2021-05-19 17:17,22
+CHC Radaur,Radaur Yamuna Nagar,Yes (10),10,0,0,0,10,0,0,0,Yes,No,Yes,Yes,Yes,2021-05-19 17:25,22
+CHC Saraswati Nagar,CHC Saraswati Nagar,Yes (15),4,11,0,0,14,11,0,0,Yes,No,Yes,No,Yes,2021-05-19 17:17,22
+DABRA HOSPITAL Yamunanagar,DABRA HOSPITAL,Yes (12),4,8,0,0,11,8,4,2,No,No,No,No,No,2021-05-19 17:17,22
+ESI Hospital,"ESI Hospital, Jagadhri",Yes (15),15,0,0,0,50,0,8,0,Yes,No,Yes,Yes,Yes,2021-05-19 17:14,22
+Gaba Hospital,Gaba Hospital Yamunanagar,Yes (85),40,25,20,5,100,25,20,5,To Be Updated,To Be Updated,To Be Updated,To Be Updated,To Be Updated,2021-05-19 18:49,22
+GULATI HOSPITAL,GULATI HOSPITAL,Yes (3),2,1,0,0,25,3,6,0,Yes,No,Yes,Yes,Yes,2021-05-19 17:18,22
+Heart Care Center Hospital,Near Lal Dwara Mandir Yamuna Nagar,Yes (14),0,2,12,2,2,2,15,7,Yes,No,Yes,Yes,Yes,2021-05-19 17:15,22
+JP Hospital Pvt,"Jagadhri Rd, near Luxmi Theater, Vishwakarma Mohalla, Yamuna Nagar,HARAYANA Haryana",Yes (6),3,2,1,0,15,15,13,2,Yes,No,Yes,Yes,Yes,2021-05-19 17:15,22
+KAPOOR HOSPITAL,"SH 6A Indira Colony Jagadhri, yamunanagart ,Haryana",Yes (5),3,0,2,0,4,0,8,0,Yes,No,Yes,Yes,Yes,2021-05-19 17:21,22
+KESHWANI HOSPITAL,"Jagadhri - Yamuna Nagar Rd, Tagore Garden, Yamuna Nagar, Haryana",No (0),0,0,0,0,10,0,0,0,Yes,No,Yes,Yes,Yes,2021-05-19 17:30,22
+Maxxwell Hospital,Jagadhari Yamuna Nagar,Yes (12),8,1,3,0,10,1,6,0,Yes,No,Yes,Yes,Yes,2021-05-19 17:18,22
+Mukand Lal District Civil Hospital Yamunanagar,Mukand Lal District Civil Hospital YNR,Yes (14),7,7,0,0,18,9,0,5,Yes,No,Yes,Yes,Yes,2021-05-19 17:18,22
+NIRMAL HOSPITAL,"199, Radaur Rd, near nirmal hospital, camp, Garhi Gujran, Haryana",No (0),0,0,0,0,13,1,6,0,Yes,No,Yes,Yes,Yes,2021-05-19 17:15,22
+RK Gupta,opp DAV Sr Sec School Near Madhu Hotel YNR,Yes (4),4,0,0,0,15,2,0,0,Yes,Yes,Yes,Yes,Yes,2021-05-19 17:27,22
+SABBARWAL HOSPITAL,"Gulab Nagar, Jagadhri, Haryana",Yes (2),1,0,1,0,6,1,6,0,Yes,No,Yes,Yes,Yes,2021-05-19 17:21,22
+Sachdeva Hospital,"2227, Civil Lines Rd, Sri Nagar Colony, Civil Lines, Gomti Mohalla, Jagadhri, Haryana",Yes (14),11,1,2,0,16,8,4,0,Yes,No,Yes,Yes,Yes,2021-05-19 17:29,22
+Santosh Hospital,"Santosh Hospital  Kanhaiya Sahib Chowk, near Govt.School, Harbanspura Colony, Gobind Pura, Yamuna Nagar, Haryana",Yes (9),0,6,3,0,5,9,14,2,Yes,No,Yes,Yes,Yes,2021-05-19 17:13,22
+SHARMA HOSPITAL,Near Agarsain Chowk Jagadhri,Yes (1),1,0,0,0,12,0,0,0,Yes,No,Yes,Yes,Yes,2021-05-19 17:22,22
+Shree Medical Care Hospital,"359/2, Jain nagar, Jagadhri, Haryana",Yes (7),7,0,0,0,15,0,0,0,Yes,Yes,Yes,Yes,Yes,2021-05-19 17:31,22
+Shureshtha Hospital,Model Colony YNR,No (0),0,0,0,0,9,1,2,0,Yes,No,Yes,Yes,Yes,2021-05-19 17:27,22
+SP Hospital Jag,S.P Hospital Jag,No (0),0,0,0,0,4,0,1,1,Yes,No,Yes,Yes,Yes,2021-05-19 17:19,22
+Swami Vivekanand Hospital Yamunanagar,"Swami Vivekanand Hospital,Yamuna Nagar, Haryana",Yes (16),6,10,0,0,20,10,19,1,Yes,No,Yes,Yes,Yes,2021-05-19 17:19,22
+tejli stadium,64 A Tejli,Yes (40),4,36,0,0,20,56,0,0,Yes,No,No,No,Yes,2021-05-19 17:20,22
+VARDAAN HOSPITAL,OPP KOHLI HOSPITAL NEAR AGARSEN COLLEGE JAGADHRI,Yes (8),6,2,0,0,8,2,0,0,Yes,No,Yes,Yes,Yes,2021-05-19 17:31,22
+WARYAM SINGH HOSPITAL,NEAR CIVIL HOSPITAL YAMUNA NAGAR,Yes (7),4,2,1,0,16,2,4,0,Yes,Yes,Yes,Yes,Yes,2021-05-19 17:23,22
