@@ -1,0 +1,32 @@
+name,address,Availability_availability_of_beds,Availability_oxygen_beds,Availability_non_oxygen_beds,Availability_i_c_u_beds,Availability_ventilators,Allocated_oxygen_beds,Allocated_non_oxygen_beds,Allocated_i_c_u,Allocated_ventilators,Availability_availability_of_oxygen,Availability_antiviral_remdesivir_etc_,Availability_steroids,Availability_anticoagulant,Availability_antipyretic,updated_on,city
+BALAJI HOSPITAL,"Yamuna Nagar, Haryana",Yes (11),7,2,2,0,8,2,2,0,Yes,No,Yes,Yes,Yes,2021-05-22 17:22,22
+Ch Lekh Raj Multispeciality Hospital,Vill Gadhauli Yamuna Nagar,Yes (142),135,0,7,2,140,0,10,5,Yes,Yes,Yes,Yes,Yes,2021-05-22 17:21,22
+CHC Bilaspur,CHC Bilaspur,Yes (17),2,15,0,0,8,17,0,0,Yes,No,Yes,No,Yes,2021-05-22 17:15,22
+CHC Chhachharuli,CHC Chhachharuli,Yes (16),5,11,0,0,10,20,0,0,Yes,No,Yes,Yes,Yes,2021-05-22 17:16,22
+CHC Naharpur,Naharpur Yamuna Nagar,Yes (10),10,0,0,0,10,0,0,0,Yes,No,No,No,Yes,2021-05-22 17:21,22
+CHC Partap Nagar,CHC Partap Nagar,Yes (13),5,8,0,0,6,10,0,0,Yes,No,Yes,No,Yes,2021-05-22 17:16,22
+CHC Radaur,Radaur Yamuna Nagar,Yes (10),10,0,0,0,10,0,0,0,Yes,No,Yes,Yes,Yes,2021-05-22 17:21,22
+CHC Saraswati Nagar,CHC Saraswati Nagar,Yes (15),4,11,0,0,14,11,0,0,Yes,No,Yes,No,Yes,2021-05-22 17:16,22
+DABRA HOSPITAL Yamunanagar,DABRA HOSPITAL,Yes (18),10,8,0,0,11,8,4,2,No,No,No,No,No,2021-05-22 17:17,22
+ESI Hospital,"ESI Hospital, Jagadhri",Yes (9),9,0,0,0,50,0,8,0,Yes,No,Yes,Yes,Yes,2021-05-22 17:14,22
+Gaba Hospital,Gaba Hospital Yamunanagar,Yes (24),0,24,0,0,50,40,30,5,To Be Updated,To Be Updated,To Be Updated,To Be Updated,To Be Updated,2021-05-22 17:13,22
+GULATI HOSPITAL,GULATI HOSPITAL,Yes (2),1,1,0,0,25,3,6,0,Yes,No,Yes,Yes,Yes,2021-05-22 17:17,22
+Heart Care Center Hospital,Near Lal Dwara Mandir Yamuna Nagar,Yes (15),2,2,11,4,2,2,15,7,Yes,No,Yes,Yes,Yes,2021-05-22 17:15,22
+JP Hospital Pvt,"Jagadhri Rd, near Luxmi Theater, Vishwakarma Mohalla, Yamuna Nagar,HARAYANA Haryana",Yes (8),2,4,2,0,15,15,13,2,Yes,No,Yes,Yes,Yes,2021-05-22 17:14,22
+KAPOOR HOSPITAL,"SH 6A Indira Colony Jagadhri, yamunanagart ,Haryana",Yes (5),1,0,4,0,4,0,8,0,Yes,No,Yes,Yes,Yes,2021-05-22 17:19,22
+KESHWANI HOSPITAL,"Jagadhri - Yamuna Nagar Rd, Tagore Garden, Yamuna Nagar, Haryana",Yes (3),3,0,0,0,10,0,0,0,Yes,No,Yes,Yes,Yes,2021-05-22 17:23,22
+Maxxwell Hospital,Jagadhari Yamuna Nagar,Yes (14),10,1,3,0,10,1,6,0,Yes,No,Yes,Yes,Yes,2021-05-22 17:17,22
+Mukand Lal District Civil Hospital Yamunanagar,Mukand Lal District Civil Hospital YNR,Yes (15),9,6,0,0,18,9,0,5,Yes,No,Yes,Yes,Yes,2021-05-22 17:17,22
+NIRMAL HOSPITAL,"199, Radaur Rd, near nirmal hospital, camp, Garhi Gujran, Haryana",Yes (6),4,1,1,0,13,1,6,0,Yes,No,Yes,Yes,Yes,2021-05-22 17:14,22
+RK Gupta,opp DAV Sr Sec School Near Madhu Hotel YNR,Yes (5),4,1,0,0,15,2,0,0,Yes,Yes,Yes,Yes,Yes,2021-05-22 17:21,22
+SABBARWAL HOSPITAL,"Gulab Nagar, Jagadhri, Haryana",No (0),0,0,0,0,6,1,6,0,Yes,No,Yes,Yes,Yes,2021-05-22 17:20,22
+Sachdeva Hospital,"2227, Civil Lines Rd, Sri Nagar Colony, Civil Lines, Gomti Mohalla, Jagadhri, Haryana",Yes (19),10,7,2,0,16,8,4,0,Yes,No,Yes,Yes,Yes,2021-05-22 17:22,22
+Santosh Hospital,"Santosh Hospital  Kanhaiya Sahib Chowk, near Govt.School, Harbanspura Colony, Gobind Pura, Yamuna Nagar, Haryana",Yes (12),0,7,5,0,5,9,14,2,Yes,No,Yes,Yes,Yes,2021-05-22 17:12,22
+SHARMA HOSPITAL,Near Agarsain Chowk Jagadhri,Yes (4),4,0,0,0,12,0,0,0,Yes,No,Yes,Yes,Yes,2021-05-22 17:20,22
+Shree Medical Care Hospital,"359/2, Jain nagar, Jagadhri, Haryana",Yes (12),12,0,0,0,15,0,0,0,Yes,Yes,Yes,Yes,Yes,2021-05-22 17:23,22
+Shureshtha Hospital,Model Colony YNR,No (0),0,0,0,0,9,1,2,0,Yes,No,Yes,Yes,Yes,2021-05-22 17:22,22
+SP Hospital Jag,S.P Hospital Jag,Yes (5),4,0,1,0,4,0,3,1,Yes,No,Yes,Yes,Yes,2021-05-22 17:18,22
+Swami Vivekanand Hospital Yamunanagar,"Swami Vivekanand Hospital,Yamuna Nagar, Haryana",Yes (19),9,10,0,0,20,10,19,1,Yes,No,Yes,Yes,Yes,2021-05-22 17:18,22
+tejli stadium,64 A Tejli,Yes (35),5,30,0,0,20,56,0,0,Yes,No,No,No,Yes,2021-05-22 17:19,22
+VARDAAN HOSPITAL,OPP KOHLI HOSPITAL NEAR AGARSEN COLLEGE JAGADHRI,Yes (8),6,2,0,0,8,2,0,0,Yes,No,Yes,Yes,Yes,2021-05-22 17:23,22
+WARYAM SINGH HOSPITAL,NEAR CIVIL HOSPITAL YAMUNA NAGAR,Yes (20),14,2,4,0,16,2,4,0,Yes,Yes,Yes,Yes,Yes,2021-05-22 17:20,22
