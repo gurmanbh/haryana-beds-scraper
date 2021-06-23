@@ -1,53 +1,20 @@
 name,address,Availability_availability_of_beds,Availability_oxygen_beds,Availability_non_oxygen_beds,Availability_i_c_u_beds,Availability_ventilators,Allocated_oxygen_beds,Allocated_non_oxygen_beds,Allocated_i_c_u,Allocated_ventilators,Availability_availability_of_oxygen,Availability_antiviral_remdesivir_etc_,Availability_steroids,Availability_anticoagulant,Availability_antipyretic,updated_on,city
-Amar Hospotal,Assandh,No (0),0,0,0,0,0,0,0,0,Yes,Yes,Yes,Yes,Yes,1970-01-01 00:00,11
-"AMRITDHARA, Chaura Bazar","Near ITI Chowk, Gahoon Vihar, Karnal, Haryana",Yes (4),4,0,0,0,38,0,26,2,Yes,No,Yes,Yes,Yes,1970-01-01 00:00,11
-Arpana Hospital,"G.T. Road, Madhuban, Karnal, Karnal, Haryana",Yes (18),16,0,2,0,16,0,2,1,Yes,No,Yes,Yes,Yes,1970-01-01 00:00,11
-Arsh Hospital,Opp. Kalpana Chawla Medical College,Yes (15),9,0,6,0,9,0,6,0,Yes,Yes,Yes,Yes,Yes,1970-01-01 00:00,11
-CHC Assandh,"Assandh, Assandh Ruralpart, Haryana",Yes (10),10,0,0,0,10,0,0,0,Yes,No,Yes,No,Yes,1970-01-01 00:00,11
-CHC Gharaunda,"Balinagar, Gharaunda, Haryana",Yes (10),10,0,0,0,10,0,0,0,Yes,No,Yes,No,Yes,1970-01-01 00:00,11
-CHC Kunjpura,Village Kunjpura,Yes (11),11,0,0,0,11,0,0,0,To Be Updated,Yes,Yes,Yes,Yes,1970-01-01 00:00,11
-CHC Nissing,"SH 8, Gondar, Nissing, Haryana",Yes (10),10,0,0,0,10,0,0,0,Yes,No,Yes,No,Yes,1970-01-01 00:00,11
-CHC Taraori,CHC Taraori,Yes (6),6,0,0,0,6,0,0,0,Yes,No,Yes,No,Yes,1970-01-01 00:00,11
-Dr. Gian Bhushan Hospital,"Kunjpura Rd Old Char Chaman Dyal Singh Colony Karnal  132001 Republic of,",Yes (8),3,0,5,0,6,0,5,0,Yes,No,No,No,No,1970-01-01 00:00,11
-Ishwar Kirpa Hospital,"Ishwar Kirpa Hospital, Sector -14",Yes (20),14,0,6,0,14,0,7,0,Yes,No,Yes,Yes,Yes,1970-01-01 00:00,11
-"Kalpana Chawla Government Medical College, Karnal","Model Town, Karnal, Haryana",Yes (2),1,0,1,0,200,0,80,80,Yes,Yes,Yes,Yes,Yes,1970-01-01 00:00,11
-Karnal Nursing Home,"26 Duggal Colony, Karnal",Yes (16),8,0,8,0,8,0,10,0,Yes,To Be Updated,Yes,Yes,Yes,1970-01-01 00:00,11
-Maxxwell Hospital Indri,Near Budhnath Dera Ward No 1,Yes (15),10,0,5,3,10,0,5,3,Yes,Yes,Yes,Yes,Yes,1970-01-01 00:00,11
-Park Hospital karnal,"CHD City, NH-1, Sector 45, Karnal, Haryana",Yes (30),10,0,20,2,10,0,20,2,To Be Updated,To Be Updated,To Be Updated,To Be Updated,To Be Updated,1970-01-01 00:00,11
-Rama Superspeciality Hospital,Civil Hosp Chowk Karnal,No (0),0,0,0,0,8,0,6,0,Yes,No,Yes,Yes,Yes,1970-01-01 00:00,11
-RP Welltar Hospital,"Vill. Bastara, District Karnal",Yes (17),9,4,4,1,10,4,4,1,Yes,No,Yes,No,Yes,1970-01-01 00:00,11
-Sanidhya Nursing Home,"indri, Karnal",Yes (15),10,0,5,0,10,0,5,0,To Be Updated,Yes,Yes,Yes,Yes,1970-01-01 00:00,11
-"Sanjiv Bansal Cygnus Hospital , Karnal","Railway Rd, Ibrahim Mandi, Karnal, Haryana",Yes (19),17,0,2,2,20,0,5,2,Yes,Yes,Yes,Yes,Yes,1970-01-01 00:00,11
-Sarvodya Hospital Karnal,"Sector 14, Near Tau Devi Lal Chowk",Yes (22),12,0,10,0,12,0,10,0,Yes,Yes,Yes,Yes,Yes,1970-01-01 00:00,11
-SDH Nilokheri,SDH Nilokheri,Yes (10),10,0,0,0,10,0,0,0,Yes,No,Yes,No,Yes,1970-01-01 00:00,11
-Shri Ram Chand Memorial Hospital,"12, Ashoka colony,Opp Kalpana Chawla hospital, Karnal, Haryana",No (0),0,0,0,0,8,0,7,3,Yes,No,Yes,Yes,Yes,1970-01-01 00:00,11
-Shri Sanatan Dharam Mahabir Dal,"Kunjpura Road, Karnal Near Sanatan Dharam Mandir",Yes (12),12,0,0,0,12,0,0,0,Yes,Yes,Yes,Yes,Yes,1970-01-01 00:00,11
-SS Hospital,"Sector 14, Karnal",Yes (14),7,0,7,0,7,0,7,0,Yes,To Be Updated,Yes,Yes,Yes,1970-01-01 00:00,11
-Swastik Hospital,Swastic Hospital Opp DCH,Yes (19),10,0,9,0,10,0,9,0,Yes,No,Yes,Yes,Yes,1970-01-01 00:00,11
-Virk Hospital Karnal,"363-364, Randhir lane, near Dyal Singh College, Karnal, Haryana",Yes (43),35,0,8,1,37,0,8,1,Yes,Yes,Yes,Yes,Yes,1970-01-01 00:00,11
-Aashirwad Hospital,101 Devi Murti Colony Panipat,Yes (9),2,0,7,1,2,0,7,1,Yes,No,Yes,Yes,Yes,1970-01-01 00:00,17
-Aayushmaan Bhav Hospital,"GT Road Sewah, Near Police Line Panipat",Yes (15),5,4,6,2,5,4,6,2,Yes,No,Yes,Yes,Yes,1970-01-01 00:00,17
-APEX HOSPITAL &amp; TRAUMA CENTRE,SANOLI ROAD BABAIL NAKA,Yes (35),9,0,26,2,9,0,26,2,No,No,Yes,Yes,Yes,1970-01-01 00:00,17
-CHC Dadlana,"VPO Dadlana, Panipat",Yes (8),0,8,0,0,0,8,0,0,No,No,No,No,Yes,1970-01-01 00:00,17
-CHC Khotpura,VPO Khotpura Panipat,Yes (9),0,9,0,0,0,9,0,0,No,No,No,No,No,1970-01-01 00:00,17
-Chhabra Hospital,A-1 Narain Singh Park,Yes (11),6,0,5,1,6,0,5,1,Yes,No,Yes,Yes,Yes,1970-01-01 00:00,17
-Civil Hospital panipat,Civil Hospital GT Road Panipat,Yes (104),74,20,10,3,74,20,10,4,Yes,Yes,Yes,Yes,Yes,1970-01-01 00:00,17
-Cygnus Hospital panipat,Cygnus Hospital Near Devi Mndir Panipat,Yes (17),12,0,5,4,12,0,5,4,Yes,No,Yes,Yes,Yes,1970-01-01 00:00,17
-GALAXY HOSPITAL,ASSAND ROAD PANIPAT,Yes (15),7,0,8,2,7,0,8,2,Yes,No,Yes,Yes,Yes,1970-01-01 00:00,17
-Guru Teg Bhadur Sanjeevani Hospital,"Village Bal Jatan Near Panipat Refinary, Panipat",Yes (314),307,7,0,0,307,7,0,0,Yes,No,Yes,Yes,Yes,1970-01-01 00:00,17
-Hyderabadi General Hospital &amp; Nursing Home,"Sanoli Road, Near Sanjay, Chowk, Panipat",Yes (10),0,0,10,2,0,0,10,2,Yes,No,Yes,Yes,Yes,1970-01-01 00:00,17
-IBM HOSPITAL &amp; TRAUMA CENTRE,NEAR BHIM GODA MANDIR SANOLI ROAD,Yes (24),12,0,12,2,12,0,12,2,Yes,No,Yes,Yes,Yes,1970-01-01 00:00,17
-LHDM &amp; Prem Hospital,Prem Hospital Opp. Bus Stand Panipat,Yes (78),70,0,8,6,71,0,9,8,Yes,Yes,Yes,Yes,Yes,1970-01-01 00:00,17
-MAX PLUS HOSPITAL,NEAR MALIK PETROL PUMP SANOLI ROAD,Yes (15),8,0,7,3,8,0,7,3,Yes,No,Yes,Yes,Yes,1970-01-01 00:00,17
-NC Medical College,NC Medical Colllage Israna,Yes (530),42,483,5,4,42,483,5,4,Yes,No,Yes,Yes,Yes,1970-01-01 00:00,17
-Park Hospital GT road panipat,"GT Road Sewah, Paniapt",Yes (82),52,14,16,2,52,14,16,2,Yes,Yes,Yes,Yes,Yes,1970-01-01 00:00,17
-Prime Hospital Health Leaders,"Opp. Gangapuri Road, Sanoli Road Panipat",Yes (20),14,2,4,4,14,2,4,4,Yes,No,Yes,Yes,Yes,1970-01-01 00:00,17
-Rainbow Hospital,152-R Model Town Panipat,Yes (9),6,0,3,1,6,0,3,1,Yes,No,Yes,Yes,Yes,1970-01-01 00:00,17
-SDH Samalkha,G.T Road Samalkha,Yes (50),30,20,0,0,30,20,0,0,No,No,Yes,No,Yes,1970-01-01 00:00,17
-shobhit Hospital,"adjacent canara bank, tahsil camp",Yes (19),12,2,5,1,12,2,5,1,Yes,No,Yes,Yes,Yes,1970-01-01 00:00,17
-Shree Badri Das Hospital and ICU Care Centre,Assandh Road Panipat,Yes (11),8,0,3,1,8,0,3,1,Yes,No,Yes,Yes,Yes,1970-01-01 00:00,17
-Shree Balajee Multispeciality Hospital,Aggarsan Colony Assandh Road Panipat,Yes (10),4,0,6,2,4,0,6,2,Yes,Yes,Yes,Yes,Yes,1970-01-01 00:00,17
-Shubham Hospital,"202 New Sukhdev Nagar, Panipat",Yes (9),6,0,3,3,6,0,3,3,Yes,No,Yes,Yes,Yes,1970-01-01 00:00,17
+Civil Hospital Fatehabad,Near Bus Stand Fatehabad,Yes (45),20,0,25,6,20,0,26,6,Yes,Yes,Yes,Yes,Yes,1970-01-01 00:00,5
+Civil Hospital Ratia,"Dera Surjanhar, Ratia, Fatehabad",Yes (15),2,0,13,3,5,0,13,3,Yes,Yes,Yes,Yes,Yes,1970-01-01 00:00,5
+"Civil Hospital, Tohana",Opposite New Sabzi Mandi Tohana,Yes (27),10,3,14,2,10,3,14,2,Yes,Yes,Yes,Yes,Yes,1970-01-01 00:00,5
+Community Health Center Bhattu,"Surya Nagar, Bhattu Mandi near Railway Station",Yes (12),4,2,6,0,4,2,6,0,Yes,Yes,Yes,Yes,Yes,1970-01-01 00:00,5
+Community Health Center Bhuna,CHC Bhuna,Yes (30),16,14,0,0,16,14,0,0,Yes,No,Yes,Yes,Yes,1970-01-01 00:00,5
+Community Health Center JAKHAL,Near SBI Bank Jakhal,Yes (12),6,0,6,0,6,0,6,0,Yes,Yes,Yes,Yes,Yes,1970-01-01 00:00,5
+"Gupta Children Hospital, Ratia","Aggarwal Colony, Ratia",Yes (16),6,8,2,1,6,8,2,1,Yes,Yes,Yes,Yes,Yes,1970-01-01 00:00,5
+Kaushal Hospital,"Near Harvinder Singh Petrol Pump, Hisar Road, Fatehabad",Yes (16),11,0,5,3,12,0,6,4,Yes,Yes,Yes,Yes,Yes,1970-01-01 00:00,5
+"Manav Sewa Sangam Hospital, Tohana",Near Truck Union,Yes (15),15,0,0,0,15,0,0,0,Yes,Yes,Yes,Yes,Yes,1970-01-01 00:00,5
+Miglani Hospital,"Employees Colony, Ratia,",Yes (24),15,2,7,7,15,2,7,7,Yes,Yes,Yes,Yes,Yes,1970-01-01 00:00,5
+Rajasthan Medical Centre (RMC) Hospital Tohana,Kenchi Chowk Tohana,Yes (15),11,0,4,2,11,0,4,2,Yes,Yes,Yes,Yes,Yes,1970-01-01 00:00,5
+Sadhbhawdna Hospital Fatehabad,Near Court Complex Hisar Road Fatehabad,Yes (46),14,20,12,3,15,20,15,5,Yes,Yes,Yes,Yes,Yes,1970-01-01 00:00,5
+Sanjeevani Hospital Fatehabad,"Goshala Road, near Ashirbad Pelace",Yes (10),6,0,4,3,6,0,4,3,Yes,Yes,Yes,Yes,Yes,1970-01-01 00:00,5
+Sanjeevani Hospital Tohana,"Kenchi Chock, Tohana",Yes (18),0,6,12,2,0,6,12,2,Yes,Yes,Yes,Yes,Yes,1970-01-01 00:00,5
+"Singla Hospital , fatehabad","Bhattu Road, Batra Colony, Fatehabad",Yes (13),5,8,0,0,5,8,0,0,Yes,Yes,Yes,Yes,Yes,1970-01-01 00:00,5
+WadhwaMaternity and surgical Hospital Fatehabad,"Near Papiha Park, Fatehabad",Yes (8),1,0,7,1,1,0,7,1,Yes,Yes,Yes,Yes,Yes,1970-01-01 00:00,5
 Ch Lekh Raj Multispeciality Hospital,Vill Gadhauli Yamuna Nagar,Yes (149),139,0,10,5,140,0,10,5,Yes,Yes,Yes,Yes,Yes,1970-01-01 00:00,22
 CHC Bilaspur,CHC Bilaspur,Yes (25),8,17,0,0,8,17,0,0,Yes,No,Yes,No,Yes,1970-01-01 00:00,22
 CHC Chhachharuli,CHC Chhachharuli,Yes (30),10,20,0,0,10,20,0,0,Yes,No,Yes,Yes,Yes,1970-01-01 00:00,22
@@ -56,15 +23,15 @@ CHC Partap Nagar,CHC Partap Nagar,Yes (16),6,10,0,0,6,10,0,0,Yes,No,Yes,No,Yes,1
 CHC Radaur,Radaur Yamuna Nagar,Yes (20),10,10,0,0,10,10,0,0,Yes,No,Yes,Yes,Yes,1970-01-01 00:00,22
 CHC Saraswati Nagar,CHC Saraswati Nagar,Yes (25),14,11,0,0,14,11,0,0,Yes,No,Yes,No,Yes,1970-01-01 00:00,22
 DABRA HOSPITAL Yamunanagar,DABRA HOSPITAL,Yes (23),11,8,4,2,11,8,4,2,Yes,No,Yes,Yes,Yes,1970-01-01 00:00,22
-ESI Hospital,"ESI Hospital, Jagadhri",Yes (52),31,0,21,0,36,0,22,0,Yes,No,Yes,Yes,Yes,1970-01-01 00:00,22
+ESI Hospital,"ESI Hospital, Jagadhri",Yes (51),29,0,22,0,36,0,22,0,Yes,No,Yes,Yes,Yes,1970-01-01 00:00,22
 Gaba Hospital,Gaba Hospital Yamunanagar,Yes (41),20,10,11,5,20,10,15,5,Yes,No,Yes,Yes,Yes,1970-01-01 00:00,22
 GULATI HOSPITAL,GULATI HOSPITAL,Yes (33),24,3,6,0,25,3,6,0,Yes,No,Yes,Yes,Yes,1970-01-01 00:00,22
 Heart Care Center Hospital,Near Lal Dwara Mandir Yamuna Nagar,Yes (19),2,2,15,7,2,2,15,7,Yes,No,Yes,Yes,Yes,1970-01-01 00:00,22
-JP Hospital Pvt,"Jagadhri Rd, near Luxmi Theater, Vishwakarma Mohalla, Yamuna Nagar,HARAYANA Haryana",Yes (39),15,15,9,2,15,15,13,2,Yes,No,Yes,Yes,Yes,1970-01-01 00:00,22
+JP Hospital Pvt,"Jagadhri Rd, near Luxmi Theater, Vishwakarma Mohalla, Yamuna Nagar,HARAYANA Haryana",Yes (40),15,15,10,2,15,15,13,2,Yes,No,Yes,Yes,Yes,1970-01-01 00:00,22
 KAPOOR HOSPITAL,"SH 6A Indira Colony Jagadhri, yamunanagart ,Haryana",Yes (12),4,0,8,0,4,0,8,0,Yes,No,Yes,Yes,Yes,1970-01-01 00:00,22
 KESHWANI HOSPITAL,"Jagadhri - Yamuna Nagar Rd, Tagore Garden, Yamuna Nagar, Haryana",Yes (10),10,0,0,0,10,0,0,0,Yes,No,Yes,Yes,Yes,1970-01-01 00:00,22
 Maxxwell Hospital,Jagadhari Yamuna Nagar,Yes (17),11,0,6,0,11,0,6,0,Yes,No,Yes,Yes,Yes,1970-01-01 00:00,22
-Mukand Lal District Civil Hospital Yamunanagar,Mukand Lal District Civil Hospital YNR,Yes (27),18,9,0,3,18,9,0,5,Yes,No,Yes,Yes,Yes,1970-01-01 00:00,22
+Mukand Lal District Civil Hospital Yamunanagar,Mukand Lal District Civil Hospital YNR,Yes (27),18,9,0,2,18,9,0,5,Yes,No,Yes,Yes,Yes,1970-01-01 00:00,22
 RK Gupta,opp DAV Sr Sec School Near Madhu Hotel YNR,Yes (16),0,2,14,0,0,2,15,0,Yes,Yes,Yes,Yes,Yes,1970-01-01 00:00,22
 SABBARWAL HOSPITAL,"Gulab Nagar, Jagadhri, Haryana",Yes (12),5,1,6,0,6,1,6,0,Yes,No,Yes,Yes,Yes,1970-01-01 00:00,22
 Sachdeva Hospital,"2227, Civil Lines Rd, Sri Nagar Colony, Civil Lines, Gomti Mohalla, Jagadhri, Haryana",Yes (28),16,8,4,0,16,8,4,0,Yes,No,Yes,Yes,Yes,1970-01-01 00:00,22
