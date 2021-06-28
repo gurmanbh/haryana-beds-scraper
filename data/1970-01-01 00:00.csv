@@ -1,35 +1,29 @@
 name,address,Availability_availability_of_beds,Availability_oxygen_beds,Availability_non_oxygen_beds,Availability_i_c_u_beds,Availability_ventilators,Allocated_oxygen_beds,Allocated_non_oxygen_beds,Allocated_i_c_u,Allocated_ventilators,Availability_availability_of_oxygen,Availability_antiviral_remdesivir_etc_,Availability_steroids,Availability_anticoagulant,Availability_antipyretic,updated_on,city
-"Apex Hospital, Sirsa","Circular Road, Sirsa",Yes (18),12,2,4,1,12,2,4,1,To Be Updated,To Be Updated,To Be Updated,To Be Updated,To Be Updated,1970-01-01 00:00,20
-"Astha Hospital, Sirsa",Dabwali Road Sirsa,Yes (20),15,0,5,0,15,0,5,0,Yes,No,Yes,Yes,Yes,1970-01-01 00:00,20
-CIVIL HOSPITAL SIRSA,"Civil Hospital Road, Sirsa",Yes (94),74,14,6,6,85,14,6,6,Yes,Yes,Yes,Yes,Yes,1970-01-01 00:00,20
-"Dayal Nursing Home, Sirsa","Dabwali Road, Sirsa",Yes (12),9,3,0,0,9,3,0,0,Yes,To Be Updated,Yes,Yes,Yes,1970-01-01 00:00,20
-"Gupta Hospital, Sirsa","Dabwali Road, Sirsa Near Easy Day",Yes (9),4,3,2,0,4,3,5,0,Yes,To Be Updated,Yes,Yes,Yes,1970-01-01 00:00,20
-"Jagdish Nursing Home, Sirsa","Gandhi Market, Parshuram Chowk, Sirsa",Yes (11),0,4,7,1,0,4,7,1,Yes,No,Yes,Yes,Yes,1970-01-01 00:00,20
-"Jeevan Jyoti Hospital, Sirsa",Dabwali Road Sirsa,Yes (13),6,1,6,3,7,1,6,3,Yes,No,Yes,Yes,Yes,1970-01-01 00:00,20
-"Khurana Hospital, Sirsa",Dabwali Road Sirsa,Yes (10),6,0,4,0,6,0,4,0,Yes,No,Yes,Yes,Yes,1970-01-01 00:00,20
-"Lalgarhia Hospital, Sirsa",Dabwali Road Sirsa,Yes (17),12,2,3,1,13,2,3,1,Yes,Yes,Yes,Yes,Yes,1970-01-01 00:00,20
-"Medicare Hospital, Sirsa","Dabwali Road, Sirsa",Yes (13),1,6,6,2,1,6,6,2,Yes,Yes,Yes,Yes,Yes,1970-01-01 00:00,20
-"Metro Health Care Hospital, Sirsa","Near Dena Bank, lal Batti Chowk, Sirsa",Yes (10),5,0,5,0,5,0,5,1,Yes,Yes,Yes,Yes,Yes,1970-01-01 00:00,20
-"Mittal Hospital, Sirsa","Near Jhunthra Petrol Pump, Dabwali Road Sirsa",Yes (16),12,1,3,0,14,1,4,0,Yes,No,Yes,Yes,Yes,1970-01-01 00:00,20
-"New Life Care Hospital, Sirsa","Dabwali Road, Sirsa",Yes (12),7,2,3,0,7,2,3,0,Yes,No,Yes,Yes,Yes,1970-01-01 00:00,20
-"Poonia COVID Care Center, Sirsa","Near Ambedkar chowk, opposite Seth tula ram dharamshala, Hisar Road, Sirsa, Haryana 125055",Yes (24),14,7,3,1,14,7,3,1,Yes,Yes,Yes,Yes,Yes,1970-01-01 00:00,20
-"Sanjeevni Hospital, Sirsa (Wing -2, 1 &amp; 2nd Floor)","Under over bridge, hisar road, sirsa",Yes (90),44,30,16,6,45,30,16,6,Yes,Yes,Yes,Yes,Yes,1970-01-01 00:00,20
-SDCH Dabwali,"Dabwali, District Sirsa",Yes (23),10,13,0,0,12,13,0,0,Yes,No,Yes,Yes,Yes,1970-01-01 00:00,20
-"Shah Satnam Dera Hospital (Wing -2, 2nd floor), Sirsa","Begu Road, Sirsa",Yes (62),20,30,12,5,21,30,14,7,Yes,Yes,Yes,Yes,Yes,1970-01-01 00:00,20
-"Shri Baba Tara Hospital &amp; Research Center, Sirsa","Hisar Road, Sirsa",Yes (23),15,5,3,1,15,5,5,3,Yes,No,Yes,Yes,Yes,1970-01-01 00:00,20
-"SPS Hospital, Sirsa","Near Sangwan Chowk, Dabwali Road, Sirsa",Yes (14),12,0,2,2,12,0,3,2,Yes,No,Yes,Yes,Yes,1970-01-01 00:00,20
-"Suraksha Hospital, Sirsa","Dabwali Rd, opposite Hotel Aroma, Sirsa, Haryana 125055",Yes (23),10,3,10,7,10,3,11,7,Yes,Yes,Yes,Yes,Yes,1970-01-01 00:00,20
-"Swastik Hospital, Sirsa","Ambedkar Chowk, Nandan Vatika, Sirsa,",Yes (15),5,5,5,1,5,5,5,1,Yes,No,Yes,Yes,Yes,1970-01-01 00:00,20
-"Talwar Nursing Home, Sirsa","Under Over Bridge, Hisar Road, Sirsa",Yes (14),12,0,2,1,12,2,2,1,Yes,Yes,Yes,Yes,Yes,1970-01-01 00:00,20
-"Tomar Nursing Home, Sirsa","Nandan Vatika, near surkhab Chock, Hathi park, Agrasain Colony, Sirsa, Haryana 125055",Yes (18),12,2,4,1,12,2,4,1,Yes,Yes,Yes,Yes,Yes,1970-01-01 00:00,20
-"Vardan Hospital, Sirsa","Near Lal Batti Chowk, Sirsa",Yes (17),8,3,6,0,9,3,6,0,Yes,No,Yes,Yes,Yes,1970-01-01 00:00,20
+Anchal Multispeciality Hospital,"Anchal Multi speciality Hospital, Krishna Colony, Bhiwani, Haryana 127027",Yes (35),25,0,10,2,25,0,10,2,Yes,Yes,Yes,Yes,Yes,1970-01-01 00:00,2
+Ch. Bansilal Govt Hospital,"Bansi Lal General Hospital, Ghanta Ghar Chowk, SH 17, Krishna Colony, Bhiwani, Haryana 127021",Yes (168),137,5,26,16,139,5,28,16,Yes,Yes,Yes,Yes,Yes,1970-01-01 00:00,2
+Chugh Hospital,"Meham Gate, Circular Road, Bhiwani",Yes (20),20,0,0,0,20,0,0,0,Yes,Yes,Yes,Yes,Yes,1970-01-01 00:00,2
+ESI Hospital Bhiwani,"Stadium Rd, Housing Board Colony, Bhiwani, Haryana 127021",Yes (40),0,40,0,0,0,40,0,0,No,No,Yes,Yes,Yes,1970-01-01 00:00,2
+Ganpatrai Hospital,"SH 17, Bank Colony, Bound Kalan, Krishna Colony, Bhiwani, Haryana 127021",Yes (10),4,4,2,1,4,4,2,1,Yes,No,Yes,Yes,Yes,1970-01-01 00:00,2
+Jangra Multispecilaity Hospital,"Bank Colony, Old Bharat Nagar, Bhiwani, Haryana 127021",Yes (10),7,3,0,0,7,3,0,0,Yes,No,Yes,Yes,Yes,1970-01-01 00:00,2
+Jeevan Nursing Home-Bhiwani,Rohtak gate Bhiwani,Yes (10),3,4,3,0,3,4,3,0,Yes,Yes,Yes,Yes,Yes,1970-01-01 00:00,2
+Jeevanrekha Hospital,Near Railway Road Bhiwani,Yes (30),25,0,5,1,25,0,5,1,To Be Updated,To Be Updated,To Be Updated,To Be Updated,To Be Updated,1970-01-01 00:00,2
+Kadam Hospital,"Bank Colony Near New Bus Stand, Bhiwani",Yes (45),11,0,34,1,11,0,34,1,Yes,Yes,Yes,Yes,Yes,1970-01-01 00:00,2
+Krishan Lal Jalan Hospital,"Jalan Nagar, M.C.Colony, Bhiwani, Haryana 127021",Yes (40),20,20,0,0,20,20,0,0,Yes,Yes,Yes,Yes,Yes,1970-01-01 00:00,2
+Life Line Hospital,"Circular Rd, M.C.Colony, Bhiwani, Haryana 127021",Yes (27),21,0,6,0,21,0,6,0,Yes,Yes,Yes,Yes,Yes,1970-01-01 00:00,2
+RPS HOSPITAL,,Yes (24),4,16,4,0,4,16,4,0,Yes,No,Yes,Yes,Yes,1970-01-01 00:00,2
+Sharma Nursing and Maternity Home Tosham,Siwani Road Tosham,Yes (10),7,0,3,2,7,0,3,2,Yes,Yes,To Be Updated,Yes,Yes,1970-01-01 00:00,2
+Shree Ganesha Hospital,"Dadri Gate, Bhiwani",Yes (13),6,3,4,0,6,3,4,0,Yes,Yes,Yes,Yes,Yes,1970-01-01 00:00,2
+"SHRI BABA YOGI NETANATH HOSPITAL , LOHANI ,BHIWANI",VPO Lohani,Yes (49),34,5,10,2,35,5,10,2,Yes,Yes,Yes,Yes,Yes,1970-01-01 00:00,2
+Shri Ram Hospital,Siwani,Yes (11),0,0,11,4,0,0,11,4,To Be Updated,To Be Updated,To Be Updated,To Be Updated,To Be Updated,1970-01-01 00:00,2
+SMSG Multispeciality Hospital,"Rohtak Gate, Bhiwani",Yes (30),2,17,11,2,2,17,11,2,Yes,Yes,Yes,Yes,Yes,1970-01-01 00:00,2
+Spes Hospital,"Circular Rd, Bound Kalan, M.C.Colony, Bhiwani, Haryana 127021",Yes (22),4,6,12,1,4,6,12,1,Yes,Yes,Yes,Yes,Yes,1970-01-01 00:00,2
 "AAROGYAM HOSPITAL, Kurukshetra","NEAR OLD BUS STAND, THANESAR, KURUSKHETRA",Yes (49),34,12,3,26,40,12,15,27,Yes,Yes,Yes,Yes,Yes,1970-01-01 00:00,12
 "ADESH MEDICAL COLLEGE, SHAHBAD MOHRI KURUKSHETRA.","VILL. MOHRI, SHAHBAD, KURUSHETRA",Yes (105),30,70,5,11,30,70,5,11,Yes,Yes,Yes,Yes,Yes,1970-01-01 00:00,12
 AGGARWAL NURSING HOME,"SALARPUR ROAD, THANESAR, KURUKSHETRA.",Yes (26),18,5,3,7,20,7,3,7,Yes,Yes,Yes,Yes,Yes,1970-01-01 00:00,12
 B.S. HEART CARE,"OPP. NEW BUS STAND, KURUKSHETRA.",Yes (26),18,0,8,20,18,0,8,20,Yes,Yes,Yes,Yes,Yes,1970-01-01 00:00,12
-"CYGNUS HOSPITAL, Kurukshetra","NEAR OLD BUS STAND, THANESAR, KURUSKHETRA",Yes (12),7,4,1,4,7,4,1,4,Yes,Yes,Yes,Yes,Yes,1970-01-01 00:00,12
+"CYGNUS HOSPITAL, Kurukshetra","NEAR OLD BUS STAND, THANESAR, KURUSKHETRA",Yes (9),5,3,1,4,7,4,1,4,Yes,Yes,Yes,Yes,Yes,1970-01-01 00:00,12
 KURUKSHETRA NURSING HOME,,Yes (19),18,0,1,2,18,0,1,2,Yes,Yes,Yes,Yes,Yes,1970-01-01 00:00,12
-LNJP CIVIL HOSPITAL.,LNJP HOSPITAL KURUKSHETRA.,Yes (88),55,28,5,5,60,30,5,5,Yes,Yes,Yes,Yes,Yes,1970-01-01 00:00,12
+LNJP CIVIL HOSPITAL.,LNJP HOSPITAL KURUKSHETRA.,Yes (90),57,28,5,5,60,30,5,5,Yes,Yes,Yes,Yes,Yes,1970-01-01 00:00,12
 MIRI PIRI SHAHBAD,"SHAHBAD, KURUKSHETRA",Yes (14),10,0,4,4,10,0,4,4,Yes,Yes,Yes,Yes,Yes,1970-01-01 00:00,12
 Nirogi Hospital,Shahabad Kurukshetra,Yes (7),5,2,0,3,5,2,0,3,Yes,Yes,Yes,Yes,Yes,1970-01-01 00:00,12
 "Saraswati Mission Hospital, Kurukshetra","Theme Park Road, Kurukshetra",Yes (20),4,0,16,2,4,0,16,2,Yes,Yes,Yes,Yes,Yes,1970-01-01 00:00,12
@@ -49,26 +43,82 @@ RAJ HOSPITAL ROHTAK RAOD JIND,ROHTAK ROAD JIND,Yes (15),8,5,2,2,8,5,2,2,Yes,No,Y
 Sarvodhya Hospital Jind,Jind,Yes (20),20,0,0,2,20,0,0,2,Yes,No,Yes,No,No,1970-01-01 00:00,9
 SDH Narwana,Narwana,Yes (32),20,12,0,0,20,12,0,0,Yes,No,Yes,Yes,Yes,1970-01-01 00:00,9
 SDH Safidon,Safidon,Yes (34),20,14,0,0,20,14,0,0,Yes,No,Yes,No,Yes,1970-01-01 00:00,9
-SDH UCHANA,Uchana,Yes (54),19,35,0,0,20,35,0,0,Yes,No,No,No,Yes,1970-01-01 00:00,9
+SDH UCHANA,Uchana,Yes (55),20,35,0,0,20,35,0,0,Yes,No,No,No,Yes,1970-01-01 00:00,9
 Shri Gyani Ram Mamorial Hospital,Safidon,Yes (25),10,5,10,0,10,5,10,0,Yes,No,Yes,Yes,Yes,1970-01-01 00:00,9
-ABLE HOSPITAL,,Yes (37),10,25,2,2,10,25,2,5,Yes,No,Yes,Yes,Yes,2021-05-26 15:08,15
-Apex Hospital,"Prakash Vihar, Delhi Mathura Road, Palwal, Haryana",Yes (19),13,0,6,2,13,0,6,2,Yes,No,Yes,Yes,Yes,2021-05-31 10:07,15
-ATLAS HOSPITAL,"Palwal, Haryana",Yes (14),1,11,2,2,2,11,2,2,To Be Updated,To Be Updated,To Be Updated,To Be Updated,To Be Updated,2021-05-29 11:02,15
-BIKAL HOSPITAL,"PALWAL, HARYANA",Yes (21),13,5,3,0,13,5,3,0,Yes,No,Yes,Yes,Yes,1970-01-01 00:00,15
-CHC Alawalpur,CHC Alawalpur,Yes (17),1,16,0,0,4,16,0,0,To Be Updated,To Be Updated,To Be Updated,To Be Updated,To Be Updated,2021-05-18 18:55,15
-Civil Hospital Palwal,"Civil Hospital, palwal",Yes (110),103,0,7,7,103,0,7,7,Yes,To Be Updated,To Be Updated,To Be Updated,To Be Updated,1970-01-01 00:00,15
-COSMOS HOSPITAL,PALWAL,Yes (10),5,5,0,0,5,5,0,0,To Be Updated,To Be Updated,To Be Updated,To Be Updated,To Be Updated,2021-05-16 12:02,15
-GALAXY HOSPITAL,HUDA SECTOR 2,Yes (21),5,0,16,11,5,0,16,11,Yes,No,Yes,Yes,Yes,1970-01-01 00:00,15
-"Gurunanak Hospital, Palwal","NH2, Near Bus Stand, Shiv Colony, Palwal Haryana",Yes (37),18,4,15,3,18,4,15,3,Yes,Yes,Yes,Yes,Yes,1970-01-01 00:00,15
-JINDAL HOSPITAL,"Palwal, Haryana",Yes (15),10,2,3,0,10,2,3,0,To Be Updated,No,Yes,Yes,Yes,2021-05-19 12:53,15
-NIDHI HOSPITAL,"Palwal, Haryana",Yes (12),2,7,3,0,2,7,3,0,Yes,No,Yes,Yes,Yes,2021-05-19 12:42,15
-Palwal Hospital,"Moti Colony, Palwal, Haryana",Yes (22),0,6,16,1,0,6,16,1,Yes,No,Yes,Yes,Yes,2021-05-28 14:19,15
-RAHUL HOSPITAL,PALWAL,Yes (15),7,5,3,0,7,5,3,0,Yes,No,Yes,Yes,Yes,2021-05-13 16:20,15
-Sachin Hospital,"New Sohna Road, Near Panchwati Chowk, Palwal Haryana",Yes (28),10,5,13,2,10,5,13,2,Yes,Yes,Yes,Yes,Yes,1970-01-01 00:00,15
-SDH Hodal,SDH Hodal,Yes (20),10,10,0,0,10,10,0,0,Yes,No,Yes,Yes,Yes,1970-01-01 00:00,15
-Shri. Satya Sai Sanjivani Hospital Palwal,"Palwal, Haryana",Yes (23),4,16,3,2,4,17,4,2,Yes,No,Yes,Yes,Yes,1970-01-01 00:00,15
-SRI SAI HOSPITAL,"Palwal, Haryana",Yes (6),0,6,0,0,0,6,0,0,Yes,No,Yes,Yes,Yes,1970-01-01 00:00,15
-VASHU HOSPITAL,,Yes (10),10,0,0,0,10,0,0,0,Yes,No,Yes,Yes,Yes,2021-05-19 12:53,15
+"Apex Hospital, Sirsa","Circular Road, Sirsa",Yes (18),12,2,4,1,12,2,4,1,To Be Updated,To Be Updated,To Be Updated,To Be Updated,To Be Updated,1970-01-01 00:00,20
+"Astha Hospital, Sirsa",Dabwali Road Sirsa,Yes (20),15,0,5,0,15,0,5,0,Yes,No,Yes,Yes,Yes,1970-01-01 00:00,20
+CIVIL HOSPITAL SIRSA,"Civil Hospital Road, Sirsa",Yes (95),75,14,6,6,85,14,6,6,Yes,Yes,Yes,Yes,Yes,1970-01-01 00:00,20
+"Dayal Nursing Home, Sirsa","Dabwali Road, Sirsa",Yes (12),9,3,0,0,9,3,0,0,Yes,To Be Updated,Yes,Yes,Yes,1970-01-01 00:00,20
+"Gupta Hospital, Sirsa","Dabwali Road, Sirsa Near Easy Day",Yes (9),4,3,2,0,4,3,5,0,Yes,To Be Updated,Yes,Yes,Yes,1970-01-01 00:00,20
+"Jagdish Nursing Home, Sirsa","Gandhi Market, Parshuram Chowk, Sirsa",Yes (11),0,4,7,1,0,4,7,1,Yes,No,Yes,Yes,Yes,1970-01-01 00:00,20
+"Jeevan Jyoti Hospital, Sirsa",Dabwali Road Sirsa,Yes (13),6,1,6,3,7,1,6,3,Yes,No,Yes,Yes,Yes,1970-01-01 00:00,20
+"Khurana Hospital, Sirsa",Dabwali Road Sirsa,Yes (10),6,0,4,0,6,0,4,0,Yes,No,Yes,Yes,Yes,1970-01-01 00:00,20
+"Lalgarhia Hospital, Sirsa",Dabwali Road Sirsa,Yes (16),12,2,2,1,13,2,3,1,Yes,Yes,Yes,Yes,Yes,1970-01-01 00:00,20
+"Medicare Hospital, Sirsa","Dabwali Road, Sirsa",Yes (13),1,6,6,2,1,6,6,2,Yes,Yes,Yes,Yes,Yes,1970-01-01 00:00,20
+"Metro Health Care Hospital, Sirsa","Near Dena Bank, lal Batti Chowk, Sirsa",Yes (10),5,0,5,0,5,0,5,1,Yes,Yes,Yes,Yes,Yes,1970-01-01 00:00,20
+"Mittal Hospital, Sirsa","Near Jhunthra Petrol Pump, Dabwali Road Sirsa",Yes (17),13,1,3,0,14,1,4,0,Yes,No,Yes,Yes,Yes,1970-01-01 00:00,20
+"New Life Care Hospital, Sirsa","Dabwali Road, Sirsa",Yes (12),7,2,3,0,7,2,3,0,Yes,No,Yes,Yes,Yes,1970-01-01 00:00,20
+"Poonia COVID Care Center, Sirsa","Near Ambedkar chowk, opposite Seth tula ram dharamshala, Hisar Road, Sirsa, Haryana 125055",Yes (24),14,7,3,1,14,7,3,1,Yes,Yes,Yes,Yes,Yes,1970-01-01 00:00,20
+"Sanjeevni Hospital, Sirsa (Wing -2, 1 &amp; 2nd Floor)","Under over bridge, hisar road, sirsa",Yes (90),44,30,16,6,45,30,16,6,Yes,Yes,Yes,Yes,Yes,1970-01-01 00:00,20
+SDCH Dabwali,"Dabwali, District Sirsa",Yes (23),10,13,0,0,12,13,0,0,Yes,No,Yes,Yes,Yes,1970-01-01 00:00,20
+"Shah Satnam Dera Hospital (Wing -2, 2nd floor), Sirsa","Begu Road, Sirsa",Yes (63),20,30,13,6,21,30,14,7,Yes,Yes,Yes,Yes,Yes,1970-01-01 00:00,20
+"Shri Baba Tara Hospital &amp; Research Center, Sirsa","Hisar Road, Sirsa",Yes (23),15,5,3,1,15,5,5,3,Yes,No,Yes,Yes,Yes,1970-01-01 00:00,20
+"SPS Hospital, Sirsa","Near Sangwan Chowk, Dabwali Road, Sirsa",Yes (14),12,0,2,2,12,0,3,2,Yes,No,Yes,Yes,Yes,1970-01-01 00:00,20
+"Suraksha Hospital, Sirsa","Dabwali Rd, opposite Hotel Aroma, Sirsa, Haryana 125055",Yes (23),10,3,10,7,10,3,11,7,Yes,Yes,Yes,Yes,Yes,1970-01-01 00:00,20
+"Swastik Hospital, Sirsa","Ambedkar Chowk, Nandan Vatika, Sirsa,",Yes (15),5,5,5,1,5,5,5,1,Yes,No,Yes,Yes,Yes,1970-01-01 00:00,20
+"Talwar Nursing Home, Sirsa","Under Over Bridge, Hisar Road, Sirsa",Yes (14),12,0,2,1,12,2,2,1,Yes,Yes,Yes,Yes,Yes,1970-01-01 00:00,20
+"Tomar Nursing Home, Sirsa","Nandan Vatika, near surkhab Chock, Hathi park, Agrasain Colony, Sirsa, Haryana 125055",Yes (18),12,2,4,1,12,2,4,1,Yes,Yes,Yes,Yes,Yes,1970-01-01 00:00,20
+"Vardan Hospital, Sirsa","Near Lal Batti Chowk, Sirsa",Yes (17),8,3,6,0,9,3,6,0,Yes,No,Yes,Yes,Yes,1970-01-01 00:00,20
+Adiyogi Arogya Avenue,"232, Subhash Nagar, Near civil hospital back gate, Jhajjar",Yes (15),7,2,6,1,7,2,6,1,To Be Updated,To Be Updated,Yes,Yes,Yes,1970-01-01 00:00,8
+"Advanta Hospital, Jhajjar city","Silani Gate, Jhajjar, Haryana",Yes (50),24,10,16,1,24,10,16,1,Yes,To Be Updated,Yes,To Be Updated,Yes,1970-01-01 00:00,8
+"Brahm Shakti Sanjivani Hospital, B.garh","Opp. BSNL Exchange, Delhi - Rohtak Road, NH9, Bahadurgarh, Haryana",Yes (100),60,20,20,3,60,20,20,3,Yes,No,Yes,Yes,Yes,1970-01-01 00:00,8
+Civil Hospital Jhajjar,"Jhajjar, NH-71, Jhajjar Rohtak Road, Jhajjar, Jhajjar, Haryana",Yes (37),32,0,5,5,33,0,5,5,Yes,To Be Updated,To Be Updated,To Be Updated,To Be Updated,1970-01-01 00:00,8
+"Delhi Hospital, Bahadurgarh","Rohtak Rd, near Shyamji Complex, Ram Nagar, Bahadurgarh, Haryana",Yes (50),20,20,10,2,20,20,10,2,Yes,No,Yes,Yes,Yes,1970-01-01 00:00,8
+Dr. Sanjay Multi Speciality Hospital,INFRONT OF CIVIL HOSPITAL BAHADURGARH,Yes (55),43,6,6,1,45,10,6,1,Yes,No,No,To Be Updated,To Be Updated,1970-01-01 00:00,8
+"Jeewan Jyoti Hospital, Bahadurgarh","Rohtak Rd, MIE Part-B, Bahadurgarh, Haryana",Yes (143),70,68,5,4,70,68,5,4,Yes,To Be Updated,To Be Updated,To Be Updated,To Be Updated,1970-01-01 00:00,8
+"JK Hospital, Bahadurgarh","Bahadurgarh,, Bahamnoli, Bahadurgarh, Haryana",Yes (44),5,31,8,0,5,31,8,0,Yes,To Be Updated,Yes,Yes,Yes,1970-01-01 00:00,8
+"Medicare Super Speciality Hospiatl &amp; Trauma Centre, Jhajjar City","Dadri road Jhajjar, Jhajjar, Haryana",Yes (50),15,23,12,3,15,23,12,3,Yes,To Be Updated,Yes,To Be Updated,Yes,1970-01-01 00:00,8
+"Mission Hospital, Bahadurgarh","Near main Bus Stand & City Metro Station, Rohtak Rd, Bahadurgarh, Jhajjar ,Haryana",Yes (33),25,0,8,4,25,0,8,4,To Be Updated,No,Yes,Yes,No,1970-01-01 00:00,8
+"Oscar Hospital, JJR city","Civil Road,Opp Civil Hospital, Jhajjar, Haryana",Yes (80),8,58,14,1,8,58,14,1,To Be Updated,To Be Updated,To Be Updated,To Be Updated,To Be Updated,1970-01-01 00:00,8
+Oxymus Hospital,"Opposite Civil Hospital, Near Metro Pollar No. 876 Delhi Rohtak Road, Bahadurgarh",Yes (10),4,0,6,0,4,0,6,0,Yes,No,No,No,No,1970-01-01 00:00,8
+"Rana Hospital, Bahadurgarh","OPP. REST HOUSE,OLD BARAHI ROAD, BAHADURGARH",Yes (25),18,0,7,2,18,0,7,2,To Be Updated,To Be Updated,No,No,Yes,1970-01-01 00:00,8
+"RJ Super Speciality Hospital, B.garh","Delhi - Rohtak Rd, Near Rajesh Joon Office, Dalbir Nagar, Bahadurgarh, Haryana",Yes (17),10,5,2,1,10,5,2,1,Yes,No,Yes,Yes,Yes,1970-01-01 00:00,8
+RS GAUR GLOBAL MULTISPECIALITY HOSPITAL,"Jhajjar Road Netaji Subhash Vihar, Haryana",Yes (33),19,7,7,2,19,7,7,2,Yes,No,Yes,Yes,Yes,1970-01-01 00:00,8
+"SDH, Bahadurgarh","Madhya Marg, Old Industrial Area, Bahadurgarh, Haryana",Yes (35),27,0,8,8,27,0,8,8,Yes,Yes,Yes,No,Yes,1970-01-01 00:00,8
+"Shivam Hospital, B.garh","Line Par, Shastri Nagar, Netaji Nagar, Bahadurgarh, Haryana",Yes (51),30,15,6,1,30,15,6,1,Yes,No,Yes,Yes,Yes,1970-01-01 00:00,8
+"Swastik Hospital, Bahadurgarh","Jhajjar Rd, Shakti Nagar, Sakti Nagar, Bahadurgarh, Haryana",Yes (40),26,4,10,2,26,4,10,2,Yes,No,Yes,Yes,Yes,1970-01-01 00:00,8
+World College Of Medical Sciences And Hospital,"Jhajjar Sampla Road, Gurwar, Jhajjar, Haryana",Yes (250),90,135,25,4,90,135,25,4,Yes,Yes,Yes,Yes,Yes,1970-01-01 00:00,8
+Cygnus Multispecialty Hospital Kaithal,"Huda Bypass Road, Sector 20, Kaithal, Haryana",Yes (40),28,0,12,2,28,0,12,2,Yes,No,Yes,Yes,Yes,1970-01-01 00:00,10
+District Civil Hospital Kaithal,"Huda Sec 18, Kaithal",Yes (105),71,14,20,18,80,15,20,18,Yes,Yes,Yes,Yes,Yes,1970-01-01 00:00,10
+SDH Guhla,SDH Guhla,Yes (70),35,35,0,5,35,35,0,5,Yes,No,Yes,No,Yes,1970-01-01 00:00,10
+Shah Multispecialty Hospital Kaithal,"opp.old, bus stand, Jind - Kaithal Rd, Amar Garh Colony, Kaithal, Haryana",Yes (74),49,11,14,10,51,11,15,10,Yes,No,Yes,Yes,Yes,1970-01-01 00:00,10
+Advanta Super Speciality Hospital,Near Power House,Yes (39),25,0,14,3,25,0,14,4,Yes,No,Yes,Yes,Yes,1970-01-01 00:00,19
+ARS Holy Heart Advanced Cardiac care &amp; Research Centre,"330, Vinay Nagar Rohtak, Near Delhi Bypass Rohtak",Yes (18),0,0,18,2,0,0,20,2,Yes,No,No,No,No,1970-01-01 00:00,19
+CHC Chiri,"VOP Chiri, Meham Gohana Road, Distt. Rohtak Haryana",Yes (10),10,0,0,0,10,0,0,0,Yes,Yes,Yes,Yes,Yes,1970-01-01 00:00,19
+CHC Kahanaur,"Near Sarva haryana Gramin Bank, Opp. Banquet hall, Nigana Road, Kahanaur",Yes (10),4,6,0,0,4,6,0,0,Yes,No,Yes,No,Yes,1970-01-01 00:00,19
+CHC kalanaur,"Police Station, Bhiwani-Rohtak Road , Near Kalanaur kalan, Kalanaur,",Yes (10),10,0,0,0,10,0,0,0,Yes,No,Yes,No,Yes,1970-01-01 00:00,19
+CHC Kiloi,"VPO Kiloi, Water Works, Distt. Rohtak",Yes (10),5,5,0,0,5,5,0,0,Yes,No,Yes,No,Yes,1970-01-01 00:00,19
+CHC Madina,"VPO Madina, Hisar Road Distt. Rohtak, Haryana",Yes (10),0,10,0,0,0,10,0,0,Yes,No,No,No,Yes,1970-01-01 00:00,19
+CHC Meham,"Near ITI, Meham Distt. Rohtak",Yes (10),10,0,0,0,10,0,0,0,Yes,No,Yes,No,Yes,1970-01-01 00:00,19
+CHC Sampla,"Gadi Sampla, Rohtak, SH-20, Jhajjar Sampla Road, Sampla, Sampla, Haryana 124501",Yes (10),0,10,0,0,0,10,0,0,No,No,Yes,No,Yes,1970-01-01 00:00,19
+"Civil Hospital, Rohtak",Subash Road,Yes (71),40,24,7,5,40,24,7,5,Yes,Yes,Yes,Yes,Yes,1970-01-01 00:00,19
+Holy Heart Super speciality Hospital,Vinay Nagar Delhi Bye pass,Yes (53),25,5,23,3,25,5,27,6,Yes,No,Yes,Yes,Yes,1970-01-01 00:00,19
+"Hridaya Nilayam Heart, Lung &amp; vascular Institute","5, Raj Garden, Delhi Bypass, Rohtak",Yes (25),0,0,25,2,0,0,25,2,To Be Updated,To Be Updated,To Be Updated,To Be Updated,To Be Updated,1970-01-01 00:00,19
+Joyline Multispeciality,"Surajmal Colony, Sunarian Road, Opposite Birgadier Muktram Statue Rohtak",Yes (20),15,0,5,1,15,0,5,1,Yes,Yes,Yes,Yes,Yes,1970-01-01 00:00,19
+Kainos Hospital,Near Kheri Sadh Village Outer Bye Pass,Yes (70),26,10,34,17,26,10,34,17,Yes,No,Yes,Yes,Yes,1970-01-01 00:00,19
+Life Care Hospital,Subash Nagar,Yes (50),30,0,20,6,30,0,20,6,Yes,No,Yes,Yes,Yes,1970-01-01 00:00,19
+Maan Hospital,Bhagwan Colony Near Radio Station,Yes (45),29,0,16,6,29,0,16,6,Yes,No,Yes,Yes,Yes,1970-01-01 00:00,19
+Mansarover Hospital,Mansarover Colony Near Park,Yes (30),20,0,10,7,20,0,10,7,Yes,No,Yes,Yes,Yes,1970-01-01 00:00,19
+Neurocentre Super Speciality Hospital,"Kalawati Bulding, Near Power House Rohtak",Yes (23),4,6,13,2,4,6,13,2,Yes,No,Yes,Yes,Yes,1970-01-01 00:00,19
+Noble Heart Super Speciality Hospital,Near Raj Garden Delhi Bye Pass,Yes (34),26,1,7,6,26,1,7,6,Yes,No,Yes,Yes,Yes,1970-01-01 00:00,19
+Oscar Super Speciality Trauma Center,"Medical Moad, Daryao Singh Nagar,",Yes (41),23,3,15,2,23,3,15,2,Yes,Yes,Yes,Yes,Yes,1970-01-01 00:00,19
+Oxygen Hospital,Islam Pura Daries Hisar Road,Yes (30),15,10,5,4,15,10,5,4,Yes,No,Yes,Yes,Yes,1970-01-01 00:00,19
+PGIMS Rohtak,"Pt.Bhagwat Dayal PGIMS, Medical Rd, Rohtak, Haryana",Yes (550),447,0,103,103,451,0,115,115,Yes,Yes,Yes,Yes,Yes,1970-01-01 00:00,19
+Positron Hospital,Suncity Sector 35,Yes (32),0,16,16,4,0,16,16,4,Yes,No,No,Yes,Yes,1970-01-01 00:00,19
+Pragati Hospital,"Sukhpura Chowk, Gohana Road, opp. Ladhot Road Rohtak",Yes (15),11,0,4,1,11,0,4,1,Yes,No,Yes,Yes,Yes,1970-01-01 00:00,19
+"Sanghi Nursing Home, Rohtak, Haryana","Chotu Ram Chowk, Civil Road, Arya Nagar, Rohtak, Haryana",Yes (14),10,0,4,4,10,0,4,4,Yes,Yes,Yes,Yes,Yes,1970-01-01 00:00,19
+Shivam Liver &amp; Gastro Super Speciality Hospital,"CIVIL ROAD NEAR SHANT MAI CHOWK, Rohtak, Haryana - 124001, India",Yes (9),5,0,4,1,5,0,4,1,Yes,No,Yes,Yes,Yes,1970-01-01 00:00,19
+Sunflag Global Hospital,Bharat Colony Near Sheela Bye Pass,Yes (35),20,0,15,5,20,0,15,5,Yes,No,Yes,Yes,Yes,1970-01-01 00:00,19
 Ch Lekh Raj Multispeciality Hospital,Vill Gadhauli Yamuna Nagar,Yes (149),139,0,10,5,140,0,10,5,Yes,Yes,Yes,Yes,Yes,1970-01-01 00:00,22
 CHC Bilaspur,CHC Bilaspur,Yes (25),8,17,0,0,8,17,0,0,Yes,No,Yes,No,Yes,1970-01-01 00:00,22
 CHC Chhachharuli,CHC Chhachharuli,Yes (30),10,20,0,0,10,20,0,0,Yes,No,Yes,Yes,Yes,1970-01-01 00:00,22
