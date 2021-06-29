@@ -7,7 +7,7 @@ const cheerio = require('cheerio')
 const request = require('request')
 const io = require('indian-ocean')
 const time = require('d3-time-format')
-const timeParse = time.timeParse('%I:%M %p %e %B,%y')
+const timeParse = time.timeParse('%I:%M %p %e %b,%y')
 const timeF = time.timeFormat('%Y-%m-%d %H:%M')
 
 
@@ -56,6 +56,7 @@ const run = async(selectedCity) => {
 
 	        	let li = ($($(c).find('li')[0]).text().trim().replace('Updated On: ',''))
 	        	let t = (timeParse(li.replace(/([0-9]+)(st|nd|rd|th)/,'$1').replace(/^([0-9]:)/,'0$1')))
+	        	o.updated_on_unparsed = li
 	        	o.updated_on = timeF(t)
 	        	if (!maxTime){
 	        		maxTime = t
