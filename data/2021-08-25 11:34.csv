@@ -1,0 +1,80 @@
+name,address,Availability_availability_of_beds,Availability_oxygen_beds,Availability_non_oxygen_beds,Availability_i_c_u_beds,Availability_ventilators,Allocated_oxygen_beds,Allocated_non_oxygen_beds,Allocated_i_c_u,Allocated_ventilators,Availability_availability_of_oxygen,Availability_antiviral_remdesivir_etc_,Availability_steroids,Availability_anticoagulant,Availability_antipyretic,updated_on_unparsed,updated_on,city
+Aashirwad Hospital,101 Devi Murti Colony Panipat,Yes (9),2,0,7,1,2,0,7,1,Yes,No,Yes,Yes,Yes,"5:10 PM 25th Aug,21",2021-08-25 17:10,17
+Aayushmaan Bhav Hospital,"GT Road Sewah, Near Police Line Panipat",Yes (15),5,4,6,2,5,4,6,2,Yes,No,Yes,Yes,Yes,"5:07 PM 25th Aug,21",2021-08-25 17:07,17
+APEX HOSPITAL &amp; TRAUMA CENTRE,SANOLI ROAD BABAIL NAKA,Yes (35),9,0,26,2,9,0,26,2,Yes,No,Yes,Yes,Yes,"5:09 PM 25th Aug,21",2021-08-25 17:09,17
+CHC Dadlana,"VPO Dadlana, Panipat",Yes (8),0,8,0,0,0,8,0,0,No,No,No,No,Yes,"5:08 PM 25th Aug,21",2021-08-25 17:08,17
+CHC Khotpura,VPO Khotpura Panipat,Yes (9),0,9,0,0,0,9,0,0,No,No,No,No,No,"5:08 PM 25th Aug,21",2021-08-25 17:08,17
+Chhabra Hospital,A-1 Narain Singh Park,Yes (11),6,0,5,1,6,0,5,1,Yes,No,Yes,Yes,Yes,"5:10 PM 25th Aug,21",2021-08-25 17:10,17
+Civil Hospital panipat,Civil Hospital GT Road Panipat,Yes (104),74,20,10,4,74,20,10,4,Yes,Yes,Yes,Yes,Yes,"5:08 PM 25th Aug,21",2021-08-25 17:08,17
+Cygnus Hospital panipat,Cygnus Hospital Near Devi Mndir Panipat,Yes (17),12,0,5,4,12,0,5,4,Yes,No,Yes,Yes,Yes,"5:08 PM 25th Aug,21",2021-08-25 17:08,17
+GALAXY HOSPITAL,ASSAND ROAD PANIPAT,Yes (15),7,0,8,2,7,0,8,2,Yes,No,Yes,Yes,Yes,"5:08 PM 25th Aug,21",2021-08-25 17:08,17
+Guru Teg Bhadur Sanjeevani Hospital,"Village Bal Jatan Near Panipat Refinary, Panipat",Yes (314),307,7,0,0,307,7,0,0,Yes,No,Yes,Yes,Yes,"5:11 PM 25th Aug,21",2021-08-25 17:11,17
+Hyderabadi General Hospital &amp; Nursing Home,"Sanoli Road, Near Sanjay, Chowk, Panipat",Yes (10),0,0,10,2,0,0,10,2,Yes,No,Yes,Yes,Yes,"5:10 PM 25th Aug,21",2021-08-25 17:10,17
+IBM HOSPITAL &amp; TRAUMA CENTRE,NEAR BHIM GODA MANDIR SANOLI ROAD,Yes (24),12,0,12,2,12,0,12,2,Yes,No,Yes,Yes,Yes,"5:08 PM 25th Aug,21",2021-08-25 17:08,17
+LHDM &amp; Prem Hospital,Prem Hospital Opp. Bus Stand Panipat,Yes (80),71,0,9,6,71,0,9,6,Yes,Yes,Yes,Yes,Yes,"5:08 PM 25th Aug,21",2021-08-25 17:08,17
+MAX PLUS HOSPITAL,NEAR MALIK PETROL PUMP SANOLI ROAD,Yes (15),8,0,7,3,8,0,7,3,Yes,No,Yes,Yes,Yes,"5:08 PM 25th Aug,21",2021-08-25 17:08,17
+NC Medical College,NC Medical Colllage Israna,Yes (530),42,483,5,4,42,483,5,4,Yes,No,Yes,Yes,Yes,"5:07 PM 25th Aug,21",2021-08-25 17:07,17
+Park Hospital GT road panipat,"GT Road Sewah, Paniapt",Yes (82),52,14,16,2,52,14,16,2,Yes,Yes,Yes,Yes,Yes,"5:06 PM 25th Aug,21",2021-08-25 17:06,17
+Prime Hospital Health Leaders,"Opp. Gangapuri Road, Sanoli Road Panipat",Yes (20),14,2,4,4,14,2,4,4,Yes,No,Yes,Yes,Yes,"5:09 PM 25th Aug,21",2021-08-25 17:09,17
+Rainbow Hospital,152-R Model Town Panipat,Yes (9),6,0,3,1,6,0,3,1,Yes,No,Yes,Yes,Yes,"5:10 PM 25th Aug,21",2021-08-25 17:10,17
+SDH Samalkha,G.T Road Samalkha,Yes (50),30,20,0,0,30,20,0,0,No,No,Yes,No,Yes,"5:08 PM 25th Aug,21",2021-08-25 17:08,17
+shobhit Hospital,"adjacent canara bank, tahsil camp",Yes (19),12,2,5,1,12,2,5,1,Yes,No,Yes,Yes,Yes,"5:08 PM 25th Aug,21",2021-08-25 17:08,17
+Shree Badri Das Hospital and ICU Care Centre,Assandh Road Panipat,Yes (11),8,0,3,1,8,0,3,1,Yes,No,Yes,Yes,Yes,"2:28 PM 25th Aug,21",2021-08-25 14:28,17
+Shree Balajee Multispeciality Hospital,Aggarsan Colony Assandh Road Panipat,Yes (10),4,0,6,2,4,0,6,2,Yes,Yes,Yes,Yes,Yes,"5:10 PM 25th Aug,21",2021-08-25 17:10,17
+Shubham Hospital,"202 New Sukhdev Nagar, Panipat",Yes (9),6,0,3,3,6,0,3,3,Yes,No,Yes,Yes,Yes,"5:11 PM 25th Aug,21",2021-08-25 17:11,17
+"Apex Hospital, Sirsa","Circular Road, Sirsa",Yes (18),12,2,4,1,12,2,4,1,To Be Updated,To Be Updated,To Be Updated,To Be Updated,To Be Updated,"10:43 AM 10th Jun,21",2021-06-10 10:43,20
+"Astha Hospital, Sirsa",Dabwali Road Sirsa,Yes (20),15,0,5,0,15,0,5,0,Yes,No,Yes,Yes,Yes,"11:48 AM 25th Jun,21",2021-06-25 11:48,20
+CIVIL HOSPITAL SIRSA,"Civil Hospital Road, Sirsa",Yes (103),83,14,6,6,85,14,6,6,Yes,Yes,Yes,Yes,Yes,"12:11 PM 25th Aug,21",2021-08-25 12:11,20
+"Dayal Nursing Home, Sirsa","Dabwali Road, Sirsa",Yes (12),9,3,0,0,9,3,0,0,Yes,To Be Updated,Yes,Yes,Yes,"8:38 AM 20th Aug,21",2021-08-20 08:38,20
+"Gupta Hospital, Sirsa","Dabwali Road, Sirsa Near Easy Day",Yes (12),4,3,5,0,4,3,5,0,Yes,To Be Updated,Yes,Yes,Yes,"5:31 PM 15th Jul,21",2021-07-15 17:31,20
+"Jagdish Nursing Home, Sirsa","Gandhi Market, Parshuram Chowk, Sirsa",Yes (11),0,4,7,1,0,4,7,1,Yes,No,Yes,Yes,Yes,"6:17 PM 15th Jul,21",2021-07-15 18:17,20
+"Jeevan Jyoti Hospital, Sirsa",Dabwali Road Sirsa,Yes (14),7,1,6,3,7,1,6,3,Yes,No,Yes,Yes,Yes,"5:59 PM 15th Jul,21",2021-07-15 17:59,20
+"Khurana Hospital, Sirsa",Dabwali Road Sirsa,Yes (10),6,0,4,0,6,0,4,0,Yes,No,Yes,Yes,Yes,"5:34 PM 15th Jul,21",2021-07-15 17:34,20
+"Lalgarhia Hospital, Sirsa",Dabwali Road Sirsa,Yes (17),13,1,3,1,13,2,3,1,Yes,Yes,Yes,No,Yes,"3:00 PM 11th Aug,21",2021-08-11 15:00,20
+"Medicare Hospital, Sirsa","Dabwali Road, Sirsa",Yes (13),1,6,6,2,1,6,6,2,Yes,Yes,Yes,Yes,Yes,"9:23 AM 16th Jul,21",2021-07-16 09:23,20
+"Metro Health Care Hospital, Sirsa","Near Dena Bank, lal Batti Chowk, Sirsa",Yes (10),5,0,5,1,5,0,5,1,Yes,Yes,Yes,Yes,Yes,"12:24 PM 3rd Aug,21",2021-08-03 12:24,20
+"Mittal Hospital, Sirsa","Near Jhunthra Petrol Pump, Dabwali Road Sirsa",Yes (19),14,1,4,0,14,1,4,0,Yes,No,Yes,Yes,Yes,"2:19 PM 21st Aug,21",2021-08-21 14:19,20
+"New Life Care Hospital, Sirsa","Dabwali Road, Sirsa",Yes (12),7,2,3,0,7,2,3,0,Yes,No,Yes,Yes,Yes,"5:18 PM 15th Jul,21",2021-07-15 17:18,20
+"Poonia COVID Care Center, Sirsa","Near Ambedkar chowk, opposite Seth tula ram dharamshala, Hisar Road, Sirsa, Haryana 125055",Yes (24),14,7,3,1,14,7,3,1,Yes,Yes,Yes,Yes,Yes,"9:33 AM 18th Aug,21",2021-08-18 09:33,20
+"Sanjeevni Hospital, Sirsa (Wing -2, 1 &amp; 2nd Floor)","Under over bridge, hisar road, sirsa",Yes (91),45,30,16,6,45,30,16,6,Yes,Yes,Yes,Yes,Yes,"9:27 AM 8th Jul,21",2021-07-08 09:27,20
+SDCH Dabwali,"Dabwali, District Sirsa",Yes (25),12,13,0,0,12,13,0,0,Yes,No,Yes,Yes,Yes,"6:09 PM 15th Jul,21",2021-07-15 18:09,20
+"Shah Satnam Dera Hospital (Wing -2, 2nd floor), Sirsa","Begu Road, Sirsa",Yes (65),21,30,14,7,21,30,14,7,Yes,Yes,Yes,Yes,Yes,"3:59 PM 12th Jul,21",2021-07-12 15:59,20
+"Shivam Hospital, Sirsa",Surkhab Chowk Sirsa,Yes (16),6,6,4,1,6,6,4,1,Yes,No,Yes,Yes,Yes,"11:11 AM 24th Aug,21",2021-08-24 11:11,20
+"Shri Baba Tara Hospital &amp; Research Center, Sirsa","Hisar Road, Sirsa",Yes (25),15,5,5,3,15,5,5,3,Yes,No,Yes,Yes,Yes,"6:17 PM 15th Jul,21",2021-07-15 18:17,20
+"SPS Hospital, Sirsa","Near Sangwan Chowk, Dabwali Road, Sirsa",Yes (15),12,0,3,2,12,0,3,2,Yes,No,Yes,Yes,Yes,"6:20 PM 15th Jul,21",2021-07-15 18:20,20
+"Suraksha Hospital, Sirsa","Dabwali Rd, opposite Hotel Aroma, Sirsa, Haryana 125055",Yes (23),10,3,10,7,10,3,11,7,Yes,Yes,Yes,Yes,Yes,"9:09 AM 20th Jun,21",2021-06-20 09:09,20
+"Swastik Hospital, Sirsa","Ambedkar Chowk, Nandan Vatika, Sirsa,",Yes (15),5,5,5,1,5,5,5,1,Yes,No,Yes,Yes,Yes,"9:23 AM 24th Aug,21",2021-08-24 09:23,20
+"Talwar Nursing Home, Sirsa","Under Over Bridge, Hisar Road, Sirsa",Yes (16),12,2,2,1,12,2,2,1,Yes,Yes,Yes,Yes,Yes,"6:26 PM 15th Jul,21",2021-07-15 18:26,20
+"Tomar Nursing Home, Sirsa","Nandan Vatika, near surkhab Chock, Hathi park, Agrasain Colony, Sirsa, Haryana 125055",Yes (18),12,2,4,1,12,2,4,1,Yes,Yes,Yes,Yes,Yes,"6:17 PM 15th Jul,21",2021-07-15 18:17,20
+"Vardan Hospital, Sirsa","Near Lal Batti Chowk, Sirsa",Yes (18),9,3,6,0,9,3,6,0,Yes,No,Yes,Yes,Yes,"6:00 PM 15th Jul,21",2021-07-15 18:00,20
+Balaji Gautam Hospital,"Model Colony, East Bhatia Nagar, Yamuna Nagar, Haryana",Yes (12),7,2,3,0,7,2,3,0,Yes,No,Yes,Yes,Yes,"12:54 PM 7th Aug,21",2021-08-07 12:54,22
+Ch Lekh Raj Multispeciality Hospital,Vill Gadhauli Yamuna Nagar,Yes (150),140,0,10,5,140,0,10,5,Yes,Yes,Yes,Yes,Yes,"12:49 PM 7th Aug,21",2021-08-07 12:49,22
+CHC Bilaspur,CHC Bilaspur,Yes (25),8,17,0,0,8,17,0,0,Yes,No,Yes,No,Yes,"12:39 PM 7th Aug,21",2021-08-07 12:39,22
+CHC Chhachharuli,CHC Chhachharuli,Yes (30),10,20,0,0,10,20,0,0,Yes,No,Yes,Yes,Yes,"12:39 PM 7th Aug,21",2021-08-07 12:39,22
+CHC Naharpur,Naharpur Yamuna Nagar,Yes (10),10,0,0,0,10,0,0,0,Yes,No,No,No,Yes,"12:52 PM 7th Aug,21",2021-08-07 12:52,22
+CHC Partap Nagar,CHC Partap Nagar,Yes (16),6,10,0,0,6,10,0,0,Yes,No,Yes,No,Yes,"12:39 PM 7th Aug,21",2021-08-07 12:39,22
+CHC Radaur,Radaur Yamuna Nagar,Yes (20),10,10,0,0,10,10,0,0,Yes,No,Yes,Yes,Yes,"12:51 PM 7th Aug,21",2021-08-07 12:51,22
+CHC Saraswati Nagar,CHC Saraswati Nagar,Yes (25),14,11,0,0,14,11,0,0,Yes,No,Yes,No,Yes,"12:39 PM 7th Aug,21",2021-08-07 12:39,22
+DABRA HOSPITAL Yamunanagar,DABRA HOSPITAL,Yes (23),11,8,4,2,11,8,4,2,No,No,No,No,No,"12:42 PM 7th Aug,21",2021-08-07 12:42,22
+ESI Hospital,"ESI Hospital, Jagadhri",Yes (58),36,0,22,0,36,0,22,0,Yes,No,Yes,Yes,Yes,"12:37 PM 7th Aug,21",2021-08-07 12:37,22
+Gaba Hospital,Gaba Hospital Yamunanagar,Yes (45),20,10,15,5,20,10,15,5,Yes,No,Yes,Yes,Yes,"12:37 PM 7th Aug,21",2021-08-07 12:37,22
+GULATI HOSPITAL,GULATI HOSPITAL,Yes (32),23,3,6,0,25,3,6,0,Yes,No,Yes,Yes,Yes,"12:42 PM 7th Aug,21",2021-08-07 12:42,22
+Heart Care Center Hospital,Near Lal Dwara Mandir Yamuna Nagar,Yes (19),2,2,15,7,2,2,15,7,Yes,No,Yes,Yes,Yes,"12:39 PM 7th Aug,21",2021-08-07 12:39,22
+JP Hospital Pvt,"Jagadhri Rd, near Luxmi Theater, Vishwakarma Mohalla, Yamuna Nagar,HARAYANA Haryana",Yes (43),15,15,13,2,15,15,13,2,Yes,No,Yes,Yes,Yes,"12:39 PM 7th Aug,21",2021-08-07 12:39,22
+KAPOOR HOSPITAL,"SH 6A Indira Colony Jagadhri, yamunanagart ,Haryana",Yes (12),4,0,8,0,4,0,8,0,Yes,No,Yes,Yes,Yes,"12:45 PM 7th Aug,21",2021-08-07 12:45,22
+KESHWANI HOSPITAL,"Jagadhri - Yamuna Nagar Rd, Tagore Garden, Yamuna Nagar, Haryana",Yes (10),10,0,0,0,10,0,0,0,Yes,No,Yes,Yes,Yes,"12:53 PM 7th Aug,21",2021-08-07 12:53,22
+Maxxwell Hospital,Jagadhari Yamuna Nagar,Yes (17),11,0,6,0,11,0,6,0,Yes,No,Yes,Yes,Yes,"12:44 PM 7th Aug,21",2021-08-07 12:44,22
+Mukand Lal District Civil Hospital Yamunanagar,Mukand Lal District Civil Hospital YNR,Yes (25),16,9,0,5,18,9,0,5,Yes,No,Yes,Yes,Yes,"12:44 PM 7th Aug,21",2021-08-07 12:44,22
+NIRMAL HOSPITAL,"199, Radaur Rd, near nirmal hospital, camp, Garhi Gujran, Haryana",Yes (20),13,1,6,0,13,1,6,0,Yes,No,Yes,Yes,Yes,"12:39 PM 7th Aug,21",2021-08-07 12:39,22
+RK Gupta,opp DAV Sr Sec School Near Madhu Hotel YNR,Yes (17),0,2,15,0,0,2,15,0,Yes,Yes,Yes,Yes,Yes,"12:52 PM 7th Aug,21",2021-08-07 12:52,22
+SABBARWAL HOSPITAL,"Gulab Nagar, Jagadhri, Haryana",Yes (12),6,0,6,0,6,0,6,0,Yes,No,Yes,Yes,Yes,"12:46 PM 7th Aug,21",2021-08-07 12:46,22
+Sachdeva Hospital,"2227, Civil Lines Rd, Sri Nagar Colony, Civil Lines, Gomti Mohalla, Jagadhri, Haryana",Yes (28),16,8,4,0,16,8,4,0,Yes,No,Yes,Yes,Yes,"12:52 PM 7th Aug,21",2021-08-07 12:52,22
+Santosh Hospital,"Santosh Hospital  Kanhaiya Sahib Chowk, near Govt.School, Harbanspura Colony, Gobind Pura, Yamuna Nagar, Haryana",Yes (28),5,9,14,2,5,9,14,2,Yes,No,Yes,Yes,Yes,"12:37 PM 7th Aug,21",2021-08-07 12:37,22
+SHARMA HOSPITAL,Near Agarsain Chowk Jagadhri,Yes (12),12,0,0,0,12,0,0,0,Yes,No,Yes,Yes,Yes,"12:47 PM 7th Aug,21",2021-08-07 12:47,22
+Shree Medical Care Hospital,"359/2, Jain nagar, Jagadhri, Haryana",Yes (15),15,0,0,0,15,0,0,0,Yes,Yes,Yes,Yes,Yes,"11:34 AM 25th Aug,21",2021-08-25 11:34,22
+Shureshtha Hospital,Model Colony YNR,Yes (11),9,0,2,0,9,0,2,0,Yes,No,Yes,Yes,Yes,"12:55 PM 7th Aug,21",2021-08-07 12:55,22
+SP Hospital Jag,S.P Hospital Jag,Yes (7),4,0,3,1,4,0,3,1,Yes,No,Yes,Yes,Yes,"12:45 PM 7th Aug,21",2021-08-07 12:45,22
+Swami Vivekanand Hospital Yamunanagar,"Swami Vivekanand Hospital,Yamuna Nagar, Haryana",Yes (49),20,10,19,1,20,10,19,1,Yes,No,Yes,Yes,Yes,"12:45 PM 7th Aug,21",2021-08-07 12:45,22
+Swastik Hospital,"Basant Nagar, Yamuna Nagar, Haryana",Yes (6),4,2,0,0,4,2,0,0,Yes,No,Yes,Yes,Yes,"12:54 PM 7th Aug,21",2021-08-07 12:54,22
+tejli stadium,64 A Tejli,Yes (76),20,56,0,0,20,56,0,0,Yes,No,No,No,Yes,"12:45 PM 7th Aug,21",2021-08-07 12:45,22
+VARDAAN HOSPITAL,OPP KOHLI HOSPITAL NEAR AGARSEN COLLEGE JAGADHRI,Yes (10),8,2,0,0,8,2,0,0,Yes,No,Yes,Yes,Yes,"12:53 PM 7th Aug,21",2021-08-07 12:53,22
