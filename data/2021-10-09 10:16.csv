@@ -1,44 +1,4 @@
 name,address,Availability_availability_of_beds,Availability_oxygen_beds,Availability_non_oxygen_beds,Availability_i_c_u_beds,Availability_ventilators,Allocated_oxygen_beds,Allocated_non_oxygen_beds,Allocated_i_c_u,Allocated_ventilators,Availability_availability_of_oxygen,Availability_antiviral_remdesivir_etc_,Availability_steroids,Availability_anticoagulant,Availability_antipyretic,updated_on_unparsed,updated_on,city
-ASHIRWAD BHAGAT HOSPITAL,"Old DC Rd, near bhagat hospital, Sonipat, Haryana 131001",Yes (15),12,0,3,1,12,0,3,1,Yes,Yes,Yes,Yes,Yes,"11:47 AM 17th Jun,21",2021-06-17 11:47,21
-Bhagwan Dass Hospital,"Near Shahpur Turk, block-E, omaxe city, Sector 18, Sonipat, Haryana 131001",Yes (40),27,0,13,2,27,0,13,2,Yes,No,Yes,Yes,Yes,"11:47 AM 17th Jun,21",2021-06-17 11:47,21
-"BPS MEDICAL COLLEGE KHANPUR , SONIPAT ( 01263283088)","Ganaur - Gohana Rd, Khanpur Kalan, Haryana",Yes (300),170,80,50,50,170,80,50,50,Yes,Yes,Yes,Yes,Yes,"7:53 AM 16th Aug,21",2021-08-16 07:53,21
-CHC GANUR,CHC GANUR,Yes (8),8,0,0,0,8,0,0,0,Yes,No,Yes,Yes,Yes,"11:48 AM 17th Jun,21",2021-06-17 11:48,21
-CHC Kharkhoda,"SH 20, Kharkhoda, Haryana 131402",Yes (10),5,5,0,0,5,5,0,0,To Be Updated,To Be Updated,Yes,Yes,Yes,"11:49 AM 17th Jun,21",2021-06-17 11:49,21
-"CHC, JUAN, SONIPAT, HARYANA","CHC, JUAN, SONIPAT, HARYANACHC, JUAN, SONIPAT, HARYANA, 131024",Yes (5),3,2,0,0,3,2,0,0,Yes,No,Yes,Yes,Yes,"11:56 AM 17th Jun,21",2021-06-17 11:56,21
-"Civil Hospital, Sonipat (9050007668 )","Delhi Road, Near Maharana Pratap Chowk, Sonipat, Haryana 131001",Yes (192),182,0,10,10,190,0,10,10,Yes,Yes,Yes,Yes,Yes,"11:49 AM 17th Jun,21",2021-06-17 11:49,21
-"CYGNUS HOSPITAL, Sonipat","Old Rohtak Rd, near Hindu College of Engineering, Industrial Area, Sonipat, Haryana 131001",Yes (20),18,0,2,1,18,0,2,1,Yes,No,Yes,Yes,Yes,"4:07 PM 25th Jun,21",2021-06-25 16:07,21
-Dayanand Hospital-Sonepat,"Kakroi Rd, Prem Nagar, West Ram Nagar, Sonipat, Haryana",Yes (25),20,0,5,1,20,0,5,1,Yes,No,Yes,Yes,Yes,"11:32 AM 17th Jun,21",2021-06-17 11:32,21
-FIIMS Hospital,"Road, Bahalgarh, Sonipat, Haryana 131304",Yes (99),63,0,36,6,63,0,37,8,Yes,No,Yes,Yes,Yes,"11:50 AM 17th Jun,21",2021-06-17 11:50,21
-GAJRAJ HOSPITAL,"Bus Stand, Gajraj Hospital Road, Near, Gohana, Haryana 131301",Yes (20),20,0,0,0,20,0,0,0,Yes,To Be Updated,Yes,Yes,Yes,"11:51 AM 17th Jun,21",2021-06-17 11:51,21
-HARYANA HOSPITAL,"Vivekanand Chowk, Delhi Rd, behind Bullet Showroom, Janta Colony, Sonipat, Haryana 131001",Yes (2),1,0,1,1,1,0,1,1,Yes,No,No,No,Yes,"8:46 AM 22nd Jun,21",2021-06-22 08:46,21
-MEMORIAL HOSPITAL,"SH 11, near Mama Bhanja Chowk, Nandwani Nagar, Anand Nagar,, Sonipat, Haryana 131001",Yes (20),16,0,4,2,16,0,4,2,Yes,No,Yes,Yes,Yes,"9:40 AM 6th Jul,21",2021-07-06 09:40,21
-NIDAAN HOSPITAL PVT.,"Murthal Rd, Sonipat, Haryana 131001",No (0),0,0,0,0,0,0,0,0,Yes,No,Yes,Yes,Yes,"11:52 AM 17th Jun,21",2021-06-17 11:52,21
-OSCAR HOSPITAL,"SH 11, Lakshmi Nagar, Sonipat, Haryana 131001",Yes (20),12,0,8,2,12,0,8,2,Yes,No,Yes,Yes,Yes,"11:52 AM 17th Jun,21",2021-06-17 11:52,21
-PHC PURKHAS,"Purkhas, Haryana 131102",Yes (30),0,30,0,0,0,30,0,0,To Be Updated,To Be Updated,To Be Updated,To Be Updated,To Be Updated,"11:52 AM 17th Jun,21",2021-06-17 11:52,21
-"SANJIVNI HOSPITAL, SONIPAT","Mehlana Rd, Malviya Nagar, Sonipat, Haryana 131304",Yes (15),14,0,1,1,14,0,1,1,Yes,No,Yes,Yes,Yes,"6:22 PM 27th Jun,21",2021-06-27 18:22,21
-SAXSENA HOSPITAL,"112/113, T.P. Scheme, Delhi Rd, Sonipat, Haryana 131304",Yes (23),18,0,5,2,18,0,5,2,Yes,No,Yes,Yes,Yes,"10:37 AM 2nd Jul,21",2021-07-02 10:37,21
-SDH GOHANA,"Devi Nagar, Uttam Nagar, Gohana, Haryana 131301",Yes (10),10,0,0,0,10,0,0,0,Yes,Yes,Yes,Yes,Yes,"11:48 AM 17th Jun,21",2021-06-17 11:48,21
-SITA HOSPITAL SONIPAT,"Railway Rd, Ganaur, Haryana 131101",Yes (20),20,0,0,0,20,0,0,0,Yes,No,Yes,Yes,Yes,"1:15 PM 26th Jun,21",2021-06-26 13:15,21
-SUNHERI DEVI HOSPITAL,"Mission Rd, Dev Nagar, Sonipat, Haryana 131001",Yes (20),15,0,5,1,15,0,5,1,Yes,No,Yes,Yes,Yes,"11:53 AM 17th Jun,21",2021-06-17 11:53,21
-TULIP HOSPITAL,"T. P. Scheme, no.15, Delhi Rd, Vivekanand chowk, Sonipat, Haryana 131001",Yes (20),0,0,20,5,0,0,20,5,Yes,No,Yes,Yes,Yes,"11:38 AM 25th Jun,21",2021-06-25 11:38,21
-ABLE HOSPITAL,,Yes (37),10,25,2,2,10,25,2,5,Yes,No,Yes,Yes,Yes,"3:08 PM 26th May,21",2021-05-26 15:08,15
-Apex Hospital,"Prakash Vihar, Delhi Mathura Road, Palwal, Haryana",Yes (19),13,0,6,2,13,0,6,2,Yes,No,Yes,Yes,Yes,"10:07 AM 31st May,21",2021-05-31 10:07,15
-ATLAS HOSPITAL,"Palwal, Haryana",Yes (14),1,11,2,2,2,11,2,2,To Be Updated,To Be Updated,To Be Updated,To Be Updated,To Be Updated,"11:02 AM 29th May,21",2021-05-29 11:02,15
-BIKAL HOSPITAL,"PALWAL, HARYANA",Yes (21),13,5,3,0,13,5,3,0,Yes,No,Yes,Yes,Yes,"2:57 PM 23rd Jun,21",2021-06-23 14:57,15
-CHC Alawalpur,CHC Alawalpur,Yes (17),1,16,0,0,4,16,0,0,To Be Updated,To Be Updated,To Be Updated,To Be Updated,To Be Updated,"6:55 PM 18th May,21",2021-05-18 18:55,15
-Civil Hospital Palwal,"Civil Hospital, palwal",Yes (110),103,0,7,7,103,0,7,7,Yes,To Be Updated,To Be Updated,To Be Updated,To Be Updated,"11:51 AM 16th Oct,21",2021-10-16 11:51,15
-COSMOS HOSPITAL,PALWAL,Yes (10),5,5,0,0,5,5,0,0,To Be Updated,To Be Updated,To Be Updated,To Be Updated,To Be Updated,"12:02 PM 16th May,21",2021-05-16 12:02,15
-GALAXY HOSPITAL,HUDA SECTOR 2,Yes (21),5,0,16,11,5,0,16,11,Yes,No,Yes,Yes,Yes,"5:22 PM 16th Jun,21",2021-06-16 17:22,15
-"Gurunanak Hospital, Palwal","NH2, Near Bus Stand, Shiv Colony, Palwal Haryana",Yes (37),18,4,15,3,18,4,15,3,Yes,Yes,Yes,Yes,Yes,"5:07 PM 7th Jun,21",2021-06-07 17:07,15
-JINDAL HOSPITAL,"Palwal, Haryana",Yes (15),10,2,3,0,10,2,3,0,To Be Updated,No,Yes,Yes,Yes,"12:53 PM 19th May,21",2021-05-19 12:53,15
-NIDHI HOSPITAL,"Palwal, Haryana",Yes (12),2,7,3,0,2,7,3,0,Yes,No,Yes,Yes,Yes,"12:42 PM 19th May,21",2021-05-19 12:42,15
-Palwal Hospital,"Moti Colony, Palwal, Haryana",Yes (22),0,6,16,1,0,6,16,1,Yes,No,Yes,Yes,Yes,"2:19 PM 28th May,21",2021-05-28 14:19,15
-RAHUL HOSPITAL,PALWAL,Yes (15),7,5,3,0,7,5,3,0,Yes,No,Yes,Yes,Yes,"4:20 PM 13th May,21",2021-05-13 16:20,15
-Sachin Hospital,"New Sohna Road, Near Panchwati Chowk, Palwal Haryana",Yes (28),10,5,13,2,10,5,13,2,Yes,Yes,Yes,Yes,Yes,"9:29 AM 14th Jun,21",2021-06-14 09:29,15
-SDH Hodal,SDH Hodal,Yes (20),10,10,0,0,10,10,0,0,Yes,No,Yes,Yes,Yes,"11:45 AM 1st Jun,21",2021-06-01 11:45,15
-Shri. Satya Sai Sanjivani Hospital Palwal,"Palwal, Haryana",Yes (23),4,16,3,2,4,17,4,2,Yes,No,Yes,Yes,Yes,"5:13 PM 2nd Jun,21",2021-06-02 17:13,15
-SRI SAI HOSPITAL,"Palwal, Haryana",Yes (6),0,6,0,0,0,6,0,0,Yes,No,Yes,Yes,Yes,"10:08 AM 2nd Jun,21",2021-06-02 10:08,15
-VASHU HOSPITAL,,Yes (10),10,0,0,0,10,0,0,0,Yes,No,Yes,Yes,Yes,"12:53 PM 19th May,21",2021-05-19 12:53,15
 Balaji Gautam Hospital,"Model Colony, East Bhatia Nagar, Yamuna Nagar, Haryana",Yes (12),7,2,3,0,7,2,3,0,Yes,No,Yes,Yes,Yes,"9:55 AM 27th Aug,21",2021-08-27 09:55,22
 Ch Lekh Raj Multispeciality Hospital,Vill Gadhauli Yamuna Nagar,Yes (150),140,0,10,5,140,0,10,5,Yes,Yes,Yes,Yes,Yes,"9:53 AM 27th Aug,21",2021-08-27 09:53,22
 CHC Bilaspur,CHC Bilaspur,Yes (23),8,15,0,0,8,17,0,0,Yes,No,Yes,No,Yes,"8:55 AM 27th Sep,21",2021-09-27 08:55,22
