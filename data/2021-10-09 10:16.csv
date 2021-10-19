@@ -1,4 +1,75 @@
 name,address,Availability_availability_of_beds,Availability_oxygen_beds,Availability_non_oxygen_beds,Availability_i_c_u_beds,Availability_ventilators,Allocated_oxygen_beds,Allocated_non_oxygen_beds,Allocated_i_c_u,Allocated_ventilators,Availability_availability_of_oxygen,Availability_antiviral_remdesivir_etc_,Availability_steroids,Availability_anticoagulant,Availability_antipyretic,updated_on_unparsed,updated_on,city
+DCHC Barara,,Yes (50),50,0,0,0,50,0,0,0,To Be Updated,To Be Updated,To Be Updated,To Be Updated,To Be Updated,"10:54 AM 4th Aug,21",2021-08-04 10:54,1
+DCHC Mullana,,Yes (50),50,0,0,0,50,0,0,0,To Be Updated,To Be Updated,To Be Updated,To Be Updated,To Be Updated,"10:54 AM 4th Aug,21",2021-08-04 10:54,1
+District Civil Hospital,Ambala City,Yes (134),111,0,23,11,116,0,23,11,Yes,Yes,Yes,Yes,Yes,"10:53 AM 4th Aug,21",2021-08-04 10:53,1
+District Civil Hospital Ambala Cantt,Ambala Cantt,Yes (90),77,0,13,7,80,0,13,7,Yes,Yes,Yes,Yes,Yes,"10:53 AM 4th Aug,21",2021-08-04 10:53,1
+Guardian Hospital,AMBALA JAGADHARI ROAD AMBALA CANTT,Yes (23),15,3,5,3,15,3,5,3,Yes,Yes,Yes,Yes,Yes,"10:54 AM 4th Aug,21",2021-08-04 10:54,1
+Ishwar Hospital,,Yes (16),16,0,0,0,16,0,0,0,Yes,Yes,Yes,Yes,Yes,"10:54 AM 4th Aug,21",2021-08-04 10:54,1
+Kuldeep Hospital,,Yes (10),8,0,2,0,8,0,2,0,To Be Updated,To Be Updated,To Be Updated,To Be Updated,To Be Updated,"10:54 AM 4th Aug,21",2021-08-04 10:54,1
+Mehndiratta Hospital,"#106, manali house, near central jail,  ambala city",Yes (30),25,0,5,1,25,0,5,1,Yes,No,Yes,Yes,Yes,"10:53 AM 4th Aug,21",2021-08-04 10:53,1
+Military Hospital,Ambala Cantonment,Yes (160),60,85,15,15,60,85,15,15,To Be Updated,To Be Updated,To Be Updated,To Be Updated,To Be Updated,"10:52 AM 4th Aug,21",2021-08-04 10:52,1
+MM Medical College Pvt,MMIMSR Mullana Ambala,Yes (200),116,70,14,10,116,70,14,10,Yes,Yes,Yes,Yes,Yes,"10:52 AM 4th Aug,21",2021-08-04 10:52,1
+Park Healing Touch Hospital,"Sultanpur Chowk, Nr Dhulkot Barrier, Ambala Chandigarh Expy. Ambala",Yes (50),30,Beds Over Utilized 8,20,10,30,0,20,10,Yes,Yes,Yes,Yes,Yes,"1:34 PM 18th Sep,21",2021-09-18 13:34,1
+Philedelphia mission Hospital pvt,"Mission Compound, Ambala City",Yes (99),91,0,8,2,92,0,8,2,Yes,No,Yes,Yes,Yes,"10:52 AM 4th Aug,21",2021-08-04 10:52,1
+Railways Hospital,"Railway Hospital, railway colony,  Ambala Cantt",Yes (34),30,0,4,0,30,0,5,0,Yes,No,Yes,Yes,Yes,"5:36 AM 18th Oct,21",2021-10-18 05:36,1
+Rotary Hospital Ambala cantt Pvt,"Rambagh road, Opp Dusshera ground, Ambala Cantt",Yes (20),15,0,5,2,15,0,5,2,Yes,No,Yes,Yes,Yes,"10:52 AM 4th Aug,21",2021-08-04 10:52,1
+Sant Hospital,,Yes (13),10,0,3,1,10,0,3,1,To Be Updated,To Be Updated,To Be Updated,To Be Updated,To Be Updated,"10:53 AM 4th Aug,21",2021-08-04 10:53,1
+SDH Naraingarh,,Yes (50),50,0,0,0,50,0,0,0,To Be Updated,To Be Updated,To Be Updated,To Be Updated,To Be Updated,"10:53 AM 4th Aug,21",2021-08-04 10:53,1
+Yafe Indoor Hospital,,Yes (14),9,5,0,0,9,6,0,0,To Be Updated,To Be Updated,To Be Updated,To Be Updated,To Be Updated,"10:54 AM 4th Aug,21",2021-08-04 10:54,1
+Anchal Multispeciality Hospital,"Anchal Multi speciality Hospital, Krishna Colony, Bhiwani, Haryana 127027",Yes (35),25,0,10,2,25,0,10,2,Yes,Yes,Yes,Yes,Yes,"11:34 AM 5th Jul,21",2021-07-05 11:34,2
+Ch. Bansilal Govt Hospital,"Bansi Lal General Hospital, Ghanta Ghar Chowk, SH 17, Krishna Colony, Bhiwani, Haryana 127021",Yes (171),139,5,27,16,139,5,28,16,Yes,Yes,Yes,Yes,Yes,"11:20 AM 5th Jul,21",2021-07-05 11:20,2
+Chugh Hospital,"Meham Gate, Circular Road, Bhiwani",Yes (20),20,0,0,0,20,0,0,0,Yes,Yes,Yes,Yes,Yes,"12:08 PM 5th Jul,21",2021-07-05 12:08,2
+ESI Hospital Bhiwani,"Stadium Rd, Housing Board Colony, Bhiwani, Haryana 127021",Yes (40),0,40,0,0,0,40,0,0,No,No,Yes,Yes,Yes,"11:34 AM 5th Jul,21",2021-07-05 11:34,2
+Ganpatrai Hospital,"SH 17, Bank Colony, Bound Kalan, Krishna Colony, Bhiwani, Haryana 127021",Yes (10),4,4,2,1,4,4,2,1,Yes,No,Yes,Yes,Yes,"11:34 AM 5th Jul,21",2021-07-05 11:34,2
+Jangra Multispecilaity Hospital,"Bank Colony, Old Bharat Nagar, Bhiwani, Haryana 127021",Yes (10),7,3,0,0,7,3,0,0,Yes,No,Yes,Yes,Yes,"12:06 PM 5th Jul,21",2021-07-05 12:06,2
+Jeevan Nursing Home-Bhiwani,Rohtak gate Bhiwani,Yes (10),3,4,3,0,3,4,3,0,Yes,Yes,Yes,Yes,Yes,"12:09 PM 5th Jul,21",2021-07-05 12:09,2
+Jeevanrekha Hospital,Near Railway Road Bhiwani,Yes (30),25,0,5,1,25,0,5,1,To Be Updated,To Be Updated,To Be Updated,To Be Updated,To Be Updated,"12:09 PM 5th Jul,21",2021-07-05 12:09,2
+Kadam Hospital,"Bank Colony Near New Bus Stand, Bhiwani",Yes (45),11,0,34,1,11,0,34,1,Yes,Yes,Yes,Yes,Yes,"11:34 AM 5th Jul,21",2021-07-05 11:34,2
+Krishan Lal Jalan Hospital,"Jalan Nagar, M.C.Colony, Bhiwani, Haryana 127021",Yes (40),20,20,0,0,20,20,0,0,Yes,Yes,Yes,Yes,Yes,"12:06 PM 5th Jul,21",2021-07-05 12:06,2
+Life Line Hospital,"Circular Rd, M.C.Colony, Bhiwani, Haryana 127021",Yes (27),21,0,6,0,21,0,6,0,Yes,Yes,Yes,Yes,Yes,"12:06 PM 5th Jul,21",2021-07-05 12:06,2
+RPS HOSPITAL,,Yes (24),4,16,4,0,4,16,4,0,Yes,No,Yes,Yes,Yes,"12:06 PM 5th Jul,21",2021-07-05 12:06,2
+Sharma Nursing and Maternity Home Tosham,Siwani Road Tosham,Yes (10),7,0,3,2,7,0,3,2,Yes,Yes,To Be Updated,Yes,Yes,"12:09 PM 5th Jul,21",2021-07-05 12:09,2
+Shree Ganesha Hospital,"Dadri Gate, Bhiwani",Yes (13),6,3,4,0,6,3,4,0,Yes,Yes,Yes,Yes,Yes,"12:08 PM 5th Jul,21",2021-07-05 12:08,2
+"SHRI BABA YOGI NETANATH HOSPITAL , LOHANI ,BHIWANI",VPO Lohani,Yes (50),35,5,10,2,35,5,10,2,Yes,Yes,Yes,Yes,Yes,"12:09 PM 5th Jul,21",2021-07-05 12:09,2
+Shri Ram Hospital,Siwani,Yes (11),0,0,11,4,0,0,11,4,To Be Updated,To Be Updated,To Be Updated,To Be Updated,To Be Updated,"12:09 PM 5th Jul,21",2021-07-05 12:09,2
+SMSG Multispeciality Hospital,"Rohtak Gate, Bhiwani",Yes (30),2,17,11,2,2,17,11,2,Yes,Yes,Yes,Yes,Yes,"12:08 PM 5th Jul,21",2021-07-05 12:08,2
+Spes Hospital,"Circular Rd, Bound Kalan, M.C.Colony, Bhiwani, Haryana 127021",Yes (22),4,6,12,1,4,6,12,1,Yes,Yes,Yes,Yes,Yes,"12:07 PM 5th Jul,21",2021-07-05 12:07,2
+GH Charkhi Dadri,"Near Loharu Chowk,Charkhi Dadri",Yes (51),35,15,1,11,35,15,1,11,Yes,Yes,Yes,Yes,Yes,"3:39 PM 21st Jun,21",2021-06-21 15:39,3
+Jaihind Hospital,Charkhi Dadri,Yes (13),7,1,5,0,7,1,5,0,Yes,Yes,Yes,To Be Updated,To Be Updated,"3:41 PM 21st Jun,21",2021-06-21 15:41,3
+Murari Lal Rasiwasia Ayurvedic Hospital,"Delhi Road,Near Janta College",Yes (70),60,10,0,0,60,10,0,0,Yes,Yes,Yes,Yes,Yes,"3:39 PM 21st Jun,21",2021-06-21 15:39,3
+Oscar Hospital,Charkhi Dadri,Yes (20),0,0,20,0,0,0,20,0,To Be Updated,To Be Updated,To Be Updated,To Be Updated,To Be Updated,"3:40 PM 21st Jun,21",2021-06-21 15:40,3
+Pradhan Medicare Centre,"Loharu Rd, Charkhi Dadri, Haryana",Yes (17),14,0,3,0,14,0,3,0,To Be Updated,Yes,Yes,Yes,Yes,"3:39 PM 21st Jun,21",2021-06-21 15:39,3
+Sunflag Hospital,Charkhi Dadri,Yes (12),6,0,6,0,6,0,6,0,To Be Updated,To Be Updated,To Be Updated,To Be Updated,To Be Updated,"3:40 PM 21st Jun,21",2021-06-21 15:40,3
+Amar Hospotal,Assandh,No (0),0,0,0,0,0,0,0,0,Yes,Yes,Yes,Yes,Yes,"3:37 PM 5th Jul,21",2021-07-05 15:37,11
+"AMRITDHARA, Chaura Bazar","Near ITI Chowk, Gahoon Vihar, Karnal, Haryana",Yes (4),4,0,0,0,38,0,26,2,Yes,No,Yes,Yes,Yes,"3:33 PM 5th Jul,21",2021-07-05 15:33,11
+Arpana Hospital,"G.T. Road, Madhuban, Karnal, Karnal, Haryana",Yes (18),16,0,2,1,16,0,2,1,Yes,No,Yes,Yes,Yes,"11:52 AM 26th Jul,21",2021-07-26 11:52,11
+Arsh Hospital,Opp. Kalpana Chawla Medical College,Yes (15),9,0,6,0,9,0,6,0,Yes,Yes,Yes,Yes,Yes,"3:36 PM 5th Jul,21",2021-07-05 15:36,11
+CHC Assandh,"Assandh, Assandh Ruralpart, Haryana",Yes (10),10,0,0,0,10,0,0,0,Yes,No,Yes,No,Yes,"3:32 PM 5th Jul,21",2021-07-05 15:32,11
+CHC Gharaunda,"Balinagar, Gharaunda, Haryana",Yes (10),10,0,0,0,10,0,0,0,Yes,No,Yes,No,Yes,"3:32 PM 5th Jul,21",2021-07-05 15:32,11
+CHC Kunjpura,Village Kunjpura,Yes (11),11,0,0,0,11,0,0,0,To Be Updated,Yes,Yes,Yes,Yes,"3:36 PM 5th Jul,21",2021-07-05 15:36,11
+CHC Nissing,"SH 8, Gondar, Nissing, Haryana",Yes (10),10,0,0,0,10,0,0,0,Yes,No,Yes,No,Yes,"3:32 PM 5th Jul,21",2021-07-05 15:32,11
+CHC Taraori,CHC Taraori,Yes (6),6,0,0,0,6,0,0,0,Yes,No,Yes,No,Yes,"3:39 PM 5th Jul,21",2021-07-05 15:39,11
+Dr. Gian Bhushan Hospital,"Kunjpura Rd Old Char Chaman Dyal Singh Colony Karnal  132001 Republic of,",Yes (8),3,0,5,0,6,0,5,0,Yes,No,No,No,No,"3:34 PM 5th Jul,21",2021-07-05 15:34,11
+Ishwar Kirpa Hospital,"Ishwar Kirpa Hospital, Sector -14",Yes (20),14,0,6,0,14,0,7,0,Yes,No,Yes,Yes,Yes,"5:43 PM 11th Jul,21",2021-07-11 17:43,11
+"Kalpana Chawla Government Medical College, Karnal","Model Town, Karnal, Haryana",Yes (2),1,0,1,0,200,0,80,80,Yes,Yes,Yes,Yes,Yes,"3:33 PM 5th Jul,21",2021-07-05 15:33,11
+Karnal Nursing Home,"26 Duggal Colony, Karnal",Yes (16),8,0,8,0,8,0,10,0,Yes,To Be Updated,Yes,Yes,Yes,"3:38 PM 5th Jul,21",2021-07-05 15:38,11
+Maxxwell Hospital Indri,Near Budhnath Dera Ward No 1,Yes (15),10,0,5,3,10,0,5,3,Yes,Yes,Yes,Yes,Yes,"3:35 PM 5th Jul,21",2021-07-05 15:35,11
+Park Hospital karnal,"CHD City, NH-1, Sector 45, Karnal, Haryana",Yes (30),10,0,20,2,10,0,20,2,To Be Updated,To Be Updated,To Be Updated,To Be Updated,To Be Updated,"1:42 PM 5th Aug,21",2021-08-05 13:42,11
+Rama Superspeciality Hospital,Civil Hosp Chowk Karnal,No (0),0,0,0,0,8,0,6,0,Yes,No,Yes,Yes,Yes,"3:37 PM 5th Jul,21",2021-07-05 15:37,11
+RP Welltar Hospital,"Vill. Bastara, District Karnal",Yes (17),9,4,4,1,10,4,4,1,Yes,No,Yes,No,Yes,"3:34 PM 5th Jul,21",2021-07-05 15:34,11
+Sanidhya Nursing Home,"indri, Karnal",Yes (15),10,0,5,0,10,0,5,0,To Be Updated,Yes,Yes,Yes,Yes,"3:35 PM 5th Jul,21",2021-07-05 15:35,11
+"Sanjiv Bansal Cygnus Hospital , Karnal","Railway Rd, Ibrahim Mandi, Karnal, Haryana",Yes (19),17,0,2,2,20,0,5,2,Yes,Yes,Yes,Yes,Yes,"9:52 AM 17th Jul,21",2021-07-17 09:52,11
+Sarvodya Hospital Karnal,"Sector 14, Near Tau Devi Lal Chowk",Yes (22),12,0,10,0,12,0,10,0,Yes,Yes,Yes,Yes,Yes,"3:38 PM 5th Jul,21",2021-07-05 15:38,11
+SDH Nilokheri,SDH Nilokheri,Yes (10),10,0,0,0,10,0,0,0,Yes,No,Yes,No,Yes,"3:39 PM 5th Jul,21",2021-07-05 15:39,11
+Shri Ram Chand Memorial Hospital,"12, Ashoka colony,Opp Kalpana Chawla hospital, Karnal, Haryana",No (0),0,0,0,0,8,0,7,3,Yes,No,Yes,Yes,Yes,"3:34 PM 5th Jul,21",2021-07-05 15:34,11
+Shri Sanatan Dharam Mahabir Dal,"Kunjpura Road, Karnal Near Sanatan Dharam Mandir",Yes (12),12,0,0,0,12,0,0,0,Yes,Yes,Yes,Yes,Yes,"3:34 PM 5th Jul,21",2021-07-05 15:34,11
+SS Hospital,"Sector 14, Karnal",Yes (14),7,0,7,0,7,0,7,0,Yes,To Be Updated,Yes,Yes,Yes,"3:37 PM 5th Jul,21",2021-07-05 15:37,11
+Swastik Hospital,Swastic Hospital Opp DCH,Yes (19),10,0,9,0,10,0,9,0,Yes,No,Yes,Yes,Yes,"3:38 PM 5th Jul,21",2021-07-05 15:38,11
+Virk Hospital Karnal,"363-364, Randhir lane, near Dyal Singh College, Karnal, Haryana",Yes (45),37,0,8,1,37,0,8,1,Yes,Yes,Yes,Yes,Yes,"9:33 AM 7th Aug,21",2021-08-07 09:33,11
+Cygnus Multispecialty Hospital Kaithal,"Huda Bypass Road, Sector 20, Kaithal, Haryana",Yes (40),28,0,12,2,28,0,12,2,Yes,No,Yes,Yes,Yes,"1:02 PM 18th Jul,21",2021-07-18 13:02,10
+District Civil Hospital Kaithal,"Huda Sec 18, Kaithal",Yes (115),80,15,20,18,80,15,20,18,Yes,Yes,Yes,Yes,Yes,"11:59 AM 9th Aug,21",2021-08-09 11:59,10
+SDH Guhla,SDH Guhla,Yes (70),35,35,0,5,35,35,0,5,Yes,No,Yes,No,Yes,"9:45 AM 16th Aug,21",2021-08-16 09:45,10
+Shah Multispecialty Hospital Kaithal,"opp.old, bus stand, Jind - Kaithal Rd, Amar Garh Colony, Kaithal, Haryana",Yes (76),50,11,15,10,51,11,15,10,Yes,No,Yes,Yes,Yes,"2:00 PM 30th Sep,21",2021-09-30 14:00,10
 Balaji Gautam Hospital,"Model Colony, East Bhatia Nagar, Yamuna Nagar, Haryana",Yes (12),7,2,3,0,7,2,3,0,Yes,No,Yes,Yes,Yes,"9:55 AM 27th Aug,21",2021-08-27 09:55,22
 Ch Lekh Raj Multispeciality Hospital,Vill Gadhauli Yamuna Nagar,Yes (150),140,0,10,5,140,0,10,5,Yes,Yes,Yes,Yes,Yes,"9:53 AM 27th Aug,21",2021-08-27 09:53,22
 CHC Bilaspur,CHC Bilaspur,Yes (23),8,15,0,0,8,17,0,0,Yes,No,Yes,No,Yes,"8:55 AM 27th Sep,21",2021-09-27 08:55,22
