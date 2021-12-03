@@ -1,53 +1,23 @@
 name,address,Availability_availability_of_beds,Availability_oxygen_beds,Availability_non_oxygen_beds,Availability_i_c_u_beds,Availability_ventilators,Allocated_oxygen_beds,Allocated_non_oxygen_beds,Allocated_i_c_u,Allocated_ventilators,Availability_availability_of_oxygen,Availability_antiviral_remdesivir_etc_,Availability_steroids,Availability_anticoagulant,Availability_antipyretic,updated_on_unparsed,updated_on,city
-Civil Hospital Fatehabad,Near Bus Stand Fatehabad,Yes (46),20,0,26,6,20,0,26,6,Yes,Yes,Yes,Yes,Yes,"3:02 PM 1st Jul,21",2021-07-01 15:02,5
-Civil Hospital Ratia,"Dera Surjanhar, Ratia, Fatehabad",Yes (18),5,0,13,3,5,0,13,3,Yes,Yes,Yes,Yes,Yes,"3:04 PM 1st Jul,21",2021-07-01 15:04,5
-"Civil Hospital, Tohana",Opposite New Sabzi Mandi Tohana,Yes (27),10,3,14,2,10,3,14,2,Yes,Yes,Yes,Yes,Yes,"3:04 PM 1st Jul,21",2021-07-01 15:04,5
-Community Health Center Bhattu,"Surya Nagar, Bhattu Mandi near Railway Station",Yes (12),4,2,6,0,4,2,6,0,Yes,Yes,Yes,Yes,Yes,"3:06 PM 1st Jul,21",2021-07-01 15:06,5
-Community Health Center Bhuna,CHC Bhuna,Yes (30),16,14,0,0,16,14,0,0,Yes,No,Yes,Yes,Yes,"3:05 PM 1st Jul,21",2021-07-01 15:05,5
-Community Health Center JAKHAL,Near SBI Bank Jakhal,Yes (12),6,0,6,0,6,0,6,0,Yes,Yes,Yes,Yes,Yes,"3:05 PM 1st Jul,21",2021-07-01 15:05,5
-"Gupta Children Hospital, Ratia","Aggarwal Colony, Ratia",Yes (16),6,8,2,1,6,8,2,1,Yes,Yes,Yes,Yes,Yes,"3:06 PM 1st Jul,21",2021-07-01 15:06,5
-Kaushal Hospital,"Near Harvinder Singh Petrol Pump, Hisar Road, Fatehabad",Yes (18),12,0,6,4,12,0,6,4,Yes,Yes,Yes,Yes,Yes,"3:06 PM 1st Jul,21",2021-07-01 15:06,5
-"Manav Sewa Sangam Hospital, Tohana",Near Truck Union,Yes (15),15,0,0,0,15,0,0,0,Yes,Yes,Yes,Yes,Yes,"11:01 AM 8th Jun,21",2021-06-08 11:01,5
-Miglani Hospital,"Employees Colony, Ratia,",Yes (24),15,2,7,7,15,2,7,7,Yes,Yes,Yes,Yes,Yes,"3:05 PM 1st Jul,21",2021-07-01 15:05,5
-Rajasthan Medical Centre (RMC) Hospital Tohana,Kenchi Chowk Tohana,Yes (15),11,0,4,2,11,0,4,2,Yes,Yes,Yes,Yes,Yes,"10:40 AM 16th Jun,21",2021-06-16 10:40,5
-Sadhbhawdna Hospital Fatehabad,Near Court Complex Hisar Road Fatehabad,Yes (50),15,20,15,5,15,20,15,5,Yes,Yes,Yes,Yes,Yes,"3:04 PM 1st Jul,21",2021-07-01 15:04,5
-Sanjeevani Hospital Fatehabad,"Goshala Road, near Ashirbad Pelace",Yes (10),6,0,4,3,6,0,4,3,Yes,Yes,Yes,Yes,Yes,"3:07 PM 1st Jul,21",2021-07-01 15:07,5
-Sanjeevani Hospital Tohana,"Kenchi Chock, Tohana",Yes (18),0,6,12,2,0,6,12,2,Yes,Yes,Yes,Yes,Yes,"3:05 PM 1st Jul,21",2021-07-01 15:05,5
-"Singla Hospital , fatehabad","Bhattu Road, Batra Colony, Fatehabad",Yes (13),5,8,0,0,5,8,0,0,Yes,Yes,Yes,Yes,Yes,"3:06 PM 1st Jul,21",2021-07-01 15:06,5
-WadhwaMaternity and surgical Hospital Fatehabad,"Near Papiha Park, Fatehabad",Yes (8),1,0,7,1,1,0,7,1,Yes,Yes,Yes,Yes,Yes,"3:04 PM 1st Jul,21",2021-07-01 15:04,5
 GH Charkhi Dadri,"Near Loharu Chowk,Charkhi Dadri",Yes (51),35,15,1,11,35,15,1,11,Yes,Yes,Yes,Yes,Yes,"3:39 PM 21st Jun,21",2021-06-21 15:39,3
 Jaihind Hospital,Charkhi Dadri,Yes (13),7,1,5,0,7,1,5,0,Yes,Yes,Yes,To Be Updated,To Be Updated,"3:41 PM 21st Jun,21",2021-06-21 15:41,3
 Murari Lal Rasiwasia Ayurvedic Hospital,"Delhi Road,Near Janta College",Yes (70),60,10,0,0,60,10,0,0,Yes,Yes,Yes,Yes,Yes,"3:39 PM 21st Jun,21",2021-06-21 15:39,3
 Oscar Hospital,Charkhi Dadri,Yes (20),0,0,20,0,0,0,20,0,To Be Updated,To Be Updated,To Be Updated,To Be Updated,To Be Updated,"3:40 PM 21st Jun,21",2021-06-21 15:40,3
 Pradhan Medicare Centre,"Loharu Rd, Charkhi Dadri, Haryana",Yes (17),14,0,3,0,14,0,3,0,To Be Updated,Yes,Yes,Yes,Yes,"3:39 PM 21st Jun,21",2021-06-21 15:39,3
 Sunflag Hospital,Charkhi Dadri,Yes (12),6,0,6,0,6,0,6,0,To Be Updated,To Be Updated,To Be Updated,To Be Updated,To Be Updated,"3:40 PM 21st Jun,21",2021-06-21 15:40,3
-Advanta Super Speciality Hospital,Near Power House,Yes (39),25,0,14,4,25,0,14,4,Yes,No,Yes,Yes,Yes,"5:05 PM 14th Jul,21",2021-07-14 17:05,19
-ARS Holy Heart Advanced Cardiac care &amp; Research Centre,"330, Vinay Nagar Rohtak, Near Delhi Bypass Rohtak",Yes (20),0,0,20,2,0,0,20,2,Yes,No,No,No,No,"9:25 AM 1st Jul,21",2021-07-01 09:25,19
-CHC Chiri,"VOP Chiri, Meham Gohana Road, Distt. Rohtak Haryana",Yes (10),10,0,0,0,10,0,0,0,Yes,Yes,Yes,Yes,Yes,"4:01 PM 15th Jul,21",2021-07-15 16:01,19
-CHC Kahanaur,"Near Sarva haryana Gramin Bank, Opp. Banquet hall, Nigana Road, Kahanaur",Yes (10),4,6,0,0,4,6,0,0,Yes,No,Yes,No,Yes,"9:11 AM 16th Jul,21",2021-07-16 09:11,19
-CHC kalanaur,"Police Station, Bhiwani-Rohtak Road , Near Kalanaur kalan, Kalanaur,",Yes (10),10,0,0,0,10,0,0,0,Yes,No,Yes,No,Yes,"1:54 PM 26th Jun,21",2021-06-26 13:54,19
-CHC Kiloi,"VPO Kiloi, Water Works, Distt. Rohtak",Yes (10),5,5,0,0,5,5,0,0,Yes,No,Yes,No,Yes,"9:41 AM 1st Jul,21",2021-07-01 09:41,19
-CHC Madina,"VPO Madina, Hisar Road Distt. Rohtak, Haryana",Yes (10),0,10,0,0,0,10,0,0,Yes,No,No,No,Yes,"9:32 AM 10th Jul,21",2021-07-10 09:32,19
-CHC Meham,"Near ITI, Meham Distt. Rohtak",Yes (10),10,0,0,0,10,0,0,0,Yes,No,Yes,No,Yes,"10:56 AM 30th Jul,21",2021-07-30 10:56,19
-CHC Sampla,"Gadi Sampla, Rohtak, SH-20, Jhajjar Sampla Road, Sampla, Sampla, Haryana 124501",Yes (10),0,10,0,0,0,10,0,0,No,No,Yes,No,Yes,"8:15 AM 5th Oct,21",2021-10-05 08:15,19
-"Civil Hospital, Rohtak",Subash Road,Yes (71),40,24,7,5,40,24,7,5,Yes,Yes,Yes,Yes,Yes,"9:15 AM 26th Jun,21",2021-06-26 09:15,19
-Holy Heart Super speciality Hospital,Vinay Nagar Delhi Bye pass,Yes (57),25,5,27,6,25,5,27,6,Yes,No,Yes,Yes,Yes,"9:16 AM 1st Jul,21",2021-07-01 09:16,19
-"Hridaya Nilayam Heart, Lung &amp; vascular Institute","5, Raj Garden, Delhi Bypass, Rohtak",Yes (25),0,0,25,2,0,0,25,2,To Be Updated,To Be Updated,To Be Updated,To Be Updated,To Be Updated,"8:02 AM 16th Jun,21",2021-06-16 08:02,19
-Joyline Multispeciality,"Surajmal Colony, Sunarian Road, Opposite Birgadier Muktram Statue Rohtak",Yes (20),15,0,5,1,15,0,5,1,Yes,Yes,Yes,Yes,Yes,"10:33 AM 21st Nov,21",2021-11-21 10:33,19
-Kainos Hospital,Near Kheri Sadh Village Outer Bye Pass,Yes (70),26,10,34,17,26,10,34,17,Yes,No,Yes,Yes,Yes,"9:14 AM 2nd Jul,21",2021-07-02 09:14,19
-Life Care Hospital,Subash Nagar,Yes (50),30,0,20,6,30,0,20,6,Yes,No,Yes,Yes,Yes,"6:03 PM 15th Jul,21",2021-07-15 18:03,19
-Maan Hospital,Bhagwan Colony Near Radio Station,Yes (45),29,0,16,6,29,0,16,6,Yes,No,Yes,Yes,Yes,"9:56 AM 21st Jun,21",2021-06-21 09:56,19
-Mansarover Hospital,Mansarover Colony Near Park,Yes (30),20,0,10,7,20,0,10,7,Yes,No,Yes,Yes,Yes,"9:49 AM 5th Jul,21",2021-07-05 09:49,19
-Neurocentre Super Speciality Hospital,"Kalawati Bulding, Near Power House Rohtak",Yes (23),4,6,13,2,4,6,13,2,Yes,No,Yes,Yes,Yes,"4:18 PM 27th Jun,21",2021-06-27 16:18,19
-Noble Heart Super Speciality Hospital,Near Raj Garden Delhi Bye Pass,Yes (34),26,1,7,6,26,1,7,6,Yes,No,Yes,Yes,Yes,"9:36 AM 21st Jun,21",2021-06-21 09:36,19
-Oscar Super Speciality Trauma Center,"Medical Moad, Daryao Singh Nagar,",Yes (41),23,3,15,2,23,3,15,2,Yes,Yes,Yes,Yes,Yes,"9:51 AM 21st Jun,21",2021-06-21 09:51,19
-Oxygen Hospital,Islam Pura Daries Hisar Road,Yes (30),15,10,5,4,15,10,5,4,Yes,No,Yes,Yes,Yes,"10:49 AM 23rd Jun,21",2021-06-23 10:49,19
-PGIMS Rohtak,"Pt.Bhagwat Dayal PGIMS, Medical Rd, Rohtak, Haryana",Yes (566),451,0,115,115,451,0,115,115,Yes,Yes,Yes,Yes,Yes,"9:40 AM 2nd Dec,21",2021-12-02 09:40,19
-Positron Hospital,Suncity Sector 35,Yes (32),0,16,16,4,0,16,16,4,Yes,No,No,Yes,Yes,"5:02 PM 28th Jun,21",2021-06-28 17:02,19
-Pragati Hospital,"Sukhpura Chowk, Gohana Road, opp. Ladhot Road Rohtak",Yes (15),11,0,4,1,11,0,4,1,Yes,No,Yes,Yes,Yes,"5:06 PM 14th Jul,21",2021-07-14 17:06,19
-"Sanghi Nursing Home, Rohtak, Haryana","Chotu Ram Chowk, Civil Road, Arya Nagar, Rohtak, Haryana",Yes (14),10,0,4,4,10,0,4,4,Yes,Yes,Yes,Yes,Yes,"10:42 AM 27th Jun,21",2021-06-27 10:42,19
-Shivam Liver &amp; Gastro Super Speciality Hospital,"CIVIL ROAD NEAR SHANT MAI CHOWK, Rohtak, Haryana - 124001, India",Yes (9),5,0,4,1,5,0,4,1,Yes,No,Yes,Yes,Yes,"8:36 AM 31st Jul,21",2021-07-31 08:36,19
-Sunflag Global Hospital,Bharat Colony Near Sheela Bye Pass,Yes (35),20,0,15,5,20,0,15,5,Yes,No,Yes,Yes,Yes,"9:27 AM 25th Jun,21",2021-06-25 09:27,19
+"AAROGYAM HOSPITAL, Kurukshetra","NEAR OLD BUS STAND, THANESAR, KURUSKHETRA",Yes (67),40,12,15,27,40,12,15,27,Yes,Yes,Yes,Yes,Yes,"10:25 AM 28th Oct,21",2021-10-28 10:25,12
+"ADESH MEDICAL COLLEGE, SHAHBAD MOHRI KURUKSHETRA.","VILL. MOHRI, SHAHBAD, KURUSHETRA",Yes (105),30,70,5,11,30,70,5,11,Yes,Yes,Yes,Yes,Yes,"10:26 AM 28th Oct,21",2021-10-28 10:26,12
+AGGARWAL NURSING HOME,"SALARPUR ROAD, THANESAR, KURUKSHETRA.",No (0),0,0,0,0,0,0,0,0,Yes,Yes,Yes,Yes,Yes,"10:25 AM 28th Oct,21",2021-10-28 10:25,12
+B.S. HEART CARE,"OPP. NEW BUS STAND, KURUKSHETRA.",Yes (26),18,0,8,20,18,0,8,20,Yes,Yes,Yes,Yes,Yes,"10:25 AM 28th Oct,21",2021-10-28 10:25,12
+"CYGNUS HOSPITAL, Kurukshetra","NEAR OLD BUS STAND, THANESAR, KURUSKHETRA",Yes (12),7,4,1,4,7,4,1,4,Yes,Yes,Yes,Yes,Yes,"10:25 AM 28th Oct,21",2021-10-28 10:25,12
+KURUKSHETRA NURSING HOME,,Yes (19),18,0,1,2,18,0,1,2,Yes,Yes,Yes,Yes,Yes,"10:25 AM 28th Oct,21",2021-10-28 10:25,12
+LNJP CIVIL HOSPITAL.,LNJP HOSPITAL KURUKSHETRA.,Yes (94),60,29,5,5,60,30,5,5,Yes,Yes,Yes,Yes,Yes,"3:41 PM 3rd Dec,21",2021-12-03 15:41,12
+MIRI PIRI SHAHBAD,"SHAHBAD, KURUKSHETRA",Yes (14),10,0,4,4,10,0,4,4,Yes,Yes,Yes,Yes,Yes,"10:25 AM 28th Oct,21",2021-10-28 10:25,12
+Nirogi Hospital,Shahabad Kurukshetra,Yes (7),5,2,0,3,5,2,0,3,Yes,Yes,Yes,Yes,Yes,"9:39 AM 25th Oct,21",2021-10-25 09:39,12
+"Saraswati Mission Hospital, Kurukshetra","Theme Park Road, Kurukshetra",Yes (20),4,0,16,2,4,0,16,2,Yes,Yes,Yes,Yes,Yes,"10:26 AM 28th Oct,21",2021-10-28 10:26,12
+"Saraswati Mission Hospital, Pehowa","Ambala Road Dist. Kurukshetra, Pehowa, Haryana 136128",Yes (22),20,0,2,5,20,0,2,5,Yes,No,Yes,To Be Updated,Yes,"10:25 AM 28th Oct,21",2021-10-28 10:25,12
+"SIDHARTH HOSPITAL, SHAHBAD","SHAHBAD, KURUKSHETRA",Yes (16),8,4,4,3,8,4,4,3,Yes,Yes,Yes,Yes,Yes,"10:25 AM 28th Oct,21",2021-10-28 10:25,12
+VERMA HOSPITAL,LADWA,Yes (14),9,3,2,2,9,3,2,2,Yes,Yes,Yes,Yes,Yes,"10:25 AM 28th Oct,21",2021-10-28 10:25,12
 DCHC Barara,,Yes (50),50,0,0,0,50,0,0,0,To Be Updated,To Be Updated,To Be Updated,To Be Updated,To Be Updated,"10:54 AM 4th Aug,21",2021-08-04 10:54,1
 DCHC Mullana,,Yes (50),50,0,0,0,50,0,0,0,To Be Updated,To Be Updated,To Be Updated,To Be Updated,To Be Updated,"10:54 AM 4th Aug,21",2021-08-04 10:54,1
 District Civil Hospital,Ambala City,Yes (134),111,0,23,11,116,0,23,11,Yes,Yes,Yes,Yes,Yes,"10:53 AM 4th Aug,21",2021-08-04 10:53,1
@@ -65,24 +35,70 @@ Rotary Hospital Ambala cantt Pvt,"Rambagh road, Opp Dusshera ground, Ambala Cant
 Sant Hospital,,Yes (13),10,0,3,1,10,0,3,1,To Be Updated,To Be Updated,To Be Updated,To Be Updated,To Be Updated,"10:53 AM 4th Aug,21",2021-08-04 10:53,1
 SDH Naraingarh,,Yes (50),50,0,0,0,50,0,0,0,To Be Updated,To Be Updated,To Be Updated,To Be Updated,To Be Updated,"10:53 AM 4th Aug,21",2021-08-04 10:53,1
 Yafe Indoor Hospital,,Yes (14),9,5,0,0,9,6,0,0,To Be Updated,To Be Updated,To Be Updated,To Be Updated,To Be Updated,"10:54 AM 4th Aug,21",2021-08-04 10:54,1
-Anchal Multispeciality Hospital,"Anchal Multi speciality Hospital, Krishna Colony, Bhiwani, Haryana 127027",Yes (35),25,0,10,2,25,0,10,2,Yes,Yes,Yes,Yes,Yes,"11:34 AM 5th Jul,21",2021-07-05 11:34,2
-Ch. Bansilal Govt Hospital,"Bansi Lal General Hospital, Ghanta Ghar Chowk, SH 17, Krishna Colony, Bhiwani, Haryana 127021",Yes (171),139,5,27,16,139,5,28,16,Yes,Yes,Yes,Yes,Yes,"11:20 AM 5th Jul,21",2021-07-05 11:20,2
-Chugh Hospital,"Meham Gate, Circular Road, Bhiwani",Yes (20),20,0,0,0,20,0,0,0,Yes,Yes,Yes,Yes,Yes,"12:08 PM 5th Jul,21",2021-07-05 12:08,2
-ESI Hospital Bhiwani,"Stadium Rd, Housing Board Colony, Bhiwani, Haryana 127021",Yes (40),0,40,0,0,0,40,0,0,No,No,Yes,Yes,Yes,"11:34 AM 5th Jul,21",2021-07-05 11:34,2
-Ganpatrai Hospital,"SH 17, Bank Colony, Bound Kalan, Krishna Colony, Bhiwani, Haryana 127021",Yes (10),4,4,2,1,4,4,2,1,Yes,No,Yes,Yes,Yes,"11:34 AM 5th Jul,21",2021-07-05 11:34,2
-Jangra Multispecilaity Hospital,"Bank Colony, Old Bharat Nagar, Bhiwani, Haryana 127021",Yes (10),7,3,0,0,7,3,0,0,Yes,No,Yes,Yes,Yes,"12:06 PM 5th Jul,21",2021-07-05 12:06,2
-Jeevan Nursing Home-Bhiwani,Rohtak gate Bhiwani,Yes (10),3,4,3,0,3,4,3,0,Yes,Yes,Yes,Yes,Yes,"12:09 PM 5th Jul,21",2021-07-05 12:09,2
-Jeevanrekha Hospital,Near Railway Road Bhiwani,Yes (30),25,0,5,1,25,0,5,1,To Be Updated,To Be Updated,To Be Updated,To Be Updated,To Be Updated,"12:09 PM 5th Jul,21",2021-07-05 12:09,2
-Kadam Hospital,"Bank Colony Near New Bus Stand, Bhiwani",Yes (45),11,0,34,1,11,0,34,1,Yes,Yes,Yes,Yes,Yes,"11:34 AM 5th Jul,21",2021-07-05 11:34,2
-Krishan Lal Jalan Hospital,"Jalan Nagar, M.C.Colony, Bhiwani, Haryana 127021",Yes (40),20,20,0,0,20,20,0,0,Yes,Yes,Yes,Yes,Yes,"12:06 PM 5th Jul,21",2021-07-05 12:06,2
-Life Line Hospital,"Circular Rd, M.C.Colony, Bhiwani, Haryana 127021",Yes (27),21,0,6,0,21,0,6,0,Yes,Yes,Yes,Yes,Yes,"12:06 PM 5th Jul,21",2021-07-05 12:06,2
-RPS HOSPITAL,,Yes (24),4,16,4,0,4,16,4,0,Yes,No,Yes,Yes,Yes,"12:06 PM 5th Jul,21",2021-07-05 12:06,2
-Sharma Nursing and Maternity Home Tosham,Siwani Road Tosham,Yes (10),7,0,3,2,7,0,3,2,Yes,Yes,To Be Updated,Yes,Yes,"12:09 PM 5th Jul,21",2021-07-05 12:09,2
-Shree Ganesha Hospital,"Dadri Gate, Bhiwani",Yes (13),6,3,4,0,6,3,4,0,Yes,Yes,Yes,Yes,Yes,"12:08 PM 5th Jul,21",2021-07-05 12:08,2
-"SHRI BABA YOGI NETANATH HOSPITAL , LOHANI ,BHIWANI",VPO Lohani,Yes (50),35,5,10,2,35,5,10,2,Yes,Yes,Yes,Yes,Yes,"12:09 PM 5th Jul,21",2021-07-05 12:09,2
-Shri Ram Hospital,Siwani,Yes (11),0,0,11,4,0,0,11,4,To Be Updated,To Be Updated,To Be Updated,To Be Updated,To Be Updated,"12:09 PM 5th Jul,21",2021-07-05 12:09,2
-SMSG Multispeciality Hospital,"Rohtak Gate, Bhiwani",Yes (30),2,17,11,2,2,17,11,2,Yes,Yes,Yes,Yes,Yes,"12:08 PM 5th Jul,21",2021-07-05 12:08,2
-Spes Hospital,"Circular Rd, Bound Kalan, M.C.Colony, Bhiwani, Haryana 127021",Yes (22),4,6,12,1,4,6,12,1,Yes,Yes,Yes,Yes,Yes,"12:07 PM 5th Jul,21",2021-07-05 12:07,2
+"Ayurvedic Medical College, Patikra",HUDA Sec. 1 Narnaul,Yes (192),35,157,0,0,40,160,0,0,Yes,Yes,Yes,Yes,Yes,"4:32 PM 9th Jun,21",2021-06-09 16:32,13
+CHC ATELI,CHC ATELI,Yes (20),15,5,0,0,15,5,0,0,Yes,Yes,Yes,Yes,Yes,"4:33 PM 9th Jun,21",2021-06-09 16:33,13
+CHC Kanina,Kanina,Yes (27),15,12,0,0,15,12,0,0,To Be Updated,To Be Updated,To Be Updated,To Be Updated,To Be Updated,"9:48 PM 6th Jun,21",2021-06-06 21:48,13
+CHC Nangal Chaudhary,chc nangal choudhary,Yes (10),5,5,0,0,5,5,0,0,No,Yes,Yes,Yes,Yes,"3:54 PM 2nd Jun,21",2021-06-02 15:54,13
+CHC Sehlang,CHC SEHLANG,Yes (9),5,4,0,0,5,4,0,0,Yes,Yes,Yes,Yes,Yes,"8:50 AM 28th Jun,21",2021-06-28 08:50,13
+Civil Hospital Narnaul,"Housing Board, Narnaul",Yes (77),77,0,0,8,80,0,0,10,Yes,Yes,Yes,Yes,Yes,"4:31 PM 9th Jun,21",2021-06-09 16:31,13
+Jaipur Heart &amp; Multi Speciality Hospital,"Opp. Sadar Thana, Narnaul",Yes (13),6,3,4,2,6,3,4,2,Yes,Yes,Yes,Yes,Yes,"9:10 AM 7th Aug,21",2021-08-07 09:10,13
+LAXMI NARAYANAN,"Laxmi Narayanan Hospital , Narnaul Road Mahendergarh",Yes (10),6,0,4,1,6,0,4,1,Yes,Yes,Yes,Yes,Yes,"9:33 AM 6th Jun,21",2021-06-06 09:33,13
+Nihal Hospital Kanina,Kanina Main Bus Stand,Yes (13),12,0,1,1,13,0,1,1,Yes,Yes,Yes,Yes,Yes,"10:31 AM 21st Jun,21",2021-06-21 10:31,13
+Rainbow Multispecialty hospital and trauma Centre,"Singhana road, Narnaul",Yes (13),4,3,6,2,4,3,6,2,Yes,No,Yes,Yes,Yes,"11:59 PM 17th Jun,21",2021-06-17 23:59,13
+Sammat Memorial Hospital,"Sastri colony, near bus stand, mahendergarh",Yes (13),10,0,3,2,10,0,3,2,Yes,No,Yes,Yes,Yes,"4:48 PM 24th Jun,21",2021-06-24 16:48,13
+Sanwedna Hospital Narnaul,"HUDA Sector 1, Narnaul",Yes (26),17,0,9,1,25,0,9,1,Yes,Yes,Yes,Yes,Yes,"10:40 AM 1st Jun,21",2021-06-01 10:40,13
+SDH Mahendergarh,SDH Mahendergarh,Yes (20),20,0,0,5,20,0,0,5,Yes,Yes,Yes,Yes,Yes,"4:33 PM 9th Jun,21",2021-06-09 16:33,13
+Shanti Hospital Narnaul,Shanti Hospital Narnaul,Yes (22),9,7,6,2,9,7,7,2,Yes,Yes,Yes,Yes,Yes,"10:22 AM 3rd Jun,21",2021-06-03 10:22,13
+Sheela Multi Superspeciality Hospital,Behind Bus Stand Mahindergarh,Yes (9),6,0,3,1,6,0,3,1,Yes,No,Yes,Yes,Yes,"4:33 PM 9th Jun,21",2021-06-09 16:33,13
+Shri Arvind Heart and Multispecialty Hospital,"Rao Tula Ram Chowk, Dadri Road Mahendergarh",Yes (17),9,5,3,3,9,5,3,3,Yes,Yes,Yes,Yes,Yes,"5:19 PM 12th Jun,21",2021-06-12 17:19,13
+Tanwar Health Care MGarh,,Yes (9),5,0,4,1,5,0,4,1,Yes,No,Yes,Yes,Yes,"11:33 PM 15th Jun,21",2021-06-15 23:33,13
+Vijay Hospital Narnaul,"HUDA Sector 1, Narnaul",Yes (22),8,0,14,2,8,0,15,2,Yes,Yes,Yes,Yes,Yes,"9:22 AM 8th Jun,21",2021-06-08 09:22,13
+Cygnus Multispecialty Hospital Kaithal,"Huda Bypass Road, Sector 20, Kaithal, Haryana",Yes (40),28,0,12,2,28,0,12,2,Yes,No,Yes,Yes,Yes,"1:02 PM 18th Jul,21",2021-07-18 13:02,10
+District Civil Hospital Kaithal,"Huda Sec 18, Kaithal",Yes (115),80,15,20,18,80,15,20,18,Yes,Yes,Yes,Yes,Yes,"11:59 AM 9th Aug,21",2021-08-09 11:59,10
+SDH Guhla,SDH Guhla,Yes (70),35,35,0,5,35,35,0,5,Yes,No,Yes,No,Yes,"9:45 AM 16th Aug,21",2021-08-16 09:45,10
+Shah Multispecialty Hospital Kaithal,"opp.old, bus stand, Jind - Kaithal Rd, Amar Garh Colony, Kaithal, Haryana",Yes (76),50,11,15,10,51,11,15,10,Yes,No,Yes,Yes,Yes,"2:00 PM 30th Sep,21",2021-09-30 14:00,10
+Amar Hospotal,Assandh,No (0),0,0,0,0,0,0,0,0,Yes,Yes,Yes,Yes,Yes,"3:37 PM 5th Jul,21",2021-07-05 15:37,11
+"AMRITDHARA, Chaura Bazar","Near ITI Chowk, Gahoon Vihar, Karnal, Haryana",Yes (4),4,0,0,0,38,0,26,2,Yes,No,Yes,Yes,Yes,"3:33 PM 5th Jul,21",2021-07-05 15:33,11
+Arpana Hospital,"G.T. Road, Madhuban, Karnal, Karnal, Haryana",Yes (18),16,0,2,1,16,0,2,1,Yes,No,Yes,Yes,Yes,"11:52 AM 26th Jul,21",2021-07-26 11:52,11
+Arsh Hospital,Opp. Kalpana Chawla Medical College,Yes (15),9,0,6,0,9,0,6,0,Yes,Yes,Yes,Yes,Yes,"3:36 PM 5th Jul,21",2021-07-05 15:36,11
+CHC Assandh,"Assandh, Assandh Ruralpart, Haryana",Yes (10),10,0,0,0,10,0,0,0,Yes,No,Yes,No,Yes,"3:32 PM 5th Jul,21",2021-07-05 15:32,11
+CHC Gharaunda,"Balinagar, Gharaunda, Haryana",Yes (10),10,0,0,0,10,0,0,0,Yes,No,Yes,No,Yes,"3:32 PM 5th Jul,21",2021-07-05 15:32,11
+CHC Kunjpura,Village Kunjpura,Yes (11),11,0,0,0,11,0,0,0,To Be Updated,Yes,Yes,Yes,Yes,"3:36 PM 5th Jul,21",2021-07-05 15:36,11
+CHC Nissing,"SH 8, Gondar, Nissing, Haryana",Yes (10),10,0,0,0,10,0,0,0,Yes,No,Yes,No,Yes,"3:32 PM 5th Jul,21",2021-07-05 15:32,11
+CHC Taraori,CHC Taraori,Yes (6),6,0,0,0,6,0,0,0,Yes,No,Yes,No,Yes,"3:39 PM 5th Jul,21",2021-07-05 15:39,11
+Dr. Gian Bhushan Hospital,"Kunjpura Rd Old Char Chaman Dyal Singh Colony Karnal  132001 Republic of,",Yes (8),3,0,5,0,6,0,5,0,Yes,No,No,No,No,"3:34 PM 5th Jul,21",2021-07-05 15:34,11
+Ishwar Kirpa Hospital,"Ishwar Kirpa Hospital, Sector -14",Yes (20),14,0,6,0,14,0,7,0,Yes,No,Yes,Yes,Yes,"5:43 PM 11th Jul,21",2021-07-11 17:43,11
+"Kalpana Chawla Government Medical College, Karnal","Model Town, Karnal, Haryana",Yes (2),1,0,1,0,200,0,80,80,Yes,Yes,Yes,Yes,Yes,"3:33 PM 5th Jul,21",2021-07-05 15:33,11
+Karnal Nursing Home,"26 Duggal Colony, Karnal",Yes (16),8,0,8,0,8,0,10,0,Yes,To Be Updated,Yes,Yes,Yes,"3:38 PM 5th Jul,21",2021-07-05 15:38,11
+Maxxwell Hospital Indri,Near Budhnath Dera Ward No 1,Yes (15),10,0,5,3,10,0,5,3,Yes,Yes,Yes,Yes,Yes,"3:35 PM 5th Jul,21",2021-07-05 15:35,11
+Park Hospital karnal,"CHD City, NH-1, Sector 45, Karnal, Haryana",Yes (30),10,0,20,2,10,0,20,2,To Be Updated,To Be Updated,To Be Updated,To Be Updated,To Be Updated,"1:42 PM 5th Aug,21",2021-08-05 13:42,11
+Rama Superspeciality Hospital,Civil Hosp Chowk Karnal,No (0),0,0,0,0,8,0,6,0,Yes,No,Yes,Yes,Yes,"3:37 PM 5th Jul,21",2021-07-05 15:37,11
+RP Welltar Hospital,"Vill. Bastara, District Karnal",Yes (17),9,4,4,1,10,4,4,1,Yes,No,Yes,No,Yes,"3:34 PM 5th Jul,21",2021-07-05 15:34,11
+Sanidhya Nursing Home,"indri, Karnal",Yes (15),10,0,5,0,10,0,5,0,To Be Updated,Yes,Yes,Yes,Yes,"3:35 PM 5th Jul,21",2021-07-05 15:35,11
+"Sanjiv Bansal Cygnus Hospital , Karnal","Railway Rd, Ibrahim Mandi, Karnal, Haryana",Yes (19),17,0,2,2,20,0,5,2,Yes,Yes,Yes,Yes,Yes,"9:52 AM 17th Jul,21",2021-07-17 09:52,11
+Sarvodya Hospital Karnal,"Sector 14, Near Tau Devi Lal Chowk",Yes (22),12,0,10,0,12,0,10,0,Yes,Yes,Yes,Yes,Yes,"3:38 PM 5th Jul,21",2021-07-05 15:38,11
+SDH Nilokheri,SDH Nilokheri,Yes (10),10,0,0,0,10,0,0,0,Yes,No,Yes,No,Yes,"3:39 PM 5th Jul,21",2021-07-05 15:39,11
+Shri Ram Chand Memorial Hospital,"12, Ashoka colony,Opp Kalpana Chawla hospital, Karnal, Haryana",No (0),0,0,0,0,8,0,7,3,Yes,No,Yes,Yes,Yes,"3:34 PM 5th Jul,21",2021-07-05 15:34,11
+Shri Sanatan Dharam Mahabir Dal,"Kunjpura Road, Karnal Near Sanatan Dharam Mandir",Yes (12),12,0,0,0,12,0,0,0,Yes,Yes,Yes,Yes,Yes,"3:34 PM 5th Jul,21",2021-07-05 15:34,11
+SS Hospital,"Sector 14, Karnal",Yes (14),7,0,7,0,7,0,7,0,Yes,To Be Updated,Yes,Yes,Yes,"3:37 PM 5th Jul,21",2021-07-05 15:37,11
+Swastik Hospital,Swastic Hospital Opp DCH,Yes (19),10,0,9,0,10,0,9,0,Yes,No,Yes,Yes,Yes,"3:38 PM 5th Jul,21",2021-07-05 15:38,11
+Virk Hospital Karnal,"363-364, Randhir lane, near Dyal Singh College, Karnal, Haryana",Yes (45),37,0,8,1,37,0,8,1,Yes,Yes,Yes,Yes,Yes,"9:33 AM 7th Aug,21",2021-08-07 09:33,11
+Civil Hospital Fatehabad,Near Bus Stand Fatehabad,Yes (46),20,0,26,6,20,0,26,6,Yes,Yes,Yes,Yes,Yes,"3:02 PM 1st Jul,21",2021-07-01 15:02,5
+Civil Hospital Ratia,"Dera Surjanhar, Ratia, Fatehabad",Yes (18),5,0,13,3,5,0,13,3,Yes,Yes,Yes,Yes,Yes,"3:04 PM 1st Jul,21",2021-07-01 15:04,5
+"Civil Hospital, Tohana",Opposite New Sabzi Mandi Tohana,Yes (27),10,3,14,2,10,3,14,2,Yes,Yes,Yes,Yes,Yes,"3:04 PM 1st Jul,21",2021-07-01 15:04,5
+Community Health Center Bhattu,"Surya Nagar, Bhattu Mandi near Railway Station",Yes (12),4,2,6,0,4,2,6,0,Yes,Yes,Yes,Yes,Yes,"3:06 PM 1st Jul,21",2021-07-01 15:06,5
+Community Health Center Bhuna,CHC Bhuna,Yes (30),16,14,0,0,16,14,0,0,Yes,No,Yes,Yes,Yes,"3:05 PM 1st Jul,21",2021-07-01 15:05,5
+Community Health Center JAKHAL,Near SBI Bank Jakhal,Yes (12),6,0,6,0,6,0,6,0,Yes,Yes,Yes,Yes,Yes,"3:05 PM 1st Jul,21",2021-07-01 15:05,5
+"Gupta Children Hospital, Ratia","Aggarwal Colony, Ratia",Yes (16),6,8,2,1,6,8,2,1,Yes,Yes,Yes,Yes,Yes,"3:06 PM 1st Jul,21",2021-07-01 15:06,5
+Kaushal Hospital,"Near Harvinder Singh Petrol Pump, Hisar Road, Fatehabad",Yes (18),12,0,6,4,12,0,6,4,Yes,Yes,Yes,Yes,Yes,"3:06 PM 1st Jul,21",2021-07-01 15:06,5
+"Manav Sewa Sangam Hospital, Tohana",Near Truck Union,Yes (15),15,0,0,0,15,0,0,0,Yes,Yes,Yes,Yes,Yes,"11:01 AM 8th Jun,21",2021-06-08 11:01,5
+Miglani Hospital,"Employees Colony, Ratia,",Yes (24),15,2,7,7,15,2,7,7,Yes,Yes,Yes,Yes,Yes,"3:05 PM 1st Jul,21",2021-07-01 15:05,5
+Rajasthan Medical Centre (RMC) Hospital Tohana,Kenchi Chowk Tohana,Yes (15),11,0,4,2,11,0,4,2,Yes,Yes,Yes,Yes,Yes,"10:40 AM 16th Jun,21",2021-06-16 10:40,5
+Sadhbhawdna Hospital Fatehabad,Near Court Complex Hisar Road Fatehabad,Yes (50),15,20,15,5,15,20,15,5,Yes,Yes,Yes,Yes,Yes,"3:04 PM 1st Jul,21",2021-07-01 15:04,5
+Sanjeevani Hospital Fatehabad,"Goshala Road, near Ashirbad Pelace",Yes (10),6,0,4,3,6,0,4,3,Yes,Yes,Yes,Yes,Yes,"3:07 PM 1st Jul,21",2021-07-01 15:07,5
+Sanjeevani Hospital Tohana,"Kenchi Chock, Tohana",Yes (18),0,6,12,2,0,6,12,2,Yes,Yes,Yes,Yes,Yes,"3:05 PM 1st Jul,21",2021-07-01 15:05,5
+"Singla Hospital , fatehabad","Bhattu Road, Batra Colony, Fatehabad",Yes (13),5,8,0,0,5,8,0,0,Yes,Yes,Yes,Yes,Yes,"3:06 PM 1st Jul,21",2021-07-01 15:06,5
+WadhwaMaternity and surgical Hospital Fatehabad,"Near Papiha Park, Fatehabad",Yes (8),1,0,7,1,1,0,7,1,Yes,Yes,Yes,Yes,Yes,"3:04 PM 1st Jul,21",2021-07-01 15:04,5
 Balaji Gautam Hospital,"Model Colony, East Bhatia Nagar, Yamuna Nagar, Haryana",Yes (12),7,2,3,0,7,2,3,0,Yes,No,Yes,Yes,Yes,"10:25 AM 29th Nov,21",2021-11-29 10:25,22
 Ch Lekh Raj Multispeciality Hospital,Vill Gadhauli Yamuna Nagar,Yes (150),140,0,10,5,140,0,10,5,Yes,Yes,Yes,Yes,Yes,"9:53 AM 27th Aug,21",2021-08-27 09:53,22
 CHC Bilaspur,CHC Bilaspur,Yes (23),8,15,0,0,8,17,0,0,Yes,No,Yes,No,Yes,"8:55 AM 27th Sep,21",2021-09-27 08:55,22
