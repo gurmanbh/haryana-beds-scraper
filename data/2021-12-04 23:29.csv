@@ -1,4 +1,17 @@
 name,address,Availability_availability_of_beds,Availability_oxygen_beds,Availability_non_oxygen_beds,Availability_i_c_u_beds,Availability_ventilators,Allocated_oxygen_beds,Allocated_non_oxygen_beds,Allocated_i_c_u,Allocated_ventilators,Availability_availability_of_oxygen,Availability_antiviral_remdesivir_etc_,Availability_steroids,Availability_anticoagulant,Availability_antipyretic,updated_on_unparsed,updated_on,city
+"AAROGYAM HOSPITAL, Kurukshetra","NEAR OLD BUS STAND, THANESAR, KURUSKHETRA",Yes (67),40,12,15,27,40,12,15,27,Yes,Yes,Yes,Yes,Yes,"10:25 AM 28th Oct,21",2021-10-28 10:25,12
+"ADESH MEDICAL COLLEGE, SHAHBAD MOHRI KURUKSHETRA.","VILL. MOHRI, SHAHBAD, KURUSHETRA",Yes (105),30,70,5,11,30,70,5,11,Yes,Yes,Yes,Yes,Yes,"10:26 AM 28th Oct,21",2021-10-28 10:26,12
+AGGARWAL NURSING HOME,"SALARPUR ROAD, THANESAR, KURUKSHETRA.",No (0),0,0,0,0,0,0,0,0,Yes,Yes,Yes,Yes,Yes,"10:25 AM 28th Oct,21",2021-10-28 10:25,12
+B.S. HEART CARE,"OPP. NEW BUS STAND, KURUKSHETRA.",Yes (26),18,0,8,20,18,0,8,20,Yes,Yes,Yes,Yes,Yes,"10:25 AM 28th Oct,21",2021-10-28 10:25,12
+"CYGNUS HOSPITAL, Kurukshetra","NEAR OLD BUS STAND, THANESAR, KURUSKHETRA",Yes (12),7,4,1,4,7,4,1,4,Yes,Yes,Yes,Yes,Yes,"10:25 AM 28th Oct,21",2021-10-28 10:25,12
+KURUKSHETRA NURSING HOME,,Yes (19),18,0,1,2,18,0,1,2,Yes,Yes,Yes,Yes,Yes,"10:25 AM 28th Oct,21",2021-10-28 10:25,12
+LNJP CIVIL HOSPITAL.,LNJP HOSPITAL KURUKSHETRA.,Yes (94),60,29,5,5,60,30,5,5,Yes,Yes,Yes,Yes,Yes,"1:10 PM 2nd Jan,22",2022-01-02 13:10,12
+MIRI PIRI SHAHBAD,"SHAHBAD, KURUKSHETRA",Yes (14),10,0,4,4,10,0,4,4,Yes,Yes,Yes,Yes,Yes,"10:25 AM 28th Oct,21",2021-10-28 10:25,12
+Nirogi Hospital,Shahabad Kurukshetra,Yes (7),5,2,0,3,5,2,0,3,Yes,Yes,Yes,Yes,Yes,"9:39 AM 25th Oct,21",2021-10-25 09:39,12
+"Saraswati Mission Hospital, Kurukshetra","Theme Park Road, Kurukshetra",Yes (20),4,0,16,2,4,0,16,2,Yes,Yes,Yes,Yes,Yes,"10:26 AM 28th Oct,21",2021-10-28 10:26,12
+"Saraswati Mission Hospital, Pehowa","Ambala Road Dist. Kurukshetra, Pehowa, Haryana 136128",Yes (22),20,0,2,5,20,0,2,5,Yes,No,Yes,To Be Updated,Yes,"10:25 AM 28th Oct,21",2021-10-28 10:25,12
+"SIDHARTH HOSPITAL, SHAHBAD","SHAHBAD, KURUKSHETRA",Yes (16),8,4,4,3,8,4,4,3,Yes,Yes,Yes,Yes,Yes,"10:25 AM 28th Oct,21",2021-10-28 10:25,12
+VERMA HOSPITAL,LADWA,Yes (14),9,3,2,2,9,3,2,2,Yes,Yes,Yes,Yes,Yes,"10:25 AM 28th Oct,21",2021-10-28 10:25,12
 Balaji Gautam Hospital,"Model Colony, East Bhatia Nagar, Yamuna Nagar, Haryana",Yes (12),7,2,3,0,7,2,3,0,Yes,No,Yes,Yes,Yes,"11:29 PM 4th Dec,21",2021-12-04 23:29,22
 Ch Lekh Raj Multispeciality Hospital,Vill Gadhauli Yamuna Nagar,Yes (150),140,0,10,5,140,0,10,5,Yes,Yes,Yes,Yes,Yes,"9:53 AM 27th Aug,21",2021-08-27 09:53,22
 CHC Bilaspur,CHC Bilaspur,Yes (23),8,15,0,0,8,17,0,0,Yes,No,Yes,No,Yes,"8:55 AM 27th Sep,21",2021-09-27 08:55,22
