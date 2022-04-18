@@ -1,30 +1,4 @@
 name,address,Availability_availability_of_beds,Availability_oxygen_beds,Availability_non_oxygen_beds,Availability_i_c_u_beds,Availability_ventilators,Allocated_oxygen_beds,Allocated_non_oxygen_beds,Allocated_i_c_u,Allocated_ventilators,Availability_availability_of_oxygen,Availability_antiviral_remdesivir_etc_,Availability_steroids,Availability_anticoagulant,Availability_antipyretic,updated_on_unparsed,updated_on,city
-"Apex Hospital, Sirsa","Circular Road, Sirsa",Yes (16),10,2,4,0,10,2,4,0,Yes,To Be Updated,Yes,Yes,Yes,"5:12 PM 3rd Mar,22",2022-03-03 17:12,20
-"Astha Hospital, Sirsa",Dabwali Road Sirsa,Yes (16),11,0,5,4,11,0,5,4,Yes,No,Yes,Yes,Yes,"11:44 AM 21st Jan,22",2022-01-21 11:44,20
-CHC NATHUSARI CHOPTA,Nathusari Chopta,Yes (25),20,5,0,0,20,5,0,0,To Be Updated,To Be Updated,Yes,Yes,Yes,"5:12 PM 3rd Mar,22",2022-03-03 17:12,20
-CIVIL HOSPITAL SIRSA,"Civil Hospital Road, Sirsa",Yes (179),130,39,10,21,130,40,10,21,Yes,Yes,Yes,Yes,Yes,"12:37 PM 17th Feb,22",2022-02-17 12:37,20
-"Dayal Nursing Home, Sirsa","Dabwali Road, Sirsa",Yes (20),16,1,3,0,16,1,3,0,Yes,To Be Updated,Yes,Yes,Yes,"5:12 PM 3rd Mar,22",2022-03-03 17:12,20
-"Gupta Hospital, Sirsa","Dabwali Road, Sirsa Near Easy Day",Yes (14),6,5,3,0,6,5,3,0,Yes,To Be Updated,Yes,Yes,Yes,"11:46 AM 21st Jan,22",2022-01-21 11:46,20
-"Jagdish Nursing Home, Sirsa","Gandhi Market, Parshuram Chowk, Sirsa",Yes (9),6,3,0,1,6,3,0,1,Yes,No,Yes,Yes,Yes,"11:42 AM 21st Jan,22",2022-01-21 11:42,20
-"Jeevan Jyoti Hospital, Sirsa",Dabwali Road Sirsa,Yes (8),0,2,6,1,0,2,6,1,Yes,No,Yes,Yes,Yes,"12:41 PM 21st Feb,22",2022-02-21 12:41,20
-"Khurana Hospital, Sirsa",Dabwali Road Sirsa,Yes (10),6,0,4,0,6,0,4,0,Yes,No,Yes,Yes,Yes,"5:11 PM 3rd Mar,22",2022-03-03 17:11,20
-"Lalgarhia Hospital, Sirsa",Dabwali Road Sirsa,Yes (20),13,4,3,2,15,4,3,2,Yes,Yes,Yes,No,Yes,"11:58 AM 26th Jan,22",2022-01-26 11:58,20
-"Medicare Hospital, Sirsa","Dabwali Road, Sirsa",Yes (9),2,3,4,2,2,3,4,2,Yes,Yes,Yes,Yes,Yes,"5:12 PM 3rd Mar,22",2022-03-03 17:12,20
-"Metro Health Care Hospital, Sirsa","Near Dena Bank, lal Batti Chowk, Sirsa",Yes (14),1,9,4,1,1,9,4,1,Yes,Yes,Yes,Yes,Yes,"11:25 AM 21st Jan,22",2022-01-21 11:25,20
-"Mittal Hospital, Sirsa","Near Jhunthra Petrol Pump, Dabwali Road Sirsa",Yes (19),14,1,4,0,14,1,4,0,Yes,No,Yes,Yes,Yes,"5:12 PM 3rd Mar,22",2022-03-03 17:12,20
-"New Life Care Hospital, Sirsa","Dabwali Road, Sirsa",Yes (11),7,2,2,1,7,2,2,1,Yes,No,Yes,Yes,Yes,"5:11 PM 3rd Mar,22",2022-03-03 17:11,20
-"Poonia COVID Care Center, Sirsa","Near Ambedkar chowk, opposite Seth tula ram dharamshala, Hisar Road, Sirsa, Haryana 125055",Yes (24),10,8,6,1,10,8,6,1,Yes,Yes,Yes,Yes,Yes,"5:11 PM 3rd Mar,22",2022-03-03 17:11,20
-"Sanjeevni Hospital, Sirsa (Wing -2, 1 &amp; 2nd Floor)","Under over bridge, hisar road, sirsa",Yes (35),30,0,5,5,30,0,5,5,Yes,Yes,Yes,Yes,Yes,"11:52 AM 21st Jan,22",2022-01-21 11:52,20
-SDCH Dabwali,"Dabwali, District Sirsa",Yes (100),100,0,0,2,100,0,0,2,Yes,No,Yes,Yes,Yes,"5:11 PM 3rd Mar,22",2022-03-03 17:11,20
-"Shah Satnam Dera Hospital (Wing -2, 2nd floor), Sirsa","Begu Road, Sirsa",Yes (65),21,30,14,7,21,30,14,7,Yes,Yes,Yes,Yes,Yes,"10:59 AM 17th Feb,22",2022-02-17 10:59,20
-"Shivam Hospital, Sirsa",Surkhab Chowk Sirsa,Yes (18),8,8,2,2,8,8,2,2,Yes,No,Yes,Yes,To Be Updated,"11:51 AM 21st Jan,22",2022-01-21 11:51,20
-"Shri Baba Tara Hospital &amp; Research Center, Sirsa","Hisar Road, Sirsa",Yes (25),15,5,5,3,15,5,5,3,Yes,No,Yes,Yes,Yes,"5:13 PM 3rd Mar,22",2022-03-03 17:13,20
-"SPS Hospital, Sirsa","Near Sangwan Chowk, Dabwali Road, Sirsa",Yes (20),13,4,3,3,14,4,3,3,Yes,No,Yes,Yes,Yes,"12:52 PM 29th Jan,22",2022-01-29 12:52,20
-"Suraksha Hospital, Sirsa","Dabwali Rd, opposite Hotel Aroma, Sirsa, Haryana 125055",Yes (20),9,3,8,4,9,3,8,4,Yes,No,Yes,Yes,Yes,"5:11 PM 3rd Mar,22",2022-03-03 17:11,20
-"Swastik Hospital, Sirsa","Ambedkar Chowk, Nandan Vatika, Sirsa,",Yes (15),5,5,5,0,5,5,5,0,Yes,No,Yes,Yes,Yes,"7:08 PM 26th Mar,22",2022-03-26 19:08,20
-"Talwar Nursing Home, Sirsa","Under Over Bridge, Hisar Road, Sirsa",Yes (24),11,10,3,1,11,10,3,1,Yes,Yes,Yes,Yes,Yes,"5:12 PM 3rd Mar,22",2022-03-03 17:12,20
-"Tomar Nursing Home, Sirsa","Nandan Vatika, near surkhab Chock, Hathi park, Agrasain Colony, Sirsa, Haryana 125055",Yes (17),14,0,3,1,14,0,3,1,Yes,Yes,Yes,Yes,Yes,"5:11 PM 3rd Mar,22",2022-03-03 17:11,20
-"Vardan Hospital, Sirsa","Near Lal Batti Chowk, Sirsa",Yes (18),9,3,6,0,9,3,6,0,Yes,No,Yes,Yes,Yes,"5:12 PM 3rd Mar,22",2022-03-03 17:12,20
 Civil Hospital Fatehabad,Near Bus Stand Fatehabad,Yes (46),20,0,26,6,20,0,26,6,Yes,Yes,Yes,Yes,Yes,"5:10 PM 3rd Mar,22",2022-03-03 17:10,5
 Civil Hospital Ratia,"Dera Surjanhar, Ratia, Fatehabad",Yes (18),5,0,13,3,5,0,13,3,Yes,Yes,Yes,Yes,Yes,"5:12 PM 3rd Mar,22",2022-03-03 17:12,5
 "Civil Hospital, Tohana",Opposite New Sabzi Mandi Tohana,Yes (27),10,3,14,2,10,3,14,2,Yes,Yes,Yes,Yes,Yes,"5:10 PM 3rd Mar,22",2022-03-03 17:10,5
@@ -41,42 +15,33 @@ Sanjeevani Hospital Fatehabad,"Goshala Road, near Ashirbad Pelace",Yes (10),6,0,
 Sanjeevani Hospital Tohana,"Kenchi Chock, Tohana",Yes (18),0,6,12,2,0,6,12,2,Yes,Yes,Yes,Yes,Yes,"5:12 PM 3rd Mar,22",2022-03-03 17:12,5
 "Singla Hospital , fatehabad","Bhattu Road, Batra Colony, Fatehabad",Yes (13),5,8,0,0,5,8,0,0,Yes,Yes,Yes,Yes,Yes,"5:12 PM 3rd Mar,22",2022-03-03 17:12,5
 WadhwaMaternity and surgical Hospital Fatehabad,"Near Papiha Park, Fatehabad",Yes (8),1,0,7,1,1,0,7,1,Yes,Yes,Yes,Yes,Yes,"5:10 PM 3rd Mar,22",2022-03-03 17:10,5
-ANUJ HOSPITAL SAFIDON,safidon panipat road,Yes (30),2,18,10,0,2,18,10,0,Yes,No,Yes,Yes,Yes,"5:13 PM 3rd Mar,22",2022-03-03 17:13,9
-Balaji Hospital Jind,Rohtak Road Jind,Yes (48),32,16,0,0,32,16,0,0,Yes,No,Yes,Yes,Yes,"5:10 PM 3rd Mar,22",2022-03-03 17:10,9
-CHC Alewa,"Alewa 2 Sub Health Centre, Alewa Chc Alewa, Alewa, Jind",Yes (15),15,0,0,0,15,0,0,0,Yes,No,Yes,No,Yes,"5:11 PM 3rd Mar,22",2022-03-03 17:11,9
-CHC Julana,Julana,Yes (26),20,6,0,0,20,6,0,0,Yes,No,Yes,Yes,Yes,"5:10 PM 3rd Mar,22",2022-03-03 17:10,9
-District Civil Hospital Jind (NEW+OLD),Hosptial,Yes (170),150,0,20,12,150,0,20,12,Yes,Yes,Yes,Yes,Yes,"5:10 PM 3rd Mar,22",2022-03-03 17:10,9
-Gangaputra Ayurvedic Medical College Jind,Kandela,Yes (100),60,15,25,3,60,15,25,3,Yes,No,Yes,Yes,Yes,"5:10 PM 3rd Mar,22",2022-03-03 17:10,9
-JIND HEART HOSPITAL,GOHANA BYPASS ROHTAK ROAD JIND,Yes (17),12,0,5,1,12,0,5,1,Yes,No,No,No,No,"5:11 PM 3rd Mar,22",2022-03-03 17:11,9
-Malik Hospital,Rohtak Road Jind,Yes (8),4,0,4,3,4,0,4,3,Yes,No,Yes,Yes,Yes,"5:10 PM 3rd Mar,22",2022-03-03 17:10,9
-Meenakashi Jain Hospital,Near Bus Stand,Yes (22),15,2,5,1,15,2,5,1,Yes,No,Yes,Yes,Yes,"5:10 PM 3rd Mar,22",2022-03-03 17:10,9
-RAJ HOSPITAL ROHTAK RAOD JIND,ROHTAK ROAD JIND,Yes (15),8,5,2,2,8,5,2,2,Yes,No,Yes,Yes,Yes,"5:13 PM 3rd Mar,22",2022-03-03 17:13,9
-Sarvodhya Hospital Jind,Jind,Yes (20),20,0,0,2,20,0,0,2,Yes,No,Yes,No,No,"5:10 PM 3rd Mar,22",2022-03-03 17:10,9
-SDH Narwana,Narwana,Yes (32),20,12,0,0,20,12,0,0,Yes,No,Yes,Yes,Yes,"5:10 PM 3rd Mar,22",2022-03-03 17:10,9
-SDH Safidon,Safidon,Yes (34),20,14,0,0,20,14,0,0,Yes,No,Yes,No,Yes,"5:10 PM 3rd Mar,22",2022-03-03 17:10,9
-SDH UCHANA,Uchana,Yes (55),20,35,0,0,20,35,0,0,Yes,No,No,No,Yes,"5:10 PM 3rd Mar,22",2022-03-03 17:10,9
-Shri Gyani Ram Mamorial Hospital,Safidon,Yes (25),10,5,10,0,10,5,10,0,Yes,No,Yes,Yes,Yes,"5:10 PM 3rd Mar,22",2022-03-03 17:10,9
-DCHC Barara,,Yes (50),50,0,0,0,50,0,0,0,To Be Updated,To Be Updated,To Be Updated,To Be Updated,To Be Updated,"5:13 PM 3rd Mar,22",2022-03-03 17:13,1
-DCHC Mullana,,Yes (50),50,0,0,0,50,0,0,0,To Be Updated,To Be Updated,To Be Updated,To Be Updated,To Be Updated,"5:12 PM 3rd Mar,22",2022-03-03 17:12,1
-District Civil Hospital,Ambala City,Yes (137),114,0,23,11,116,0,23,11,Yes,Yes,Yes,Yes,Yes,"5:11 PM 3rd Mar,22",2022-03-03 17:11,1
-District Civil Hospital Ambala Cantt,Ambala Cantt,Yes (91),78,0,13,7,80,0,13,7,Yes,Yes,Yes,Yes,Yes,"5:11 PM 3rd Mar,22",2022-03-03 17:11,1
-Guardian Hospital,AMBALA JAGADHARI ROAD AMBALA CANTT,Yes (23),15,3,5,3,15,3,5,3,Yes,Yes,Yes,Yes,Yes,"1:50 PM 3rd Mar,22",2022-03-03 13:50,1
-Ishwar Hospital,,Yes (15),15,0,0,0,16,0,0,0,Yes,Yes,Yes,Yes,Yes,"5:12 PM 3rd Mar,22",2022-03-03 17:12,1
-Kuldeep Hospital,,Yes (10),8,0,2,0,8,0,2,0,To Be Updated,To Be Updated,To Be Updated,To Be Updated,To Be Updated,"5:13 PM 3rd Mar,22",2022-03-03 17:13,1
-Mehndiratta Hospital,"#106, manali house, near central jail,  ambala city",Yes (30),25,0,5,1,25,0,5,1,Yes,No,Yes,Yes,Yes,"5:11 PM 3rd Mar,22",2022-03-03 17:11,1
-Military Hospital,Ambala Cantonment,Yes (160),60,85,15,15,60,85,15,15,To Be Updated,To Be Updated,To Be Updated,To Be Updated,To Be Updated,"5:10 PM 3rd Mar,22",2022-03-03 17:10,1
-MM Medical College Pvt,MMIMSR Mullana Ambala,Yes (200),116,70,14,10,116,70,14,10,Yes,Yes,Yes,Yes,Yes,"5:10 PM 3rd Mar,22",2022-03-03 17:10,1
-Park Healing Touch Hospital,"Sultanpur Chowk, Nr Dhulkot Barrier, Ambala Chandigarh Expy. Ambala",Yes (47),27,0,20,10,30,0,20,10,Yes,Yes,Yes,Yes,Yes,"5:11 PM 3rd Mar,22",2022-03-03 17:11,1
-Philedelphia mission Hospital pvt,"Mission Compound, Ambala City",Yes (100),92,0,8,2,92,0,8,2,Yes,No,Yes,Yes,Yes,"5:10 PM 3rd Mar,22",2022-03-03 17:10,1
-Railways Hospital,"Railway Hospital, railway colony,  Ambala Cantt",Yes (35),30,0,5,0,30,0,5,0,Yes,Yes,Yes,Yes,Yes,"6:44 AM 12th Apr,22",2022-04-12 06:44,1
-Rotary Hospital Ambala cantt Pvt,"Rambagh road, Opp Dusshera ground, Ambala Cantt",Yes (20),15,0,5,2,15,0,5,2,Yes,No,Yes,Yes,Yes,"5:10 PM 3rd Mar,22",2022-03-03 17:10,1
-Sant Hospital,,Yes (13),10,0,3,1,10,0,3,1,To Be Updated,To Be Updated,To Be Updated,To Be Updated,To Be Updated,"5:11 PM 3rd Mar,22",2022-03-03 17:11,1
-SDH Naraingarh,,Yes (50),50,0,0,0,50,0,0,0,To Be Updated,To Be Updated,To Be Updated,To Be Updated,To Be Updated,"5:11 PM 3rd Mar,22",2022-03-03 17:11,1
-Yafe Indoor Hospital,,Yes (14),9,5,0,0,9,6,0,0,To Be Updated,To Be Updated,To Be Updated,To Be Updated,To Be Updated,"5:13 PM 3rd Mar,22",2022-03-03 17:13,1
-Cygnus Multispecialty Hospital Kaithal,"Huda Bypass Road, Sector 20, Kaithal, Haryana",Yes (40),28,0,12,2,28,0,12,2,Yes,No,Yes,Yes,Yes,"5:11 PM 3rd Mar,22",2022-03-03 17:11,10
-District Civil Hospital Kaithal,"Huda Sec 18, Kaithal",Yes (115),80,15,20,18,80,15,20,18,Yes,Yes,Yes,Yes,Yes,"5:10 PM 3rd Mar,22",2022-03-03 17:10,10
-SDH Guhla,SDH Guhla,Yes (70),35,35,0,5,35,35,0,5,Yes,No,Yes,No,Yes,"5:10 PM 3rd Mar,22",2022-03-03 17:10,10
-Shah Multispecialty Hospital Kaithal,"opp.old, bus stand, Jind - Kaithal Rd, Amar Garh Colony, Kaithal, Haryana",Yes (75),50,11,14,10,51,11,15,10,Yes,No,Yes,Yes,Yes,"5:10 PM 3rd Mar,22",2022-03-03 17:10,10
+Advanta Super Speciality Hospital,Near Power House,Yes (20),14,1,5,4,14,1,5,4,Yes,No,Yes,Yes,Yes,"1:50 PM 3rd Mar,22",2022-03-03 13:50,19
+ARS Holy Heart Advanced Cardiac care &amp; Research Centre,"330, Vinay Nagar Rohtak, Near Delhi Bypass Rohtak",Yes (20),0,0,20,2,0,0,20,2,Yes,No,No,No,No,"1:50 PM 3rd Mar,22",2022-03-03 13:50,19
+CHC Chiri,"VOP Chiri, Meham Gohana Road, Distt. Rohtak Haryana",Yes (10),10,0,0,0,10,0,0,0,Yes,Yes,Yes,Yes,Yes,"1:50 PM 3rd Mar,22",2022-03-03 13:50,19
+CHC Kahanaur,"Near Sarva haryana Gramin Bank, Opp. Banquet hall, Nigana Road, Kahanaur",Yes (10),4,6,0,0,4,6,0,0,Yes,No,Yes,No,Yes,"1:50 PM 3rd Mar,22",2022-03-03 13:50,19
+CHC kalanaur,"Police Station, Bhiwani-Rohtak Road , Near Kalanaur kalan, Kalanaur,",Yes (10),10,0,0,0,10,0,0,0,Yes,No,Yes,No,Yes,"1:50 PM 3rd Mar,22",2022-03-03 13:50,19
+CHC Kiloi,"VPO Kiloi, Water Works, Distt. Rohtak",Yes (10),5,5,0,0,5,5,0,0,Yes,No,Yes,No,Yes,"1:50 PM 3rd Mar,22",2022-03-03 13:50,19
+CHC Madina,"VPO Madina, Hisar Road Distt. Rohtak, Haryana",Yes (10),0,10,0,0,0,10,0,0,Yes,No,No,No,Yes,"1:50 PM 3rd Mar,22",2022-03-03 13:50,19
+CHC Meham,"Near ITI, Meham Distt. Rohtak",Yes (10),10,0,0,0,10,0,0,0,Yes,No,Yes,No,Yes,"1:50 PM 3rd Mar,22",2022-03-03 13:50,19
+CHC Sampla,"Gadi Sampla, Rohtak, SH-20, Jhajjar Sampla Road, Sampla, Sampla, Haryana 124501",Yes (10),0,10,0,0,0,10,0,0,No,No,Yes,No,Yes,"1:50 PM 3rd Mar,22",2022-03-03 13:50,19
+"Civil Hospital, Rohtak",Subash Road,Yes (71),40,24,7,5,40,24,7,5,Yes,Yes,Yes,Yes,Yes,"1:50 PM 3rd Mar,22",2022-03-03 13:50,19
+Holy Heart Super speciality Hospital,Vinay Nagar Delhi Bye pass,Yes (34),20,4,10,4,20,5,10,4,Yes,No,Yes,Yes,Yes,"1:50 PM 3rd Mar,22",2022-03-03 13:50,19
+"Hridaya Nilayam Heart, Lung &amp; vascular Institute","5, Raj Garden, Delhi Bypass, Rohtak",Yes (51),47,0,4,4,47,0,4,4,To Be Updated,To Be Updated,To Be Updated,To Be Updated,To Be Updated,"1:50 PM 3rd Mar,22",2022-03-03 13:50,19
+Joyline Multispeciality,"Surajmal Colony, Sunarian Road, Opposite Birgadier Muktram Statue Rohtak",Yes (20),15,0,5,1,15,0,5,1,Yes,Yes,Yes,Yes,Yes,"1:50 PM 3rd Mar,22",2022-03-03 13:50,19
+Kainos Hospital,Near Kheri Sadh Village Outer Bye Pass,Yes (70),26,10,34,17,26,10,34,17,Yes,No,Yes,Yes,Yes,"1:50 PM 3rd Mar,22",2022-03-03 13:50,19
+Life Care Hospital,Subash Nagar,Yes (50),20,0,30,7,20,0,30,7,Yes,No,Yes,Yes,Yes,"1:50 PM 3rd Mar,22",2022-03-03 13:50,19
+Maan Hospital,Bhagwan Colony Near Radio Station,Yes (49),20,12,17,4,20,14,17,4,Yes,No,Yes,Yes,Yes,"1:50 PM 3rd Mar,22",2022-03-03 13:50,19
+Mansarover Hospital,Mansarover Colony Near Park,Yes (30),20,Beds Over Utilized 1,10,7,20,0,10,7,Yes,No,Yes,Yes,Yes,"1:50 PM 3rd Mar,22",2022-03-03 13:50,19
+Neurocentre Super Speciality Hospital,"Kalawati Bulding, Near Power House Rohtak",Yes (23),4,6,13,2,4,6,13,2,Yes,No,Yes,Yes,Yes,"1:50 PM 3rd Mar,22",2022-03-03 13:50,19
+Noble Heart Super Speciality Hospital,Near Raj Garden Delhi Bye Pass,Yes (64),22,6,36,8,22,6,36,8,Yes,No,Yes,Yes,Yes,"1:50 PM 3rd Mar,22",2022-03-03 13:50,19
+Oscar Super Speciality Trauma Center,"Medical Moad, Daryao Singh Nagar,",Yes (41),23,3,15,2,23,3,15,2,Yes,Yes,Yes,Yes,Yes,"1:50 PM 3rd Mar,22",2022-03-03 13:50,19
+Oxygen Hospital,Islam Pura Daries Hisar Road,Yes (30),15,10,5,4,15,10,5,4,Yes,No,Yes,Yes,Yes,"1:50 PM 3rd Mar,22",2022-03-03 13:50,19
+PGIMS Rohtak,"Pt.Bhagwat Dayal PGIMS, Medical Rd, Rohtak, Haryana",Yes (566),451,0,115,115,451,0,115,115,Yes,Yes,Yes,Yes,Yes,"9:30 AM 15th Apr,22",2022-04-15 09:30,19
+Positron Hospital,Suncity Sector 35,Yes (29),0,14,15,6,0,14,16,6,Yes,No,Yes,Yes,Yes,"1:50 PM 3rd Mar,22",2022-03-03 13:50,19
+Pragati Hospital,"Sukhpura Chowk, Gohana Road, opp. Ladhot Road Rohtak",Yes (35),30,0,5,2,30,0,5,2,Yes,No,Yes,Yes,Yes,"1:50 PM 3rd Mar,22",2022-03-03 13:50,19
+"Sanghi Nursing Home, Rohtak, Haryana","Chotu Ram Chowk, Civil Road, Arya Nagar, Rohtak, Haryana",Yes (14),10,0,4,4,10,0,4,4,Yes,Yes,Yes,Yes,Yes,"1:50 PM 3rd Mar,22",2022-03-03 13:50,19
+Shivam Liver &amp; Gastro Super Speciality Hospital,"CIVIL ROAD NEAR SHANT MAI CHOWK, Rohtak, Haryana - 124001, India",Yes (9),5,0,4,1,5,0,4,1,Yes,No,Yes,Yes,Yes,"1:50 PM 3rd Mar,22",2022-03-03 13:50,19
+Sunflag Global Hospital,Bharat Colony Near Sheela Bye Pass,Yes (35),20,Beds Over Utilized 2,15,5,20,0,15,5,Yes,No,Yes,Yes,Yes,"1:50 PM 3rd Mar,22",2022-03-03 13:50,19
 Balaji Gautam Hospital,"Model Colony, East Bhatia Nagar, Yamuna Nagar, Haryana",Yes (12),7,2,3,0,7,2,3,0,Yes,No,Yes,Yes,Yes,"1:52 PM 3rd Mar,22",2022-03-03 13:52,22
 Ch Lekh Raj Multispeciality Hospital,Vill Gadhauli Yamuna Nagar,Yes (150),140,0,10,5,140,0,10,5,Yes,Yes,Yes,Yes,Yes,"5:12 PM 3rd Mar,22",2022-03-03 17:12,22
 CHC Bilaspur,CHC Bilaspur,Yes (23),8,15,0,0,8,17,0,0,Yes,No,Yes,No,Yes,"5:11 PM 3rd Mar,22",2022-03-03 17:11,22
