@@ -1,4 +1,38 @@
 name,address,Availability_availability_of_beds,Availability_oxygen_beds,Availability_non_oxygen_beds,Availability_i_c_u_beds,Availability_ventilators,Allocated_oxygen_beds,Allocated_non_oxygen_beds,Allocated_i_c_u,Allocated_ventilators,Availability_availability_of_oxygen,Availability_antiviral_remdesivir_etc_,Availability_steroids,Availability_anticoagulant,Availability_antipyretic,updated_on_unparsed,updated_on,city
+"AADHAR Hospital, Hisar",Tosham Road Hisar,Yes (43),25,6,12,6,26,6,12,6,Yes,No,No,Yes,Yes,"12:20 PM 17th Jun,22",2022-06-17 12:20,7
+Amandeep Hospital,ITI CHOWK TOSHAM ROAD HISAR,Yes (5),3,0,2,5,3,0,2,5,To Be Updated,No,No,Yes,Yes,"9:05 AM 16th Jun,22",2022-06-16 09:05,7
+Bharat Multispeciality Hospital,Hisar,Yes (26),16,0,10,2,16,0,10,2,Yes,No,Yes,Yes,Yes,"5:13 PM 7th Jun,22",2022-06-07 17:13,7
+Central Medical Centre (CMC),CMC Hospital Delhi Road Hisar,Yes (62),46,7,9,3,46,7,9,3,Yes,Yes,Yes,Yes,Yes,"9:54 PM 14th Jun,22",2022-06-14 21:54,7
+Churamani Hospital,CAMP CHOWK HISAR,Yes (37),5,2,30,5,5,2,30,5,No,No,No,No,No,"1:50 PM 3rd Mar,22",2022-03-03 13:50,7
+District Civil Hospital Hisar,Sirsa Road Hisar,Yes (79),79,0,0,20,80,0,0,20,Yes,Yes,Yes,Yes,Yes,"5:13 PM 7th Jun,22",2022-06-07 17:13,7
+DR. ANANTRAM JANTA HOSPITAL PVT LTD BARWALA,Civil Hospital Road Barwala,Yes (17),17,0,0,3,17,0,0,3,Yes,No,Yes,Yes,Yes,"1:50 PM 3rd Mar,22",2022-03-03 13:50,7
+Geetanjali Hospital,Model Town Hisar,Yes (48),40,0,8,4,40,0,8,4,Yes,Yes,Yes,Yes,Yes,"5:13 PM 7th Jun,22",2022-06-07 17:13,7
+Goswami Hospital,"NEAR BUS STAND, RISHI NAGAR",Yes (9),4,5,0,1,4,5,0,1,Yes,To Be Updated,To Be Updated,To Be Updated,To Be Updated,"1:50 PM 3rd Mar,22",2022-03-03 13:50,7
+Gupta Hospital Hisar,Sector 14 Hisar,Yes (35),30,0,5,0,30,0,5,0,Yes,Yes,Yes,No,Yes,"9:48 AM 16th Jun,22",2022-06-16 09:48,7
+GUPTA MEDICAL CENTRE,"OPP. MADHUBAN PARK ,PREMNAGAR HISAR",Yes (3),1,0,2,1,1,0,2,1,Yes,To Be Updated,To Be Updated,To Be Updated,To Be Updated,"11:20 AM 15th Jun,22",2022-06-15 11:20,7
+"GURU JAMBHESHWAR MULTISPECIALITY HOSPITAL, AGROHA","ADAMPUR ROAD, AGROHA",Yes (14),9,3,2,1,9,3,2,1,Yes,No,Yes,Yes,Yes,"11:43 AM 15th Jun,22",2022-06-15 11:43,7
+Holy Help Hospital,Tosham Road Hisar,Yes (39),25,6,8,1,25,6,8,1,Yes,No,Yes,Yes,Yes,"5:13 PM 7th Jun,22",2022-06-07 17:13,7
+Janki Children Hospital Hisar,Near Sewak Sabha Hopsital Hisar,Yes (2),0,Beds Over Utilized 1,2,2,0,1,2,2,Yes,No,Yes,Yes,Yes,"10:39 AM 15th Jun,22",2022-06-15 10:39,7
+Mahatma Gandhi Hospital,,Yes (42),19,13,10,8,19,13,10,8,To Be Updated,Yes,Yes,Yes,Yes,"8:29 AM 7th Mar,22",2022-03-07 08:29,7
+MALIK HOSPITAL,"145A UTTAM NAGAR, HANSI",Yes (7),7,0,0,3,7,0,0,3,Yes,No,Yes,No,No,"5:15 PM 7th Jun,22",2022-06-07 17:15,7
+MAMC Agroha,"Maharaj Aggarsin Medical College, VPO Agroha",Yes (140),85,15,40,60,85,15,40,60,To Be Updated,To Be Updated,To Be Updated,To Be Updated,To Be Updated,"9:25 AM 15th Jun,22",2022-06-15 09:25,7
+Military Hospital Hisar,Cantt Hisar,Yes (70),18,52,0,5,18,52,0,5,Yes,To Be Updated,Yes,Yes,Yes,"6:09 PM 18th Jun,22",2022-06-18 18:09,7
+NEKIRAM HOSPITAL,OPP BUS STAND HANSI,Yes (5),2,0,3,3,2,0,3,3,To Be Updated,To Be Updated,To Be Updated,To Be Updated,To Be Updated,"5:15 PM 7th Jun,22",2022-06-07 17:15,7
+OPJindal Institute of Cancer &amp; Research Hospital,Model Town Hisar,Yes (144),100,4,40,44,100,4,41,45,Yes,Yes,Yes,Yes,Yes,"5:13 PM 7th Jun,22",2022-06-07 17:13,7
+PARDEEP KANSAL MULTISPECIALITY HOSPITAL FOR CHILDREN,"25- Inderprastha Colony, Hisar",Yes (13),0,6,7,3,0,6,7,3,Yes,No,Yes,Yes,Yes,"1:50 PM 3rd Mar,22",2022-03-03 13:50,7
+Parnami Hospital,Hisar,Yes (28),21,5,2,2,21,5,2,2,Yes,Yes,Yes,Yes,Yes,"5:13 PM 7th Jun,22",2022-06-07 17:13,7
+Ravindra Hospital Hisar,Model Town HISAR,Yes (21),19,0,2,1,19,0,2,1,Yes,No,Yes,Yes,Yes,"1:50 PM 3rd Mar,22",2022-03-03 13:50,7
+SAANVI HOSPITAL,"CHC ROAD, BARWALA",Yes (9),5,0,4,1,5,0,4,1,Yes,No,Yes,To Be Updated,To Be Updated,"5:15 PM 7th Jun,22",2022-06-07 17:15,7
+Sapra Hospital,Rajgarh Road Hisar,Yes (28),19,3,6,12,19,3,6,12,Yes,Yes,Yes,No,Yes,"10:56 AM 6th Apr,22",2022-04-06 10:56,7
+"Sarvodya Hospital, Hisar",Delhi Road Hisar,Yes (22),13,6,3,3,13,6,3,3,Yes,Yes,Yes,Yes,Yes,"4:00 PM 17th Jun,22",2022-06-17 16:00,7
+Sewak Sabha Hospital,Near Bus Stand Hisar,Yes (27),16,3,8,1,16,3,8,1,Yes,Yes,Yes,Yes,Yes,"9:58 AM 14th Jun,22",2022-06-14 09:58,7
+Shanti Devi Hospital,Delhi Road Hisar,Yes (38),26,0,12,2,26,0,12,2,Yes,Yes,Yes,Yes,Yes,"8:56 AM 15th Jun,22",2022-06-15 08:56,7
+Shri Kali Devi Hospital Hansi,Delhi Road Hansi,Yes (13),8,0,5,0,8,0,5,0,To Be Updated,No,To Be Updated,Yes,Yes,"5:13 PM 7th Jun,22",2022-06-07 17:13,7
+SINGLA MULTISPECIALITY HOSPITAL,"RISHI NAGAR, GALI NO. 1, NEAR BUS STAND, HISAR",Yes (19),17,0,2,1,17,0,2,1,Yes,No,Yes,Yes,Yes,"1:50 PM 3rd Mar,22",2022-03-03 13:50,7
+SL Minda Hospital,VPO Bagla,Yes (8),6,0,2,2,6,0,2,2,Yes,No,Yes,Yes,Yes,"5:13 PM 7th Jun,22",2022-06-07 17:13,7
+SONAKSHI CHILDREN HOSPITAL,"PLOT NO.2 ,DAYANAND COLONY,JINDAL HOSPITAL ROAD ,NEAR ITI ,HISAR",Yes (3),1,0,2,1,1,0,2,1,Yes,To Be Updated,To Be Updated,To Be Updated,To Be Updated,"11:52 AM 15th Jun,22",2022-06-15 11:52,7
+Sukhda Multispeciality Hospital,Dabra Chowk Hisar,Yes (53),31,16,6,6,31,16,6,6,Yes,Yes,Yes,Yes,Yes,"9:19 AM 19th Jun,22",2022-06-19 09:19,7
+Vardaan Hospital Hisar,Hisar,Yes (21),9,1,11,2,9,1,11,2,Yes,No,Yes,Yes,Yes,"5:13 PM 7th Jun,22",2022-06-07 17:13,7
 Ch Lekh Raj Multispeciality Hospital,Vill Gadhauli Yamuna Nagar,Yes (150),140,0,10,5,140,0,10,5,Yes,Yes,Yes,Yes,Yes,"11:21 AM 15th Jun,22",2022-06-15 11:21,22
 CHC Bilaspur,CHC Bilaspur,Yes (23),8,15,0,0,8,17,0,0,Yes,No,Yes,No,Yes,"11:04 AM 15th Jun,22",2022-06-15 11:04,22
 CHC Chhachharuli,CHC Chhachharuli,Yes (30),10,20,0,0,10,20,0,0,Yes,No,Yes,Yes,Yes,"11:04 AM 15th Jun,22",2022-06-15 11:04,22
