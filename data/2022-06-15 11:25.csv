@@ -1,4 +1,39 @@
 name,address,Availability_availability_of_beds,Availability_oxygen_beds,Availability_non_oxygen_beds,Availability_i_c_u_beds,Availability_ventilators,Allocated_oxygen_beds,Allocated_non_oxygen_beds,Allocated_i_c_u,Allocated_ventilators,Availability_availability_of_oxygen,Availability_antiviral_remdesivir_etc_,Availability_steroids,Availability_anticoagulant,Availability_antipyretic,updated_on_unparsed,updated_on,city
+Anchal Multispeciality Hospital,"Anchal Multi speciality Hospital, Krishna Colony, Bhiwani, Haryana 127027",Yes (35),25,0,10,2,25,0,10,2,Yes,Yes,Yes,Yes,Yes,"5:14 PM 7th Jun,22",2022-06-07 17:14,2
+Ch. Bansilal Govt Hospital,"Bansi Lal General Hospital, Ghanta Ghar Chowk, SH 17, Krishna Colony, Bhiwani, Haryana 127021",Yes (171),139,5,27,16,139,5,28,16,Yes,Yes,Yes,Yes,Yes,"5:14 PM 7th Jun,22",2022-06-07 17:14,2
+Chugh Hospital,"Meham Gate, Circular Road, Bhiwani",Yes (20),20,0,0,0,20,0,0,0,Yes,Yes,Yes,Yes,Yes,"5:14 PM 7th Jun,22",2022-06-07 17:14,2
+ESI Hospital Bhiwani,"Stadium Rd, Housing Board Colony, Bhiwani, Haryana 127021",Yes (40),0,40,0,0,0,40,0,0,No,No,Yes,Yes,Yes,"5:14 PM 7th Jun,22",2022-06-07 17:14,2
+Ganpatrai Hospital,"SH 17, Bank Colony, Bound Kalan, Krishna Colony, Bhiwani, Haryana 127021",Yes (10),4,4,2,1,4,4,2,1,Yes,No,Yes,Yes,Yes,"5:14 PM 7th Jun,22",2022-06-07 17:14,2
+Jangra Multispecilaity Hospital,"Bank Colony, Old Bharat Nagar, Bhiwani, Haryana 127021",Yes (10),7,3,0,0,7,3,0,0,Yes,No,Yes,Yes,Yes,"5:14 PM 7th Jun,22",2022-06-07 17:14,2
+Jeevan Nursing Home-Bhiwani,Rohtak gate Bhiwani,Yes (10),3,4,3,0,3,4,3,0,Yes,Yes,Yes,Yes,Yes,"5:15 PM 7th Jun,22",2022-06-07 17:15,2
+Jeevanrekha Hospital,Near Railway Road Bhiwani,Yes (30),25,0,5,1,25,0,5,1,To Be Updated,To Be Updated,To Be Updated,To Be Updated,To Be Updated,"5:15 PM 7th Jun,22",2022-06-07 17:15,2
+Kadam Hospital,"Bank Colony Near New Bus Stand, Bhiwani",Yes (45),11,0,34,1,11,0,34,1,Yes,Yes,Yes,Yes,Yes,"5:29 PM 15th Jun,22",2022-06-15 17:29,2
+Krishan Lal Jalan Hospital,"Jalan Nagar, M.C.Colony, Bhiwani, Haryana 127021",Yes (40),20,20,0,0,20,20,0,0,Yes,Yes,Yes,Yes,Yes,"5:14 PM 7th Jun,22",2022-06-07 17:14,2
+Life Line Hospital,"Circular Rd, M.C.Colony, Bhiwani, Haryana 127021",Yes (27),21,0,6,0,21,0,6,0,Yes,Yes,Yes,Yes,Yes,"5:14 PM 7th Jun,22",2022-06-07 17:14,2
+RPS HOSPITAL,,Yes (24),4,16,4,0,4,16,4,0,Yes,No,Yes,Yes,Yes,"5:14 PM 7th Jun,22",2022-06-07 17:14,2
+Sharma Nursing and Maternity Home Tosham,Siwani Road Tosham,Yes (10),7,0,3,2,7,0,3,2,Yes,Yes,To Be Updated,Yes,Yes,"5:15 PM 7th Jun,22",2022-06-07 17:15,2
+Shree Ganesha Hospital,"Dadri Gate, Bhiwani",Yes (13),6,3,4,0,6,3,4,0,Yes,Yes,Yes,Yes,Yes,"5:14 PM 7th Jun,22",2022-06-07 17:14,2
+"SHRI BABA YOGI NETANATH HOSPITAL , LOHANI ,BHIWANI",VPO Lohani,Yes (50),35,5,10,2,35,5,10,2,Yes,Yes,Yes,Yes,Yes,"5:15 PM 7th Jun,22",2022-06-07 17:15,2
+Shri Ram Hospital,Siwani,Yes (11),0,0,11,4,0,0,11,4,To Be Updated,To Be Updated,To Be Updated,To Be Updated,To Be Updated,"5:15 PM 7th Jun,22",2022-06-07 17:15,2
+SMSG Multispeciality Hospital,"Rohtak Gate, Bhiwani",Yes (30),2,17,11,2,2,17,11,2,Yes,Yes,Yes,Yes,Yes,"5:14 PM 7th Jun,22",2022-06-07 17:14,2
+Spes Hospital,"Circular Rd, Bound Kalan, M.C.Colony, Bhiwani, Haryana 127021",Yes (22),4,6,12,1,4,6,12,1,Yes,Yes,Yes,Yes,Yes,"5:14 PM 7th Jun,22",2022-06-07 17:14,2
+DCHC Barara,,Yes (50),50,0,0,0,50,0,0,0,To Be Updated,To Be Updated,To Be Updated,To Be Updated,To Be Updated,"10:10 PM 14th Jun,22",2022-06-14 22:10,1
+DCHC Mullana,,Yes (50),50,0,0,0,50,0,0,0,To Be Updated,To Be Updated,To Be Updated,To Be Updated,To Be Updated,"10:10 PM 14th Jun,22",2022-06-14 22:10,1
+District Civil Hospital,Ambala City,Yes (139),116,0,23,11,116,0,23,11,Yes,Yes,Yes,Yes,Yes,"10:07 PM 14th Jun,22",2022-06-14 22:07,1
+District Civil Hospital Ambala Cantt,Ambala Cantt,Yes (93),80,0,13,7,80,0,13,7,Yes,Yes,Yes,Yes,Yes,"10:07 PM 14th Jun,22",2022-06-14 22:07,1
+Guardian Hospital,AMBALA JAGADHARI ROAD AMBALA CANTT,Yes (23),15,3,5,3,15,3,5,3,Yes,Yes,Yes,Yes,Yes,"10:09 PM 14th Jun,22",2022-06-14 22:09,1
+Ishwar Hospital,,Yes (16),16,0,0,0,16,0,0,0,Yes,Yes,Yes,Yes,Yes,"10:08 PM 14th Jun,22",2022-06-14 22:08,1
+Kuldeep Hospital,,Yes (10),8,0,2,0,8,0,2,0,To Be Updated,To Be Updated,To Be Updated,To Be Updated,To Be Updated,"10:10 PM 14th Jun,22",2022-06-14 22:10,1
+Mehndiratta Hospital,"#106, manali house, near central jail,  ambala city",Yes (30),25,0,5,1,25,0,5,1,Yes,No,Yes,Yes,Yes,"10:09 PM 14th Jun,22",2022-06-14 22:09,1
+Military Hospital,Ambala Cantonment,Yes (160),60,85,15,15,60,85,15,15,To Be Updated,To Be Updated,To Be Updated,To Be Updated,To Be Updated,"10:07 PM 14th Jun,22",2022-06-14 22:07,1
+MM Medical College Pvt,MMIMSR Mullana Ambala,Yes (200),116,70,14,10,116,70,14,10,Yes,Yes,Yes,Yes,Yes,"10:06 PM 14th Jun,22",2022-06-14 22:06,1
+Park Healing Touch Hospital,"Sultanpur Chowk, Nr Dhulkot Barrier, Ambala Chandigarh Expy. Ambala",Yes (50),30,0,20,10,30,0,20,10,Yes,Yes,Yes,Yes,Yes,"10:08 PM 14th Jun,22",2022-06-14 22:08,1
+Philedelphia mission Hospital pvt,"Mission Compound, Ambala City",Yes (100),92,0,8,2,92,0,8,2,Yes,No,Yes,Yes,Yes,"10:06 PM 14th Jun,22",2022-06-14 22:06,1
+Railways Hospital,"Railway Hospital, railway colony,  Ambala Cantt",Yes (35),30,0,5,0,30,0,5,0,Yes,Yes,Yes,Yes,Yes,"9:02 AM 18th Jun,22",2022-06-18 09:02,1
+Rotary Hospital Ambala cantt Pvt,"Rambagh road, Opp Dusshera ground, Ambala Cantt",Yes (20),15,0,5,2,15,0,5,2,Yes,No,Yes,Yes,Yes,"10:06 PM 14th Jun,22",2022-06-14 22:06,1
+Sant Hospital,,Yes (13),10,0,3,1,10,0,3,1,To Be Updated,To Be Updated,To Be Updated,To Be Updated,To Be Updated,"10:09 PM 14th Jun,22",2022-06-14 22:09,1
+SDH Naraingarh,,Yes (50),50,0,0,0,50,0,0,0,To Be Updated,To Be Updated,To Be Updated,To Be Updated,To Be Updated,"10:08 PM 14th Jun,22",2022-06-14 22:08,1
+Yafe Indoor Hospital,,Yes (14),9,5,0,0,9,6,0,0,To Be Updated,To Be Updated,To Be Updated,To Be Updated,To Be Updated,"10:10 PM 14th Jun,22",2022-06-14 22:10,1
 Ch Lekh Raj Multispeciality Hospital,Vill Gadhauli Yamuna Nagar,Yes (150),140,0,10,5,140,0,10,5,Yes,Yes,Yes,Yes,Yes,"11:21 AM 15th Jun,22",2022-06-15 11:21,22
 CHC Bilaspur,CHC Bilaspur,Yes (23),8,15,0,0,8,17,0,0,Yes,No,Yes,No,Yes,"11:04 AM 15th Jun,22",2022-06-15 11:04,22
 CHC Chhachharuli,CHC Chhachharuli,Yes (30),10,20,0,0,10,20,0,0,Yes,No,Yes,Yes,Yes,"11:04 AM 15th Jun,22",2022-06-15 11:04,22
