@@ -1,25 +1,4 @@
 name,address,Availability_availability_of_beds,Availability_oxygen_beds,Availability_non_oxygen_beds,Availability_i_c_u_beds,Availability_ventilators,Allocated_oxygen_beds,Allocated_non_oxygen_beds,Allocated_i_c_u,Allocated_ventilators,Availability_availability_of_oxygen,Availability_antiviral_remdesivir_etc_,Availability_steroids,Availability_anticoagulant,Availability_antipyretic,updated_on_unparsed,updated_on,city
-DCHC Barara,,Yes (50),50,0,0,0,50,0,0,0,To Be Updated,To Be Updated,To Be Updated,To Be Updated,To Be Updated,"1:26 PM 17th Aug,22",2022-08-17 13:26,1
-DCHC Mullana,,Yes (49),49,0,0,0,50,0,0,0,To Be Updated,To Be Updated,To Be Updated,To Be Updated,To Be Updated,"1:26 PM 17th Aug,22",2022-08-17 13:26,1
-District Civil Hospital,Ambala City,Yes (120),97,0,23,11,116,0,23,11,Yes,Yes,Yes,Yes,Yes,"1:24 PM 17th Aug,22",2022-08-17 13:24,1
-District Civil Hospital Ambala Cantt,Ambala Cantt,Yes (86),73,0,13,7,80,0,13,7,Yes,Yes,Yes,Yes,Yes,"1:25 PM 17th Aug,22",2022-08-17 13:25,1
-Guardian Hospital,AMBALA JAGADHARI ROAD AMBALA CANTT,Yes (23),15,3,5,3,15,3,5,3,Yes,Yes,Yes,Yes,Yes,"1:26 PM 17th Aug,22",2022-08-17 13:26,1
-Ishwar Hospital,,Yes (16),16,0,0,0,16,0,0,0,Yes,Yes,To Be Updated,Yes,Yes,"1:26 PM 17th Aug,22",2022-08-17 13:26,1
-Kuldeep Hospital,,Yes (10),8,0,2,0,8,0,2,0,To Be Updated,To Be Updated,To Be Updated,To Be Updated,To Be Updated,"1:26 PM 17th Aug,22",2022-08-17 13:26,1
-Mehndiratta Hospital,"#106, manali house, near central jail,  ambala city",Yes (30),25,0,5,1,25,0,5,1,Yes,No,Yes,Yes,Yes,"1:26 PM 17th Aug,22",2022-08-17 13:26,1
-Military Hospital,Ambala Cantonment,Yes (159),59,85,15,15,60,85,15,15,To Be Updated,To Be Updated,To Be Updated,To Be Updated,To Be Updated,"1:24 PM 17th Aug,22",2022-08-17 13:24,1
-MM Medical College Pvt,MMIMSR Mullana Ambala,Yes (197),113,70,14,10,116,70,14,10,Yes,Yes,Yes,Yes,Yes,"1:24 PM 17th Aug,22",2022-08-17 13:24,1
-Park Healing Touch Hospital,"Sultanpur Chowk, Nr Dhulkot Barrier, Ambala Chandigarh Expy. Ambala",Yes (38),18,0,20,10,30,0,20,10,Yes,Yes,Yes,Yes,Yes,"1:25 PM 17th Aug,22",2022-08-17 13:25,1
-Philedelphia mission Hospital pvt,"Mission Compound, Ambala City",Yes (100),92,0,8,2,92,0,8,2,Yes,No,Yes,Yes,Yes,"1:24 PM 17th Aug,22",2022-08-17 13:24,1
-Railways Hospital,"Railway Hospital, railway colony,  Ambala Cantt",Yes (35),30,0,5,0,30,0,5,0,Yes,Yes,Yes,Yes,Yes,"1:25 PM 17th Aug,22",2022-08-17 13:25,1
-Rotary Hospital Ambala cantt Pvt,"Rambagh road, Opp Dusshera ground, Ambala Cantt",Yes (20),15,0,5,2,15,0,5,2,Yes,No,Yes,Yes,Yes,"1:24 PM 17th Aug,22",2022-08-17 13:24,1
-Sant Hospital,,Yes (13),10,0,3,1,10,0,3,1,To Be Updated,To Be Updated,To Be Updated,To Be Updated,Yes,"1:26 PM 17th Aug,22",2022-08-17 13:26,1
-SDH Naraingarh,,Yes (48),48,0,0,0,50,0,0,0,To Be Updated,To Be Updated,To Be Updated,To Be Updated,To Be Updated,"1:25 PM 17th Aug,22",2022-08-17 13:25,1
-Yafe Indoor Hospital,,Yes (14),9,5,0,0,9,6,0,0,To Be Updated,To Be Updated,To Be Updated,To Be Updated,To Be Updated,"1:26 PM 17th Aug,22",2022-08-17 13:26,1
-Cygnus Multispecialty Hospital Kaithal,"Huda Bypass Road, Sector 20, Kaithal, Haryana",Yes (40),28,0,12,2,28,0,12,2,Yes,No,Yes,Yes,Yes,"3:48 PM 14th Aug,22",2022-08-14 15:48,10
-District Civil Hospital Kaithal,"Huda Sec 18, Kaithal",Yes (115),80,15,20,20,80,15,20,20,Yes,Yes,No,Yes,Yes,"8:52 AM 3rd Sep,22",2022-09-03 08:52,10
-SDH Guhla,SDH Guhla,Yes (70),35,35,0,5,35,35,0,5,Yes,No,Yes,No,Yes,"9:44 AM 24th Aug,22",2022-08-24 09:44,10
-Shah Multispecialty Hospital Kaithal,"opp.old, bus stand, Jind - Kaithal Rd, Amar Garh Colony, Kaithal, Haryana",Yes (75),50,11,14,10,51,11,15,10,Yes,No,Yes,Yes,Yes,"6:03 PM 3rd Sep,22",2022-09-03 18:03,10
 Ch Lekh Raj Multispeciality Hospital,Vill Gadhauli Yamuna Nagar,Yes (150),140,0,10,5,140,0,10,5,Yes,Yes,Yes,Yes,Yes,"2:46 PM 2nd Aug,22",2022-08-02 14:46,22
 CHC Bilaspur,CHC Bilaspur,Yes (23),8,15,0,0,8,17,0,0,Yes,No,Yes,No,Yes,"2:42 PM 2nd Aug,22",2022-08-02 14:42,22
 CHC Chhachharuli,CHC Chhachharuli,Yes (30),10,20,0,0,10,20,0,0,Yes,No,Yes,Yes,Yes,"2:42 PM 2nd Aug,22",2022-08-02 14:42,22
