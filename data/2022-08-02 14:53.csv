@@ -1,4 +1,22 @@
 name,address,Availability_availability_of_beds,Availability_oxygen_beds,Availability_non_oxygen_beds,Availability_i_c_u_beds,Availability_ventilators,Allocated_oxygen_beds,Allocated_non_oxygen_beds,Allocated_i_c_u,Allocated_ventilators,Availability_availability_of_oxygen,Availability_antiviral_remdesivir_etc_,Availability_steroids,Availability_anticoagulant,Availability_antipyretic,updated_on_unparsed,updated_on,city
+"Ayurvedic Medical College, Patikra",HUDA Sec. 1 Narnaul,Yes (192),35,157,0,0,40,160,0,0,Yes,Yes,Yes,Yes,Yes,"5:13 PM 7th Jun,22",2022-06-07 17:13,13
+CHC ATELI,CHC ATELI,Yes (20),15,5,0,0,15,5,0,0,Yes,Yes,Yes,Yes,Yes,"2:04 PM 15th Jun,22",2022-06-15 14:04,13
+CHC Kanina,Kanina,Yes (27),15,12,0,0,15,12,0,0,To Be Updated,To Be Updated,To Be Updated,To Be Updated,To Be Updated,"3:34 PM 15th Jun,22",2022-06-15 15:34,13
+CHC Nangal Chaudhary,chc nangal choudhary,Yes (5),Beds Over Utilized 5,5,0,0,5,5,0,0,No,No,Yes,No,Yes,"2:09 PM 15th Jun,22",2022-06-15 14:09,13
+CHC Sehlang,CHC SEHLANG,Yes (9),5,4,0,0,5,4,0,0,Yes,Yes,Yes,Yes,Yes,"9:52 AM 21st Jun,22",2022-06-21 09:52,13
+Civil Hospital Narnaul,"Housing Board, Narnaul",Yes (80),80,0,0,10,80,0,0,10,Yes,Yes,Yes,Yes,Yes,"10:56 AM 20th Jun,22",2022-06-20 10:56,13
+Jaipur Heart &amp; Multi Speciality Hospital,"Opp. Sadar Thana, Narnaul",Yes (13),6,3,4,2,6,3,4,2,Yes,Yes,Yes,Yes,Yes,"5:14 PM 7th Jun,22",2022-06-07 17:14,13
+LAXMI NARAYANAN,"Laxmi Narayanan Hospital , Narnaul Road Mahendergarh",Yes (10),6,0,4,1,6,0,4,1,Yes,Yes,Yes,Yes,Yes,"5:15 PM 7th Jun,22",2022-06-07 17:15,13
+Nihal Hospital Kanina,Kanina Main Bus Stand,Yes (13),12,0,1,1,13,0,1,1,Yes,Yes,Yes,Yes,Yes,"5:15 PM 7th Jun,22",2022-06-07 17:15,13
+Rainbow Multispecialty hospital and trauma Centre,"Singhana road, Narnaul",Yes (13),4,3,6,2,4,3,6,2,Yes,No,Yes,Yes,Yes,"5:14 PM 7th Jun,22",2022-06-07 17:14,13
+Sammat Memorial Hospital,"Sastri colony, near bus stand, mahendergarh",Yes (13),10,0,3,2,10,0,3,2,Yes,No,Yes,Yes,Yes,"5:15 PM 7th Jun,22",2022-06-07 17:15,13
+Sanwedna Hospital Narnaul,"HUDA Sector 1, Narnaul",Yes (26),17,0,9,1,25,0,9,1,Yes,Yes,Yes,Yes,Yes,"5:13 PM 7th Jun,22",2022-06-07 17:13,13
+SDH Mahendergarh,SDH Mahendergarh,Yes (20),20,0,0,5,20,0,0,5,Yes,Yes,Yes,Yes,Yes,"2:31 PM 15th Jun,22",2022-06-15 14:31,13
+Shanti Hospital Narnaul,Shanti Hospital Narnaul,Yes (22),9,7,6,2,9,7,7,2,Yes,Yes,Yes,Yes,Yes,"5:13 PM 7th Jun,22",2022-06-07 17:13,13
+Sheela Multi Superspeciality Hospital,Behind Bus Stand Mahindergarh,Yes (9),6,0,3,1,6,0,3,1,Yes,No,Yes,Yes,Yes,"5:15 PM 7th Jun,22",2022-06-07 17:15,13
+Shri Arvind Heart and Multispecialty Hospital,"Rao Tula Ram Chowk, Dadri Road Mahendergarh",Yes (17),9,5,3,3,9,5,3,3,Yes,Yes,Yes,Yes,Yes,"5:14 PM 7th Jun,22",2022-06-07 17:14,13
+Tanwar Health Care MGarh,,Yes (9),5,0,4,1,5,0,4,1,Yes,No,Yes,Yes,Yes,"5:15 PM 7th Jun,22",2022-06-07 17:15,13
+Vijay Hospital Narnaul,"HUDA Sector 1, Narnaul",Yes (22),8,0,14,2,8,0,15,2,Yes,Yes,Yes,Yes,Yes,"5:13 PM 7th Jun,22",2022-06-07 17:13,13
 Alchemist Hospital panchkula,Sector 21 Panchkula,Yes (16),12,0,4,3,15,0,4,3,Yes,Yes,Yes,Yes,Yes,"5:13 PM 7th Jun,22",2022-06-07 17:13,16
 Alchemist Ojas Hospital,"H1  SEctor 26, Panchkula Ext, Panchkula",Yes (66),54,0,12,3,54,0,13,4,Yes,Yes,Yes,Yes,Yes,"5:13 PM 7th Jun,22",2022-06-07 17:13,16
 Civil Hospital Panchkula,sector 6 Panchkula,Yes (63),45,8,10,10,45,8,10,10,Yes,Yes,Yes,Yes,Yes,"11:43 AM 4th Aug,22",2022-08-04 11:43,16
@@ -6,6 +24,19 @@ JN Shory Hospital,Pinjore,Yes (24),18,6,0,0,18,6,0,0,Yes,No,Yes,Yes,Yes,"5:15 PM
 Kare Partners Hospital,"Sector 2, Panchkula",Yes (13),13,0,0,0,13,0,0,0,Yes,No,Yes,Yes,Yes,"5:15 PM 7th Jun,22",2022-06-07 17:15,16
 Paras Hospital Pvt,"Plot no 2, sec 22, panchkula",Yes (19),2,0,17,6,2,0,17,6,Yes,Yes,Yes,Yes,Yes,"5:12 PM 7th Jun,22",2022-06-07 17:12,16
 Wings Hospital,Sector 25 Panchkula,Yes (31),15,11,5,0,15,11,5,0,Yes,No,Yes,Yes,Yes,"5:15 PM 7th Jun,22",2022-06-07 17:15,16
+"AAROGYAM HOSPITAL, Kurukshetra","NEAR OLD BUS STAND, THANESAR, KURUSKHETRA",Yes (47),12,0,35,15,12,0,35,15,Yes,Yes,Yes,Yes,Yes,"1:37 PM 20th Sep,22",2022-09-20 13:37,12
+"ADESH MEDICAL COLLEGE, SHAHBAD MOHRI KURUKSHETRA.","VILL. MOHRI, SHAHBAD, KURUSHETRA",Yes (100),30,70,0,10,30,70,0,10,Yes,Yes,Yes,Yes,Yes,"1:40 PM 20th Sep,22",2022-09-20 13:40,12
+AGGARWAL NURSING HOME,"SALARPUR ROAD, THANESAR, KURUKSHETRA.",Yes (21),11,7,3,4,11,7,3,4,Yes,Yes,Yes,Yes,Yes,"1:37 PM 20th Sep,22",2022-09-20 13:37,12
+B.S. HEART CARE,"OPP. NEW BUS STAND, KURUKSHETRA.",Yes (45),45,0,0,10,45,0,0,10,Yes,Yes,Yes,Yes,Yes,"1:36 PM 20th Sep,22",2022-09-20 13:36,12
+"CYGNUS HOSPITAL, Kurukshetra","NEAR OLD BUS STAND, THANESAR, KURUSKHETRA",Yes (10),8,0,2,4,8,0,2,4,Yes,Yes,Yes,Yes,Yes,"1:37 PM 20th Sep,22",2022-09-20 13:37,12
+KURUKSHETRA NURSING HOME,,Yes (18),14,0,4,2,14,0,4,2,Yes,Yes,Yes,Yes,Yes,"1:40 PM 20th Sep,22",2022-09-20 13:40,12
+LNJP CIVIL HOSPITAL.,LNJP HOSPITAL KURUKSHETRA.,Yes (42),37,5,0,15,37,5,0,15,Yes,Yes,Yes,Yes,Yes,"1:37 PM 20th Sep,22",2022-09-20 13:37,12
+MIRI PIRI SHAHBAD,"SHAHBAD, KURUKSHETRA",Yes (14),10,0,4,4,10,0,4,4,Yes,Yes,Yes,Yes,Yes,"1:39 PM 20th Sep,22",2022-09-20 13:39,12
+Nirogi Hospital,Shahabad Kurukshetra,Yes (22),10,10,2,2,10,10,2,2,Yes,Yes,Yes,Yes,Yes,"1:40 PM 20th Sep,22",2022-09-20 13:40,12
+"Saraswati Mission Hospital, Kurukshetra","Theme Park Road, Kurukshetra",Yes (46),35,0,11,6,35,0,11,6,Yes,Yes,Yes,Yes,Yes,"2:01 PM 20th Sep,22",2022-09-20 14:01,12
+"Saraswati Mission Hospital, Pehowa","Ambala Road Dist. Kurukshetra, Pehowa, Haryana 136128",Yes (46),35,0,11,6,35,0,11,6,Yes,No,Yes,Yes,Yes,"1:37 PM 20th Sep,22",2022-09-20 13:37,12
+"SIDHARTH HOSPITAL, SHAHBAD","SHAHBAD, KURUKSHETRA",Yes (12),8,0,4,2,8,0,4,2,Yes,Yes,Yes,Yes,Yes,"1:39 PM 20th Sep,22",2022-09-20 13:39,12
+VERMA HOSPITAL,LADWA,Yes (15),9,3,3,1,9,3,3,1,Yes,Yes,Yes,Yes,Yes,"1:39 PM 20th Sep,22",2022-09-20 13:39,12
 Ch Lekh Raj Multispeciality Hospital,Vill Gadhauli Yamuna Nagar,Yes (150),140,0,10,5,140,0,10,5,Yes,Yes,Yes,Yes,Yes,"2:46 PM 2nd Aug,22",2022-08-02 14:46,22
 CHC Bilaspur,CHC Bilaspur,Yes (23),8,15,0,0,8,17,0,0,Yes,No,Yes,No,Yes,"2:42 PM 2nd Aug,22",2022-08-02 14:42,22
 CHC Chhachharuli,CHC Chhachharuli,Yes (30),10,20,0,0,10,20,0,0,Yes,No,Yes,Yes,Yes,"2:42 PM 2nd Aug,22",2022-08-02 14:42,22
