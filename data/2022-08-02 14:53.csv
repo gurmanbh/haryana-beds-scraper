@@ -1,95 +1,45 @@
 name,address,Availability_availability_of_beds,Availability_oxygen_beds,Availability_non_oxygen_beds,Availability_i_c_u_beds,Availability_ventilators,Allocated_oxygen_beds,Allocated_non_oxygen_beds,Allocated_i_c_u,Allocated_ventilators,Availability_availability_of_oxygen,Availability_antiviral_remdesivir_etc_,Availability_steroids,Availability_anticoagulant,Availability_antipyretic,updated_on_unparsed,updated_on,city
+ANUJ HOSPITAL SAFIDON,safidon panipat road,Yes (30),2,18,10,0,2,18,10,0,Yes,No,Yes,Yes,Yes,"10:05 AM 8th Dec,22",2022-12-08 10:05,9
+Balaji Hospital Jind,Rohtak Road Jind,Yes (48),32,16,0,0,32,16,0,0,Yes,No,Yes,Yes,Yes,"10:04 AM 8th Dec,22",2022-12-08 10:04,9
+CHC Alewa,"Alewa 2 Sub Health Centre, Alewa Chc Alewa, Alewa, Jind",Yes (15),15,0,0,0,15,0,0,0,Yes,No,Yes,No,Yes,"10:04 AM 8th Dec,22",2022-12-08 10:04,9
+CHC Julana,Julana,Yes (26),20,6,0,0,20,6,0,0,Yes,No,Yes,Yes,Yes,"10:28 AM 9th Dec,22",2022-12-09 10:28,9
+District Civil Hospital Jind (NEW+OLD),Hosptial,Yes (170),150,0,20,12,150,0,20,12,Yes,Yes,Yes,Yes,Yes,"10:28 AM 9th Dec,22",2022-12-09 10:28,9
+Gangaputra Ayurvedic Medical College Jind,Kandela,Yes (100),60,15,25,3,60,15,25,3,Yes,No,Yes,Yes,Yes,"10:04 AM 8th Dec,22",2022-12-08 10:04,9
+JIND HEART HOSPITAL,GOHANA BYPASS ROHTAK ROAD JIND,Yes (17),12,0,5,1,12,0,5,1,Yes,No,No,No,No,"10:04 AM 8th Dec,22",2022-12-08 10:04,9
+Malik Hospital,Rohtak Road Jind,Yes (8),4,0,4,3,4,0,4,3,Yes,No,Yes,Yes,Yes,"10:04 AM 8th Dec,22",2022-12-08 10:04,9
+Meenakashi Jain Hospital,Near Bus Stand,Yes (22),15,2,5,1,15,2,5,1,Yes,No,Yes,Yes,Yes,"10:04 AM 8th Dec,22",2022-12-08 10:04,9
+RAJ HOSPITAL ROHTAK RAOD JIND,ROHTAK ROAD JIND,Yes (15),8,5,2,2,8,5,2,2,Yes,No,Yes,Yes,Yes,"10:05 AM 8th Dec,22",2022-12-08 10:05,9
+Sarvodhya Hospital Jind,Jind,Yes (20),20,0,0,2,20,0,0,2,Yes,No,Yes,No,No,"10:04 AM 8th Dec,22",2022-12-08 10:04,9
+SDH Narwana,Narwana,Yes (32),20,12,0,0,20,12,0,0,Yes,No,Yes,Yes,Yes,"10:04 AM 8th Dec,22",2022-12-08 10:04,9
+SDH Safidon,Safidon,Yes (34),20,14,0,0,20,14,0,0,Yes,No,Yes,No,Yes,"10:28 AM 9th Dec,22",2022-12-09 10:28,9
+SDH UCHANA,Uchana,Yes (55),20,35,0,0,20,35,0,0,Yes,No,No,No,Yes,"10:28 AM 9th Dec,22",2022-12-09 10:28,9
+Shri Gyani Ram Mamorial Hospital,Safidon,Yes (25),10,5,10,0,10,5,10,0,Yes,No,Yes,Yes,Yes,"10:28 AM 9th Dec,22",2022-12-09 10:28,9
 Cygnus Multispecialty Hospital Kaithal,"Huda Bypass Road, Sector 20, Kaithal, Haryana",Yes (40),28,0,12,2,28,0,12,2,Yes,No,Yes,Yes,Yes,"10:55 AM 5th Jan,23",2023-01-05 10:55,10
 District Civil Hospital Kaithal,"Huda Sec 18, Kaithal",Yes (115),80,15,20,20,80,15,20,20,Yes,Yes,No,Yes,Yes,"9:39 AM 25th Feb,23",2023-02-25 09:39,10
 SDH Guhla,SDH Guhla,Yes (70),35,35,0,5,35,35,0,5,Yes,No,Yes,No,Yes,"4:29 PM 30th Dec,22",2022-12-30 16:29,10
 Shah Multispecialty Hospital Kaithal,"opp.old, bus stand, Jind - Kaithal Rd, Amar Garh Colony, Kaithal, Haryana",Yes (75),50,11,14,10,51,11,15,10,Yes,No,Yes,Yes,Yes,"12:19 PM 24th Feb,23",2023-02-24 12:19,10
-"AAROGYAM HOSPITAL, Kurukshetra","NEAR OLD BUS STAND, THANESAR, KURUSKHETRA",Yes (47),12,0,35,15,12,0,35,15,Yes,Yes,Yes,Yes,Yes,"1:37 PM 20th Sep,22",2022-09-20 13:37,12
-"ADESH MEDICAL COLLEGE, SHAHBAD MOHRI KURUKSHETRA.","VILL. MOHRI, SHAHBAD, KURUSHETRA",Yes (100),30,70,0,10,30,70,0,10,Yes,Yes,Yes,Yes,Yes,"1:40 PM 20th Sep,22",2022-09-20 13:40,12
-AGGARWAL NURSING HOME,"SALARPUR ROAD, THANESAR, KURUKSHETRA.",Yes (21),11,7,3,4,11,7,3,4,Yes,Yes,Yes,Yes,Yes,"1:37 PM 20th Sep,22",2022-09-20 13:37,12
-B.S. HEART CARE,"OPP. NEW BUS STAND, KURUKSHETRA.",Yes (45),45,0,0,10,45,0,0,10,Yes,Yes,Yes,Yes,Yes,"1:36 PM 20th Sep,22",2022-09-20 13:36,12
-"CYGNUS HOSPITAL, Kurukshetra","NEAR OLD BUS STAND, THANESAR, KURUSKHETRA",Yes (10),8,0,2,4,8,0,2,4,Yes,Yes,Yes,Yes,Yes,"1:37 PM 20th Sep,22",2022-09-20 13:37,12
-KURUKSHETRA NURSING HOME,,Yes (18),14,0,4,2,14,0,4,2,Yes,Yes,Yes,Yes,Yes,"1:40 PM 20th Sep,22",2022-09-20 13:40,12
-LNJP CIVIL HOSPITAL.,LNJP HOSPITAL KURUKSHETRA.,Yes (42),37,5,0,15,37,5,0,15,Yes,Yes,Yes,Yes,Yes,"1:37 PM 20th Sep,22",2022-09-20 13:37,12
-MIRI PIRI SHAHBAD,"SHAHBAD, KURUKSHETRA",Yes (14),10,0,4,4,10,0,4,4,Yes,Yes,Yes,Yes,Yes,"1:39 PM 20th Sep,22",2022-09-20 13:39,12
-Nirogi Hospital,Shahabad Kurukshetra,Yes (22),10,10,2,2,10,10,2,2,Yes,Yes,Yes,Yes,Yes,"1:40 PM 20th Sep,22",2022-09-20 13:40,12
-"Saraswati Mission Hospital, Kurukshetra","Theme Park Road, Kurukshetra",Yes (46),35,0,11,6,35,0,11,6,Yes,Yes,Yes,Yes,Yes,"2:01 PM 20th Sep,22",2022-09-20 14:01,12
-"Saraswati Mission Hospital, Pehowa","Ambala Road Dist. Kurukshetra, Pehowa, Haryana 136128",Yes (46),35,0,11,6,35,0,11,6,Yes,No,Yes,Yes,Yes,"1:37 PM 20th Sep,22",2022-09-20 13:37,12
-"SIDHARTH HOSPITAL, SHAHBAD","SHAHBAD, KURUKSHETRA",Yes (12),8,0,4,2,8,0,4,2,Yes,Yes,Yes,Yes,Yes,"1:39 PM 20th Sep,22",2022-09-20 13:39,12
-VERMA HOSPITAL,LADWA,Yes (15),9,3,3,1,9,3,3,1,Yes,Yes,Yes,Yes,Yes,"1:39 PM 20th Sep,22",2022-09-20 13:39,12
-"AADHAR Hospital, Hisar",Tosham Road Hisar,Yes (43),25,6,12,6,26,6,12,6,Yes,No,No,Yes,Yes,"12:20 PM 17th Jun,22",2022-06-17 12:20,7
-Amandeep Hospital,ITI CHOWK TOSHAM ROAD HISAR,Yes (5),3,0,2,5,3,0,2,5,To Be Updated,No,No,Yes,Yes,"9:38 AM 23rd Aug,22",2022-08-23 09:38,7
-Bharat Multispeciality Hospital,Hisar,Yes (26),16,0,10,2,16,0,10,2,Yes,No,Yes,Yes,Yes,"5:13 PM 7th Jun,22",2022-06-07 17:13,7
-Central Medical Centre (CMC),CMC Hospital Delhi Road Hisar,Yes (62),46,7,9,3,46,7,9,3,Yes,Yes,Yes,Yes,No,"11:46 AM 22nd Aug,22",2022-08-22 11:46,7
-Churamani Hospital,CAMP CHOWK HISAR,Yes (37),5,2,30,5,5,2,30,5,No,No,No,No,No,"1:50 PM 3rd Mar,22",2022-03-03 13:50,7
-District Civil Hospital Hisar,Sirsa Road Hisar,Yes (79),79,0,0,20,80,0,0,20,Yes,Yes,Yes,Yes,Yes,"5:13 PM 7th Jun,22",2022-06-07 17:13,7
-DR. ANANTRAM JANTA HOSPITAL PVT LTD BARWALA,Civil Hospital Road Barwala,Yes (17),17,0,0,3,17,0,0,3,Yes,No,Yes,Yes,Yes,"1:50 PM 3rd Mar,22",2022-03-03 13:50,7
-Geetanjali Hospital,Model Town Hisar,Yes (48),40,0,8,4,40,0,8,4,Yes,Yes,Yes,Yes,Yes,"12:13 PM 15th Aug,22",2022-08-15 12:13,7
-Goswami Hospital,"NEAR BUS STAND, RISHI NAGAR",Yes (9),4,5,0,1,4,5,0,1,Yes,To Be Updated,To Be Updated,To Be Updated,To Be Updated,"12:42 PM 2nd Aug,22",2022-08-02 12:42,7
-Gupta Hospital Hisar,Sector 14 Hisar,Yes (35),30,0,5,0,30,0,5,0,Yes,Yes,Yes,No,Yes,"9:17 AM 8th Aug,22",2022-08-08 09:17,7
-GUPTA MEDICAL CENTRE,"OPP. MADHUBAN PARK ,PREMNAGAR HISAR",Yes (3),1,0,2,1,1,0,2,1,Yes,To Be Updated,To Be Updated,To Be Updated,To Be Updated,"11:20 AM 15th Jun,22",2022-06-15 11:20,7
-"GURU JAMBHESHWAR MULTISPECIALITY HOSPITAL, AGROHA","ADAMPUR ROAD, AGROHA",Yes (14),9,3,2,1,9,3,2,1,Yes,No,Yes,Yes,Yes,"1:35 PM 12th Aug,22",2022-08-12 13:35,7
-Holy Help Hospital,Tosham Road Hisar,Yes (39),25,6,8,1,25,6,8,1,Yes,No,Yes,Yes,Yes,"5:13 PM 7th Jun,22",2022-06-07 17:13,7
-Janki Children Hospital Hisar,Near Sewak Sabha Hopsital Hisar,Yes (2),0,Beds Over Utilized 1,2,2,0,1,2,2,Yes,No,Yes,Yes,Yes,"10:39 AM 15th Jun,22",2022-06-15 10:39,7
-Mahatma Gandhi Hospital,,Yes (42),19,13,10,8,19,13,10,8,To Be Updated,Yes,Yes,Yes,Yes,"2:20 PM 10th Oct,22",2022-10-10 14:20,7
-MALIK HOSPITAL,"145A UTTAM NAGAR, HANSI",Yes (7),7,0,0,3,7,0,0,3,Yes,No,Yes,No,No,"5:15 PM 7th Jun,22",2022-06-07 17:15,7
-MAMC Agroha,"Maharaj Aggarsin Medical College, VPO Agroha",Yes (140),85,15,40,60,85,15,40,60,To Be Updated,To Be Updated,To Be Updated,To Be Updated,To Be Updated,"1:12 PM 2nd Aug,22",2022-08-02 13:12,7
-Military Hospital Hisar,Cantt Hisar,Yes (70),18,52,0,5,18,52,0,5,Yes,To Be Updated,Yes,Yes,No,"2:06 PM 19th Oct,22",2022-10-19 14:06,7
-NEKIRAM HOSPITAL,OPP BUS STAND HANSI,Yes (5),2,0,3,3,2,0,3,3,Yes,To Be Updated,To Be Updated,To Be Updated,To Be Updated,"3:44 PM 26th Dec,22",2022-12-26 15:44,7
-OPJindal Institute of Cancer &amp; Research Hospital,Model Town Hisar,Yes (144),100,4,40,44,100,4,41,45,Yes,Yes,Yes,Yes,Yes,"5:13 PM 7th Jun,22",2022-06-07 17:13,7
-PARDEEP KANSAL MULTISPECIALITY HOSPITAL FOR CHILDREN,"25- Inderprastha Colony, Hisar",Yes (13),0,6,7,3,0,6,7,3,Yes,No,Yes,Yes,Yes,"1:50 PM 3rd Mar,22",2022-03-03 13:50,7
-Parnami Hospital,Hisar,Yes (28),21,5,2,2,21,5,2,2,Yes,Yes,Yes,Yes,Yes,"5:13 PM 7th Jun,22",2022-06-07 17:13,7
-Ravindra Hospital Hisar,Model Town HISAR,Yes (21),19,0,2,1,19,0,2,1,Yes,No,Yes,Yes,Yes,"1:50 PM 3rd Mar,22",2022-03-03 13:50,7
-SAANVI HOSPITAL,"CHC ROAD, BARWALA",Yes (9),5,0,4,1,5,0,4,1,Yes,No,Yes,To Be Updated,To Be Updated,"5:15 PM 7th Jun,22",2022-06-07 17:15,7
-Sapra Hospital,Rajgarh Road Hisar,Yes (28),19,3,6,12,19,3,6,12,Yes,Yes,Yes,No,Yes,"5:13 PM 31st Dec,22",2022-12-31 17:13,7
-"Sarvodya Hospital, Hisar",Delhi Road Hisar,Yes (22),13,6,3,3,13,6,3,3,Yes,Yes,Yes,Yes,Yes,"4:03 PM 2nd Jan,23",2023-01-02 16:03,7
-Sewak Sabha Hospital,Near Bus Stand Hisar,Yes (27),16,3,8,1,16,3,8,1,Yes,Yes,Yes,Yes,Yes,"10:45 AM 12th Sep,22",2022-09-12 10:45,7
-Shanti Devi Hospital,Delhi Road Hisar,Yes (38),26,0,12,2,26,0,12,2,Yes,Yes,Yes,Yes,Yes,"12:01 PM 2nd Aug,22",2022-08-02 12:01,7
-Shri Kali Devi Hospital Hansi,Delhi Road Hansi,Yes (13),8,0,5,0,8,0,5,0,To Be Updated,No,To Be Updated,Yes,Yes,"5:13 PM 7th Jun,22",2022-06-07 17:13,7
-SINGLA MULTISPECIALITY HOSPITAL,"RISHI NAGAR, GALI NO. 1, NEAR BUS STAND, HISAR",Yes (19),17,0,2,1,17,0,2,1,Yes,No,Yes,Yes,Yes,"1:50 PM 3rd Mar,22",2022-03-03 13:50,7
-SL Minda Hospital,VPO Bagla,Yes (8),6,0,2,2,6,0,2,2,Yes,No,Yes,Yes,Yes,"5:13 PM 7th Jun,22",2022-06-07 17:13,7
-SONAKSHI CHILDREN HOSPITAL,"PLOT NO.2 ,DAYANAND COLONY,JINDAL HOSPITAL ROAD ,NEAR ITI ,HISAR",Yes (3),1,0,2,1,1,0,2,1,Yes,To Be Updated,To Be Updated,To Be Updated,To Be Updated,"11:52 AM 15th Jun,22",2022-06-15 11:52,7
-Sukhda Multispeciality Hospital,Dabra Chowk Hisar,Yes (53),31,16,6,6,31,16,6,6,Yes,Yes,Yes,Yes,Yes,"10:56 AM 21st Aug,22",2022-08-21 10:56,7
-Vardaan Hospital Hisar,Hisar,Yes (21),9,1,11,2,9,1,11,2,Yes,No,Yes,Yes,Yes,"12:02 PM 2nd Aug,22",2022-08-02 12:02,7
-"AMRITDHARA, Chaura Bazar","Near ITI Chowk, Gahoon Vihar, Karnal, Haryana",Yes (64),38,0,26,0,38,0,26,2,Yes,No,Yes,Yes,Yes,"10:29 AM 2nd Aug,22",2022-08-02 10:29,11
-Arpana Hospital,"G.T. Road, Madhuban, Karnal, Karnal, Haryana",No (0),0,0,0,1,0,0,0,1,Yes,No,Yes,Yes,Yes,"4:54 PM 2nd Aug,22",2022-08-02 16:54,11
-Arsh Hospital,Opp. Kalpana Chawla Medical College,No (0),0,0,0,0,0,0,0,0,Yes,Yes,Yes,Yes,Yes,"4:56 PM 2nd Aug,22",2022-08-02 16:56,11
-CHC Assandh,"Assandh, Assandh Ruralpart, Haryana",Yes (10),10,0,0,0,10,0,0,0,Yes,No,Yes,No,Yes,"10:11 AM 2nd Aug,22",2022-08-02 10:11,11
-CHC Gharaunda,"Balinagar, Gharaunda, Haryana",Yes (10),10,0,0,0,10,0,0,0,Yes,No,Yes,No,Yes,"10:11 AM 2nd Aug,22",2022-08-02 10:11,11
-CHC Kunjpura,Village Kunjpura,Yes (11),11,0,0,0,11,0,0,0,To Be Updated,Yes,Yes,Yes,Yes,"10:24 AM 2nd Aug,22",2022-08-02 10:24,11
-CHC Nissing,"SH 8, Gondar, Nissing, Haryana",Yes (10),10,0,0,0,10,0,0,0,Yes,No,Yes,No,Yes,"10:11 AM 2nd Aug,22",2022-08-02 10:11,11
-CHC Taraori,CHC Taraori,Yes (6),6,0,0,0,6,0,0,0,Yes,No,Yes,No,Yes,"10:22 AM 2nd Aug,22",2022-08-02 10:22,11
-Ishwar Kirpa Hospital,"Ishwar Kirpa Hospital, Sector -14",No (0),0,0,0,0,0,0,0,0,Yes,Yes,Yes,Yes,Yes,"5:01 PM 2nd Aug,22",2022-08-02 17:01,11
-"Kalpana Chawla Government Medical College, Karnal","Model Town, Karnal, Haryana",Yes (276),198,0,78,0,200,0,80,80,Yes,Yes,Yes,Yes,Yes,"10:29 AM 2nd Aug,22",2022-08-02 10:29,11
-Karnal Nursing Home,"26 Duggal Colony, Karnal",No (0),0,0,0,0,0,0,0,0,Yes,To Be Updated,Yes,Yes,Yes,"5:01 PM 2nd Aug,22",2022-08-02 17:01,11
-Park Hospital karnal,"CHD City, NH-1, Sector 45, Karnal, Haryana",Yes (30),10,0,20,2,10,0,20,2,To Be Updated,Yes,Yes,Yes,Yes,"10:09 AM 2nd Aug,22",2022-08-02 10:09,11
-Rama Superspeciality Hospital,Civil Hosp Chowk Karnal,No (0),0,0,0,0,0,0,0,0,Yes,No,Yes,Yes,Yes,"5:00 PM 2nd Aug,22",2022-08-02 17:00,11
-"Sanjiv Bansal Cygnus Hospital , Karnal","Railway Rd, Ibrahim Mandi, Karnal, Haryana",Yes (19),17,0,2,2,20,0,5,2,Yes,Yes,Yes,Yes,Yes,"10:12 AM 2nd Aug,22",2022-08-02 10:12,11
-Sarvodya Hospital Karnal,"Sector 14, Near Tau Devi Lal Chowk",No (0),0,0,0,0,0,0,0,0,To Be Updated,To Be Updated,To Be Updated,To Be Updated,To Be Updated,"8:33 AM 9th Aug,22",2022-08-09 08:33,11
-SDH Nilokheri,SDH Nilokheri,Yes (10),10,0,0,0,10,0,0,0,Yes,No,Yes,No,Yes,"10:15 AM 2nd Aug,22",2022-08-02 10:15,11
-Shri Ram Chand Memorial Hospital,"12, Ashoka colony,Opp Kalpana Chawla hospital, Karnal, Haryana",Yes (15),8,0,7,0,8,0,7,3,Yes,No,Yes,Yes,Yes,"10:28 AM 2nd Aug,22",2022-08-02 10:28,11
-Shri Sanatan Dharam Mahabir Dal,"Kunjpura Road, Karnal Near Sanatan Dharam Mandir",Yes (12),12,0,0,0,12,0,0,0,Yes,Yes,Yes,Yes,Yes,"10:15 AM 2nd Aug,22",2022-08-02 10:15,11
-SS Hospital,"Sector 14, Karnal",No (0),0,0,0,0,0,0,0,0,Yes,To Be Updated,Yes,Yes,Yes,"5:00 PM 2nd Aug,22",2022-08-02 17:00,11
-Swastik Hospital,Swastic Hospital Opp DCH,No (0),0,0,0,0,0,0,0,0,Yes,No,Yes,Yes,Yes,"5:02 PM 2nd Aug,22",2022-08-02 17:02,11
-Virk Hospital Karnal,"363-364, Randhir lane, near Dyal Singh College, Karnal, Haryana",Yes (45),37,0,8,1,37,0,8,1,Yes,Yes,Yes,Yes,Yes,"10:12 AM 2nd Aug,22",2022-08-02 10:12,11
-Adiyogi Arogya Avenue,"232, Subhash Nagar, Near civil hospital back gate, Jhajjar",Yes (15),7,2,6,1,7,2,6,1,To Be Updated,To Be Updated,Yes,Yes,Yes,"5:15 PM 7th Jun,22",2022-06-07 17:15,8
-"Advanta Hospital, Jhajjar city","Silani Gate, Jhajjar, Haryana",Yes (50),24,10,16,1,24,10,16,1,Yes,To Be Updated,Yes,To Be Updated,Yes,"1:50 PM 3rd Mar,22",2022-03-03 13:50,8
-"Brahm Shakti Sanjivani Hospital, B.garh","Opp. BSNL Exchange, Delhi - Rohtak Road, NH9, Bahadurgarh, Haryana",Yes (100),60,20,20,3,60,20,20,3,Yes,No,Yes,Yes,Yes,"5:12 PM 7th Jun,22",2022-06-07 17:12,8
-Civil Hospital Jhajjar,"Jhajjar, NH-71, Jhajjar Rohtak Road, Jhajjar, Jhajjar, Haryana",Yes (38),33,0,5,5,33,0,5,5,Yes,To Be Updated,To Be Updated,To Be Updated,To Be Updated,"5:14 PM 7th Jun,22",2022-06-07 17:14,8
-"Delhi Hospital, Bahadurgarh","Rohtak Rd, near Shyamji Complex, Ram Nagar, Bahadurgarh, Haryana",Yes (50),20,20,10,2,20,20,10,2,Yes,No,Yes,Yes,Yes,"5:12 PM 7th Jun,22",2022-06-07 17:12,8
-Dr. Sanjay Multi Speciality Hospital,INFRONT OF CIVIL HOSPITAL BAHADURGARH,Yes (61),45,10,6,1,45,10,6,1,Yes,No,No,To Be Updated,To Be Updated,"1:50 PM 3rd Mar,22",2022-03-03 13:50,8
-"Jeewan Jyoti Hospital, Bahadurgarh","Rohtak Rd, MIE Part-B, Bahadurgarh, Haryana",Yes (143),70,68,5,4,70,68,5,4,Yes,To Be Updated,To Be Updated,To Be Updated,To Be Updated,"6:34 PM 15th Jun,22",2022-06-15 18:34,8
-"JK Hospital, Bahadurgarh","Bahadurgarh,, Bahamnoli, Bahadurgarh, Haryana",No (0),0,0,0,0,0,0,0,0,To Be Updated,To Be Updated,To Be Updated,To Be Updated,To Be Updated,"11:42 AM 15th Jun,22",2022-06-15 11:42,8
-"Medicare Super Speciality Hospiatl &amp; Trauma Centre, Jhajjar City","Dadri road Jhajjar, Jhajjar, Haryana",Yes (50),15,23,12,3,15,23,12,3,Yes,To Be Updated,Yes,To Be Updated,Yes,"1:50 PM 3rd Mar,22",2022-03-03 13:50,8
-"Mission Hospital, Bahadurgarh","Near main Bus Stand & City Metro Station, Rohtak Rd, Bahadurgarh, Jhajjar ,Haryana",Yes (33),25,0,8,4,25,0,8,4,To Be Updated,No,Yes,Yes,No,"1:50 PM 3rd Mar,22",2022-03-03 13:50,8
-"Oscar Hospital, JJR city","Civil Road,Opp Civil Hospital, Jhajjar, Haryana",Yes (80),8,58,14,1,8,58,14,1,To Be Updated,To Be Updated,To Be Updated,To Be Updated,To Be Updated,"1:50 PM 3rd Mar,22",2022-03-03 13:50,8
-Oxymus Hospital,"Opposite Civil Hospital, Near Metro Pollar No. 876 Delhi Rohtak Road, Bahadurgarh",Yes (10),4,0,6,0,4,0,6,0,Yes,No,No,No,No,"5:15 PM 7th Jun,22",2022-06-07 17:15,8
-"Rana Hospital, Bahadurgarh","OPP. REST HOUSE,OLD BARAHI ROAD, BAHADURGARH",Yes (25),18,0,7,2,18,0,7,2,To Be Updated,To Be Updated,No,No,Yes,"5:15 PM 7th Jun,22",2022-06-07 17:15,8
-"RJ Super Speciality Hospital, B.garh","Delhi - Rohtak Rd, Near Rajesh Joon Office, Dalbir Nagar, Bahadurgarh, Haryana",Yes (17),10,5,2,1,10,5,2,1,Yes,No,Yes,Yes,Yes,"5:12 PM 7th Jun,22",2022-06-07 17:12,8
-RS GAUR GLOBAL MULTISPECIALITY HOSPITAL,"Jhajjar Road Netaji Subhash Vihar, Haryana",Yes (33),19,7,7,2,19,7,7,2,Yes,No,Yes,Yes,Yes,"1:50 PM 3rd Mar,22",2022-03-03 13:50,8
-"SDH, Bahadurgarh","Madhya Marg, Old Industrial Area, Bahadurgarh, Haryana",Yes (35),27,0,8,8,27,0,8,8,Yes,Yes,Yes,No,Yes,"1:50 PM 3rd Mar,22",2022-03-03 13:50,8
-"Shivam Hospital, B.garh","Line Par, Shastri Nagar, Netaji Nagar, Bahadurgarh, Haryana",Yes (51),30,15,6,1,30,15,6,1,Yes,No,Yes,Yes,Yes,"5:12 PM 7th Jun,22",2022-06-07 17:12,8
-"Swastik Hospital, Bahadurgarh","Jhajjar Rd, Shakti Nagar, Sakti Nagar, Bahadurgarh, Haryana",Yes (40),26,4,10,2,26,4,10,2,Yes,No,Yes,Yes,Yes,"1:50 PM 3rd Mar,22",2022-03-03 13:50,8
-World College Of Medical Sciences And Hospital,"Jhajjar Sampla Road, Gurwar, Jhajjar, Haryana",Yes (250),90,135,25,4,90,135,25,4,Yes,Yes,Yes,Yes,Yes,"5:12 PM 7th Jun,22",2022-06-07 17:12,8
+Aashirwad Hospital,101 Devi Murti Colony Panipat,Yes (9),2,0,7,1,2,0,7,1,Yes,No,Yes,Yes,Yes,"9:59 AM 4th Aug,22",2022-08-04 09:59,17
+Aayushmaan Bhav Hospital,"GT Road Sewah, Near Police Line Panipat",Yes (15),5,4,6,2,5,4,6,2,Yes,No,Yes,Yes,Yes,"9:57 AM 4th Aug,22",2022-08-04 09:57,17
+APEX HOSPITAL &amp; TRAUMA CENTRE,SANOLI ROAD BABAIL NAKA,Yes (35),9,0,26,2,9,0,26,2,Yes,No,Yes,Yes,Yes,"9:58 AM 4th Aug,22",2022-08-04 09:58,17
+CHC Dadlana,"VPO Dadlana, Panipat",Yes (8),0,8,0,0,0,8,0,0,No,No,No,No,Yes,"9:57 AM 4th Aug,22",2022-08-04 09:57,17
+CHC Khotpura,VPO Khotpura Panipat,Yes (9),0,9,0,0,0,9,0,0,No,No,No,No,No,"9:58 AM 4th Aug,22",2022-08-04 09:58,17
+Chhabra Hospital,A-1 Narain Singh Park,Yes (11),6,0,5,1,6,0,5,1,Yes,No,Yes,Yes,Yes,"10:00 AM 4th Aug,22",2022-08-04 10:00,17
+Civil Hospital panipat,Civil Hospital GT Road Panipat,Yes (104),74,20,10,4,74,20,10,4,Yes,Yes,Yes,Yes,Yes,"9:57 AM 4th Aug,22",2022-08-04 09:57,17
+Cygnus Hospital panipat,Cygnus Hospital Near Devi Mndir Panipat,Yes (17),12,0,5,4,12,0,5,4,Yes,No,Yes,Yes,Yes,"9:57 AM 4th Aug,22",2022-08-04 09:57,17
+GALAXY HOSPITAL,ASSAND ROAD PANIPAT,Yes (15),7,0,8,2,7,0,8,2,Yes,No,Yes,Yes,Yes,"9:58 AM 4th Aug,22",2022-08-04 09:58,17
+Hyderabadi General Hospital &amp; Nursing Home,"Sanoli Road, Near Sanjay, Chowk, Panipat",Yes (10),0,0,10,2,0,0,10,2,Yes,No,Yes,Yes,Yes,"9:59 AM 4th Aug,22",2022-08-04 09:59,17
+IBM HOSPITAL &amp; TRAUMA CENTRE,NEAR BHIM GODA MANDIR SANOLI ROAD,Yes (24),12,0,12,2,12,0,12,2,Yes,No,Yes,Yes,Yes,"9:58 AM 4th Aug,22",2022-08-04 09:58,17
+LHDM &amp; Prem Hospital,Prem Hospital Opp. Bus Stand Panipat,Yes (80),71,0,9,6,71,0,9,6,Yes,Yes,Yes,Yes,Yes,"9:57 AM 4th Aug,22",2022-08-04 09:57,17
+MAX PLUS HOSPITAL,NEAR MALIK PETROL PUMP SANOLI ROAD,Yes (15),8,0,7,3,8,0,7,3,Yes,No,Yes,Yes,Yes,"9:58 AM 4th Aug,22",2022-08-04 09:58,17
+NC Medical College,NC Medical Colllage Israna,Yes (530),42,483,5,4,42,483,5,4,Yes,No,Yes,Yes,Yes,"9:57 AM 4th Aug,22",2022-08-04 09:57,17
+Park Hospital GT road panipat,"GT Road Sewah, Paniapt",Yes (82),52,14,16,2,52,14,16,2,Yes,No,Yes,Yes,Yes,"9:57 AM 4th Aug,22",2022-08-04 09:57,17
+Prime Hospital Health Leaders,"Opp. Gangapuri Road, Sanoli Road Panipat",Yes (20),14,2,4,4,14,2,4,4,Yes,No,Yes,Yes,Yes,"9:59 AM 4th Aug,22",2022-08-04 09:59,17
+Rainbow Hospital,152-R Model Town Panipat,Yes (9),6,0,3,1,6,0,3,1,Yes,No,Yes,Yes,Yes,"9:59 AM 4th Aug,22",2022-08-04 09:59,17
+SDH Samalkha,G.T Road Samalkha,Yes (50),30,20,0,0,30,20,0,0,Yes,No,Yes,No,Yes,"9:57 AM 4th Aug,22",2022-08-04 09:57,17
+shobhit Hospital,"adjacent canara bank, tahsil camp",Yes (19),12,2,5,1,12,2,5,1,Yes,No,Yes,Yes,Yes,"9:58 AM 4th Aug,22",2022-08-04 09:58,17
+Shree Badri Das Hospital and ICU Care Centre,Assandh Road Panipat,Yes (11),8,0,3,1,8,0,3,1,Yes,No,Yes,Yes,Yes,"9:59 AM 4th Aug,22",2022-08-04 09:59,17
+Shree Balajee Multispeciality Hospital,Aggarsan Colony Assandh Road Panipat,Yes (10),4,0,6,2,4,0,6,2,Yes,Yes,Yes,Yes,Yes,"9:59 AM 4th Aug,22",2022-08-04 09:59,17
+Shubham Hospital,"202 New Sukhdev Nagar, Panipat",Yes (9),6,0,3,3,6,0,3,3,Yes,No,Yes,Yes,Yes,"10:00 AM 4th Aug,22",2022-08-04 10:00,17
 Ch Lekh Raj Multispeciality Hospital,Vill Gadhauli Yamuna Nagar,Yes (150),140,0,10,5,140,0,10,5,Yes,Yes,Yes,Yes,Yes,"2:46 PM 2nd Aug,22",2022-08-02 14:46,22
 CHC Bilaspur,CHC Bilaspur,Yes (23),8,15,0,0,8,17,0,0,Yes,No,Yes,No,Yes,"2:42 PM 2nd Aug,22",2022-08-02 14:42,22
 CHC Chhachharuli,CHC Chhachharuli,Yes (30),10,20,0,0,10,20,0,0,Yes,No,Yes,Yes,Yes,"2:42 PM 2nd Aug,22",2022-08-02 14:42,22
