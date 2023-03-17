@@ -1,4 +1,10 @@
 name,address,Availability_availability_of_beds,Availability_oxygen_beds,Availability_non_oxygen_beds,Availability_i_c_u_beds,Availability_ventilators,Allocated_oxygen_beds,Allocated_non_oxygen_beds,Allocated_i_c_u,Allocated_ventilators,Availability_availability_of_oxygen,Availability_antiviral_remdesivir_etc_,Availability_steroids,Availability_anticoagulant,Availability_antipyretic,updated_on_unparsed,updated_on,city
+GH Charkhi Dadri,"Near Loharu Chowk,Charkhi Dadri",Yes (51),35,15,1,11,35,15,1,11,Yes,Yes,Yes,Yes,Yes,"10:28 AM 2nd Aug,22",2022-08-02 10:28,3
+Jaihind Hospital,Charkhi Dadri,Yes (13),7,1,5,0,7,1,5,0,Yes,Yes,Yes,To Be Updated,To Be Updated,"10:30 AM 2nd Aug,22",2022-08-02 10:30,3
+Murari Lal Rasiwasia Ayurvedic Hospital,"Delhi Road,Near Janta College",Yes (70),60,10,0,0,60,10,0,0,Yes,Yes,Yes,Yes,Yes,"10:28 AM 2nd Aug,22",2022-08-02 10:28,3
+Oscar Hospital,Charkhi Dadri,Yes (20),0,0,20,0,0,0,20,0,To Be Updated,To Be Updated,To Be Updated,To Be Updated,To Be Updated,"10:30 AM 2nd Aug,22",2022-08-02 10:30,3
+Pradhan Medicare Centre,"Loharu Rd, Charkhi Dadri, Haryana",Yes (17),14,0,3,0,14,0,3,0,To Be Updated,Yes,Yes,Yes,Yes,"10:27 AM 2nd Aug,22",2022-08-02 10:27,3
+Sunflag Hospital,Charkhi Dadri,Yes (12),6,0,6,0,6,0,6,0,To Be Updated,To Be Updated,To Be Updated,To Be Updated,To Be Updated,"10:30 AM 2nd Aug,22",2022-08-02 10:30,3
 Ch Lekh Raj Multispeciality Hospital,Vill Gadhauli Yamuna Nagar,Yes (150),140,0,10,5,140,0,10,5,Yes,Yes,Yes,Yes,Yes,"2:46 PM 2nd Aug,22",2022-08-02 14:46,22
 CHC Bilaspur,CHC Bilaspur,Yes (23),8,15,0,0,8,17,0,0,Yes,No,Yes,No,Yes,"2:42 PM 2nd Aug,22",2022-08-02 14:42,22
 CHC Chhachharuli,CHC Chhachharuli,Yes (30),10,20,0,0,10,20,0,0,Yes,No,Yes,Yes,Yes,"2:42 PM 2nd Aug,22",2022-08-02 14:42,22
